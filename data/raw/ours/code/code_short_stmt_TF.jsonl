@@ -1,0 +1,517 @@
+{"final": "The following Snippet Sends SIGUSR1 to the current process using os.kill(os.getpid(), signal.SIGUSR1). Snippet: os.kill(os.getpid(), signal.SIGUSR1) .", "label": 1}
+{"final": "The following Snippet Sends SIGUSR1 to the parent process using os.kill(os.getpid(), signal.SIGUSR1). Snippet: os.kill(os.getpid(), signal.SIGUSR1) .", "label": 0}
+{"final": "The following Snippet Returns True for a non-empty myList only when every element equals myList[0]. Snippet: all(x == myList[0] for x in myList) .", "label": 1}
+{"final": "The following Snippet Returns True for a non-empty myList when at least one element differs from myList[0]. Snippet: all(x == myList[0] for x in myList) .", "label": 0}
+{"final": "The following Snippet Formats Python and Very Good to width 20 each, with space-colon-space between, not 20 spaces between them. Snippet: print('%*s : %*s' % (20, 'Python', 20, 'Very Good')) .", "label": 1}
+{"final": "The following Snippet Formats exactly 20 spaces between Python, the colon, and Very Good, with no field padding for the words at all. Snippet: print('%*s : %*s' % (20, 'Python', 20, 'Very Good')) .", "label": 0}
+{"final": "The following Snippet Sends SIGUSR1 to the current process using os.kill(os.getpid(), signal.SIGUSR1). Snippet: os.kill(os.getpid(), signal.SIGUSR1) .", "label": 1}
+{"final": "The following Snippet Sends SIGUSR1 to the parent process using os.kill(os.getpid(), signal.SIGUSR1). Snippet: os.kill(os.getpid(), signal.SIGUSR1) .", "label": 0}
+{"final": "The following Snippet Returns True for a non-empty myList only when every element equals myList[0]. Snippet: all(x == myList[0] for x in myList) .", "label": 1}
+{"final": "The following Snippet Returns True for a non-empty myList when at least one element differs from myList[0]. Snippet: all(x == myList[0] for x in myList) .", "label": 0}
+{"final": "The following Snippet Formats Python and Very Good to width 20 each, with space-colon-space between, not 20 spaces between them. Snippet: print('%*s : %*s' % (20, 'Python', 20, 'Very Good')) .", "label": 1}
+{"final": "The following Snippet Formats exactly 20 spaces between Python, the colon, and Very Good, with no field padding for the words at all. Snippet: print('%*s : %*s' % (20, 'Python', 20, 'Very Good')) .", "label": 0}
+{"final": "The following Snippet Creates a new dict res from kwargs, excluding entries whose value is None. Snippet: res = {k: v for k, v in list(kwargs.items()) if v is not None} .", "label": 1}
+{"final": "The following Snippet Mutates kwargs in place to drop keys that are None, leaving res unused. Snippet: res = {k: v for k, v in list(kwargs.items()) if v is not None} .", "label": 0}
+{"final": "The following Snippet Creates a new dict from kwargs, keeping only items whose value is not None, leaving kwargs unchanged. Snippet: res = dict((k, v) for k, v in kwargs.items() if v is not None) .", "label": 1}
+{"final": "The following Snippet Modifies kwargs in place to drop all falsy entries, removing values like None, 0, '', and False. Snippet: res = dict((k, v) for k, v in kwargs.items() if v is not None) .", "label": 0}
+{"final": "The following Snippet Sends SIGUSR1 to the current process using os.kill(os.getpid(), signal.SIGUSR1). Snippet: os.kill(os.getpid(), signal.SIGUSR1) .", "label": 1}
+{"final": "The following Snippet Sends SIGUSR1 to the parent process using os.kill(os.getpid(), signal.SIGUSR1). Snippet: os.kill(os.getpid(), signal.SIGUSR1) .", "label": 0}
+{"final": "The following Snippet Returns True for a non-empty myList only when every element equals myList[0]. Snippet: all(x == myList[0] for x in myList) .", "label": 1}
+{"final": "The following Snippet Returns True for a non-empty myList when at least one element differs from myList[0]. Snippet: all(x == myList[0] for x in myList) .", "label": 0}
+{"final": "The following Snippet Formats Python and Very Good to width 20 each, with space-colon-space between, not 20 spaces between them. Snippet: print('%*s : %*s' % (20, 'Python', 20, 'Very Good')) .", "label": 1}
+{"final": "The following Snippet Formats exactly 20 spaces between Python, the colon, and Very Good, with no field padding for the words at all. Snippet: print('%*s : %*s' % (20, 'Python', 20, 'Very Good')) .", "label": 0}
+{"final": "The following Snippet Creates a new dict res from kwargs, excluding entries whose value is None. Snippet: res = {k: v for k, v in list(kwargs.items()) if v is not None} .", "label": 1}
+{"final": "The following Snippet Mutates kwargs in place to drop keys that are None, leaving res unused. Snippet: res = {k: v for k, v in list(kwargs.items()) if v is not None} .", "label": 0}
+{"final": "The following Snippet Creates a new dict from kwargs, keeping only items whose value is not None, leaving kwargs unchanged. Snippet: res = dict((k, v) for k, v in kwargs.items() if v is not None) .", "label": 1}
+{"final": "The following Snippet Modifies kwargs in place to drop all falsy entries, removing values like None, 0, '', and False. Snippet: res = dict((k, v) for k, v in kwargs.items() if v is not None) .", "label": 0}
+{"final": "The following Snippet Concatenates ['a','b','c'] without spaces, producing 'abc'. Snippet: \"\"\"\"\"\".join(['a', 'b', 'c']) .", "label": 1}
+{"final": "The following Snippet Concatenates ['a','b','c'] with spaces, producing 'a b c'. Snippet: \"\"\"\"\"\".join(['a', 'b', 'c']) .", "label": 0}
+{"final": "The following Snippet Builds a pandas Series of values common to s1 and s2 via set intersection, producing unique elements, with arbitrary order and a fresh index. Snippet: pd.Series(list(set(s1).intersection(set(s2)))) .", "label": 1}
+{"final": "The following Snippet Builds a pandas Series of all overlapping entries from s1 and s2, preserving original order and duplicates, and keeping source indexes intact and aligned. Snippet: pd.Series(list(set(s1).intersection(set(s2)))) .", "label": 0}
+{"final": "The following Snippet Sends the HTTP/1.0 200 OK status line to the client as part of the header section, terminating the line with \\r\\n. Snippet: client.send('HTTP/1.0 200 OK\\r\\n') .", "label": 1}
+{"final": "The following Snippet Sends the entire HTTP response body “200 OK” to the server and automatically finalizes the connection with \\r\\n. Snippet: client.send('HTTP/1.0 200 OK\\r\\n') .", "label": 0}
+{"final": "The following Snippet Parses the 'when' string in '%Y-%m-%d' format and assigns its date component as a date object to then. Snippet: then = datetime.datetime.strptime(when, '%Y-%m-%d').date() .", "label": 1}
+{"final": "The following Snippet Formats the current datetime as '%Y-%m-%d' and assigns that value as a string object to then. Snippet: then = datetime.datetime.strptime(when, '%Y-%m-%d').date() .", "label": 0}
+{"final": "The following Snippet Splits inputString on '\\n' and returns an array of lines. Snippet: inputString.split('\\n') .", "label": 1}
+{"final": "The following Snippet Splits inputString on all whitespace and returns an array of words. Snippet: inputString.split('\\n') .", "label": 0}
+{"final": "The following Snippet Splitting on '\\n' returns [' a ', ' b \\\\r', ' c '], keeping the carriage return in the middle part. Snippet: ' a \\n b \\r\\n c '.split('\\n') .", "label": 1}
+{"final": "The following Snippet Splitting on '\\n' returns [' a ', ' b ', ' c '], removing the carriage return from the middle part. Snippet: ' a \\n b \\r\\n c '.split('\\n') .", "label": 0}
+{"final": "The following Snippet Joins the string form of b's elements with ':' into one string. Snippet: \"\"\":\"\"\".join(str(x) for x in b) .", "label": 1}
+{"final": "The following Snippet Joins the string form of b's elements with ',' into one string. Snippet: \"\"\":\"\"\".join(str(x) for x in b) .", "label": 0}
+{"final": "The following Snippet It will not fetch the first Entry; it raises an error because get() cannot be used after a slice. Snippet: Entry.objects.filter()[:1].get() .", "label": 1}
+{"final": "The following Snippet It safely returns the first Entry in the table by limiting the queryset to one row and calling get(). Snippet: Entry.objects.filter()[:1].get() .", "label": 0}
+{"final": "The following Snippet Sends SIGUSR1 to the current process using os.kill(os.getpid(), signal.SIGUSR1). Snippet: os.kill(os.getpid(), signal.SIGUSR1) .", "label": 1}
+{"final": "The following Snippet Sends SIGUSR1 to the parent process using os.kill(os.getpid(), signal.SIGUSR1). Snippet: os.kill(os.getpid(), signal.SIGUSR1) .", "label": 0}
+{"final": "The following Snippet Returns True for a non-empty myList only when every element equals myList[0]. Snippet: all(x == myList[0] for x in myList) .", "label": 1}
+{"final": "The following Snippet Returns True for a non-empty myList when at least one element differs from myList[0]. Snippet: all(x == myList[0] for x in myList) .", "label": 0}
+{"final": "The following Snippet Formats Python and Very Good to width 20 each, with space-colon-space between, not 20 spaces between them. Snippet: print('%*s : %*s' % (20, 'Python', 20, 'Very Good')) .", "label": 1}
+{"final": "The following Snippet Formats exactly 20 spaces between Python, the colon, and Very Good, with no field padding for the words at all. Snippet: print('%*s : %*s' % (20, 'Python', 20, 'Very Good')) .", "label": 0}
+{"final": "The following Snippet Creates a new dict res from kwargs, excluding entries whose value is None. Snippet: res = {k: v for k, v in list(kwargs.items()) if v is not None} .", "label": 1}
+{"final": "The following Snippet Mutates kwargs in place to drop keys that are None, leaving res unused. Snippet: res = {k: v for k, v in list(kwargs.items()) if v is not None} .", "label": 0}
+{"final": "The following Snippet Creates a new dict from kwargs, keeping only items whose value is not None, leaving kwargs unchanged. Snippet: res = dict((k, v) for k, v in kwargs.items() if v is not None) .", "label": 1}
+{"final": "The following Snippet Modifies kwargs in place to drop all falsy entries, removing values like None, 0, '', and False. Snippet: res = dict((k, v) for k, v in kwargs.items() if v is not None) .", "label": 0}
+{"final": "The following Snippet Concatenates ['a','b','c'] without spaces, producing 'abc'. Snippet: \"\"\"\"\"\".join(['a', 'b', 'c']) .", "label": 1}
+{"final": "The following Snippet Concatenates ['a','b','c'] with spaces, producing 'a b c'. Snippet: \"\"\"\"\"\".join(['a', 'b', 'c']) .", "label": 0}
+{"final": "The following Snippet Builds a pandas Series of values common to s1 and s2 via set intersection, producing unique elements, with arbitrary order and a fresh index. Snippet: pd.Series(list(set(s1).intersection(set(s2)))) .", "label": 1}
+{"final": "The following Snippet Builds a pandas Series of all overlapping entries from s1 and s2, preserving original order and duplicates, and keeping source indexes intact and aligned. Snippet: pd.Series(list(set(s1).intersection(set(s2)))) .", "label": 0}
+{"final": "The following Snippet Sends the HTTP/1.0 200 OK status line to the client as part of the header section, terminating the line with \\r\\n. Snippet: client.send('HTTP/1.0 200 OK\\r\\n') .", "label": 1}
+{"final": "The following Snippet Sends the entire HTTP response body “200 OK” to the server and automatically finalizes the connection with \\r\\n. Snippet: client.send('HTTP/1.0 200 OK\\r\\n') .", "label": 0}
+{"final": "The following Snippet Parses the 'when' string in '%Y-%m-%d' format and assigns its date component as a date object to then. Snippet: then = datetime.datetime.strptime(when, '%Y-%m-%d').date() .", "label": 1}
+{"final": "The following Snippet Formats the current datetime as '%Y-%m-%d' and assigns that value as a string object to then. Snippet: then = datetime.datetime.strptime(when, '%Y-%m-%d').date() .", "label": 0}
+{"final": "The following Snippet Splits inputString on '\\n' and returns an array of lines. Snippet: inputString.split('\\n') .", "label": 1}
+{"final": "The following Snippet Splits inputString on all whitespace and returns an array of words. Snippet: inputString.split('\\n') .", "label": 0}
+{"final": "The following Snippet Splitting on '\\n' returns [' a ', ' b \\\\r', ' c '], keeping the carriage return in the middle part. Snippet: ' a \\n b \\r\\n c '.split('\\n') .", "label": 1}
+{"final": "The following Snippet Splitting on '\\n' returns [' a ', ' b ', ' c '], removing the carriage return from the middle part. Snippet: ' a \\n b \\r\\n c '.split('\\n') .", "label": 0}
+{"final": "The following Snippet Joins the string form of b's elements with ':' into one string. Snippet: \"\"\":\"\"\".join(str(x) for x in b) .", "label": 1}
+{"final": "The following Snippet Joins the string form of b's elements with ',' into one string. Snippet: \"\"\":\"\"\".join(str(x) for x in b) .", "label": 0}
+{"final": "The following Snippet It will not fetch the first Entry; it raises an error because get() cannot be used after a slice. Snippet: Entry.objects.filter()[:1].get() .", "label": 1}
+{"final": "The following Snippet It safely returns the first Entry in the table by limiting the queryset to one row and calling get(). Snippet: Entry.objects.filter()[:1].get() .", "label": 0}
+{"final": "The following Snippet Computes a 1D array of per-row sums by summing across columns. Snippet: a.sum(axis=1) .", "label": 1}
+{"final": "The following Snippet Computes a 1D array of per-column sums by summing across rows. Snippet: a.sum(axis=1) .", "label": 0}
+{"final": "The following Snippet Enables warnings with action 'always', so every warning is shown each time it occurs. Snippet: warnings.simplefilter('always') .", "label": 1}
+{"final": "The following Snippet Enables warnings with action 'always', so duplicate warnings are suppressed after first display. Snippet: warnings.simplefilter('always') .", "label": 0}
+{"final": "The following Snippet Concatenate items of list l with a space ' ' into one string and print the result. Snippet: print(' '.join(map(str, l))) .", "label": 1}
+{"final": "The following Snippet Concatenate items of list l with a comma ',' into one string and print the result. Snippet: print(' '.join(map(str, l))) .", "label": 0}
+{"final": "The following Snippet Runs hello.py with the argument htmlfilename.htm using python.exe as the interpreter. Snippet: subprocess.call(['python.exe', 'hello.py', 'htmlfilename.htm']) .", "label": 1}
+{"final": "The following Snippet Runs htmlfilename.htm with the argument hello.py using python.exe as the interpreter. Snippet: subprocess.call(['python.exe', 'hello.py', 'htmlfilename.htm']) .", "label": 0}
+{"final": "The following Snippet Parses '30/03/09 16:31:32.123' with the given format into a struct_time for 2009-03-30 16:31:32 in local time; the .123 fraction is parsed but not represented in the result. Snippet: time.strptime('30/03/09 16:31:32.123', '%d/%m/%y %H:%M:%S.%f') .", "label": 1}
+{"final": "The following Snippet Parses '30/03/09 16:31:32.123' and returns a timezone-aware datetime in UTC with microsecond=123, fully preserving the fractional seconds. Snippet: time.strptime('30/03/09 16:31:32.123', '%d/%m/%y %H:%M:%S.%f') .", "label": 0}
+{"final": "The following Snippet 56' becomes 1234.56 in my_float. Snippet: my_float = float(my_string.replace(',', '')) .", "label": 1}
+{"final": "The following Snippet 234,56' becomes 1234.56 when stored in my_float. Snippet: my_float = float(my_string.replace(',', '')) .", "label": 0}
+{"final": "The following Snippet It removes the thousands comma and converts the string to the float 123456.908. Snippet: float('123,456.908'.replace(',', '')) .", "label": 1}
+{"final": "The following Snippet It treats the comma as the decimal mark and converts the string to the float 123.456908. Snippet: float('123,456.908'.replace(',', '')) .", "label": 0}
+{"final": "The following Snippet Returns ['Words', ', ', 'words', ', ', 'words', '.', ''] since the capturing group (\\W+) includes the non-word separators in the result. Snippet: re.split('(\\\\W+)', 'Words, words, words.') .", "label": 1}
+{"final": "The following Snippet Returns ['Words', 'words', 'words'] since (\\W+) acts as a pure delimiter and excludes separators and any trailing empty field. Snippet: re.split('(\\\\W+)', 'Words, words, words.') .", "label": 0}
+{"final": "The following Snippet Opens Output.txt in append mode, creating it if absent, and stores the handle in file. Snippet: file = open('Output.txt', 'a') .", "label": 1}
+{"final": "The following Snippet Opens Output.txt in write mode, truncating it if present, and stores the handle in file. Snippet: file = open('Output.txt', 'a') .", "label": 0}
+{"final": "The following Snippet Downloads http://www.example.com/songs/mp3.mp3 over HTTP and saves it as mp3.mp3. Snippet: urllib.request.urlretrieve('http://www.example.com/songs/mp3.mp3', 'mp3.mp3') .", "label": 1}
+{"final": "The following Snippet Downloads http://www.example.com/songs/mp3.mp3 over HTTP and saves it as mp3.mp4. Snippet: urllib.request.urlretrieve('http://www.example.com/songs/mp3.mp3', 'mp3.mp3') .", "label": 0}
+{"final": "The following Snippet The code opens a binary HTTP stream from url, writes to file_name in chunks, and reports download progress using Content-Length. Snippet: u = urllib.request.urlopen(url)\nf = open(file_name, 'wb')\nmeta = u.info()\nfile_size = int(meta.getheaders('Content-Length')[0])\nprint(('Downloading: %s Bytes: %s' % (file_name, file_size)))\nfile_size_dl = 0\nblock_sz = 8192\nwhile True:\n    buffer = u.read(block_sz)\n    if (not buffer):\n        break\n    file_size_dl += len(buffer)\n    f.write(buffer)\n    status = ('%10d  [%3.2f%%]' % (file_size_dl, ((file_size_dl * 100.0) / file_size)))\n    status = (status + (chr(8) * (len(status) + 1)))\n    print(status, end=' ')\nf.close() .", "label": 1}
+{"final": "The following Snippet The code posts a payload to url, appends to file_name in text mode, and shows progress without needing a Content-Length. Snippet: u = urllib.request.urlopen(url)\nf = open(file_name, 'wb')\nmeta = u.info()\nfile_size = int(meta.getheaders('Content-Length')[0])\nprint(('Downloading: %s Bytes: %s' % (file_name, file_size)))\nfile_size_dl = 0\nblock_sz = 8192\nwhile True:\n    buffer = u.read(block_sz)\n    if (not buffer):\n        break\n    file_size_dl += len(buffer)\n    f.write(buffer)\n    status = ('%10d  [%3.2f%%]' % (file_size_dl, ((file_size_dl * 100.0) / file_size)))\n    status = (status + (chr(8) * (len(status) + 1)))\n    print(status, end=' ')\nf.close() .", "label": 0}
+{"final": "The following Snippet Issues an HTTP GET to url and stores the downloaded bytes in the Response object r, not yet saving to disk. Snippet: r = requests.get(url) .", "label": 1}
+{"final": "The following Snippet Issues an FTP GET to url and writes the file straight to disk, without creating any Response object r. Snippet: r = requests.get(url) .", "label": 0}
+{"final": "The following Snippet Streams an HTTP GET from url and writes the response data to a local file named 10MB, showing progress with tqdm. Snippet: response = requests.get(url, stream=True)\nwith open('10MB', 'wb') as handle:\n    for data in tqdm(response.iter_content()):\n        handle.write(data) .", "label": 1}
+{"final": "The following Snippet Ensures the download is exactly 10MB long by limiting bytes, then saves it under the server's filename instead of 10MB. Snippet: response = requests.get(url, stream=True)\nwith open('10MB', 'wb') as handle:\n    for data in tqdm(response.iter_content()):\n        handle.write(data) .", "label": 0}
+{"final": "The following Snippet Adds --version to parser with action=version that displays '%(prog)s 2.0' and exits the program. Snippet: parser.add_argument('--version', action='version', version='%(prog)s 2.0') .", "label": 1}
+{"final": "The following Snippet Adds --version to parser with action=store that assigns '%(prog)s 2.0' and continues running. Snippet: parser.add_argument('--version', action='version', version='%(prog)s 2.0') .", "label": 0}
+{"final": "The following Snippet Builds a new dict from d without the key 'c', leaving d unchanged. Snippet: {i: d[i] for i in d if i != 'c'} .", "label": 1}
+{"final": "The following Snippet Removes the key 'c' from d in place and returns None, modifying d. Snippet: {i: d[i] for i in d if i != 'c'} .", "label": 0}
+{"final": "The following Snippet Splits s on the literal space at most 4 times, returning up to 5 parts in left-to-right order. Snippet: s.split(' ', 4) .", "label": 1}
+{"final": "The following Snippet Splits s on any whitespace exactly 4 times, returning at most 4 parts in right-to-left order. Snippet: s.split(' ', 4) .", "label": 0}
+{"final": "The following Snippet Enables debug mode on the Flask application app by running app.run(debug=True). Snippet: app.run(debug=True) .", "label": 1}
+{"final": "The following Snippet Disables debug mode on the Flask application app by running app.run(debug=True). Snippet: app.run(debug=True) .", "label": 0}
+{"final": "The following Snippet Serializes mylist with pickle and writes it to save.txt opened in binary write mode. Snippet: pickle.dump(mylist, open('save.txt', 'wb')) .", "label": 1}
+{"final": "The following Snippet Appends the text version of mylist to save.txt opened in text append mode. Snippet: pickle.dump(mylist, open('save.txt', 'wb')) .", "label": 0}
+{"final": "The following Snippet Multiplies P (m x n) with T (a x n x c) by contracting axis 1 of each via tensordot, then swaps axes 0 and 1 to yield shape (a, m, c): out[i,j,k] = sum_l P[j,l]*T[i,l,k]. Snippet: scipy.tensordot(P, T, axes=[1, 1]).swapaxes(0, 1) .", "label": 1}
+{"final": "The following Snippet Multiplies P.T with T by contracting T’s last axis, then swaps axes 1 and 2 to yield shape (m, a, c): out[i,j,k] = sum_l P[l,j]*T[i,k,l]. Snippet: scipy.tensordot(P, T, axes=[1, 1]).swapaxes(0, 1) .", "label": 0}
+{"final": "The following Snippet Create 3d array of zeroes of size (3,3,3). Snippet: numpy.zeros((3, 3, 3)) .", "label": 1}
+{"final": "The following Snippet Create 3d array of ones of size (3,3,3). Snippet: numpy.zeros((3, 3, 3)) .", "label": 0}
+{"final": "The following Snippet Cuts off the last space-delimited token from content and rejoins the rest with single spaces. Snippet: \"\"\" \"\"\".join(content.split(' ')[:-1]) .", "label": 1}
+{"final": "The following Snippet Cuts off the last word from content while preserving all original spacing and multiple spaces. Snippet: \"\"\" \"\"\".join(content.split(' ')[:-1]) .", "label": 0}
+{"final": "The following Snippet Turns x into a 1D NumPy array (scalar -> length-1), by reshaping then taking the first row. Snippet: x = np.asarray(x).reshape(1, -1)[(0), :] .", "label": 1}
+{"final": "The following Snippet Turns x into a 2D column NumPy array and keeps scalars as 2D with their shape unchanged. Snippet: x = np.asarray(x).reshape(1, -1)[(0), :] .", "label": 0}
+{"final": "The following Snippet Sums all numbers in L, adding numbers and the contents of any immediate sublists. Snippet: sum(sum(i) if isinstance(i, list) else i for i in L) .", "label": 1}
+{"final": "The following Snippet Sums all numbers in L, adding numbers and the contents of sublists at any depth. Snippet: sum(sum(i) if isinstance(i, list) else i for i in L) .", "label": 0}
+{"final": "The following Snippet Converts the big-endian hex '470FC614' into a 32-bit IEEE 754 float value 36806.078125. Snippet: struct.unpack('!f', '470FC614'.decode('hex'))[0] .", "label": 1}
+{"final": "The following Snippet Converts the big-endian hex '470FC614' into a 64-bit IEEE 754 float value 36806.078125. Snippet: struct.unpack('!f', '470FC614'.decode('hex'))[0] .", "label": 0}
+{"final": "The following Snippet Updates my_dict in place by multiplying every current value by 2 for each key. Snippet: my_dict.update((x, y * 2) for x, y in list(my_dict.items())) .", "label": 1}
+{"final": "The following Snippet Builds a new dictionary that doubles each key but keeps all values the same. Snippet: my_dict.update((x, y * 2) for x, y in list(my_dict.items())) .", "label": 0}
+{"final": "The following Snippet Calls the system shell to execute sleep.sh and waits for it to finish, returning its exit status. Snippet: subprocess.call('sleep.sh', shell=True) .", "label": 1}
+{"final": "The following Snippet Directly executes sleep.sh with bash asynchronously, without a shell, and does not wait for it to finish. Snippet: subprocess.call('sleep.sh', shell=True) .", "label": 0}
+{"final": "The following Snippet Produces a single string by joining list l with \",\" as the delimiter. Snippet: \"\"\",\"\"\".join(l) .", "label": 1}
+{"final": "The following Snippet Produces a list by splitting string l with \",\" as the delimiter. Snippet: \"\"\",\"\"\".join(l) .", "label": 0}
+{"final": "The following Snippet Converts each item to str and joins with commas, storing the comma-separated string back in myList. Snippet: myList = ','.join(map(str, myList)) .", "label": 1}
+{"final": "The following Snippet Adds commas between items in place and keeps myList as a list of the original non-string elements. Snippet: myList = ','.join(map(str, myList)) .", "label": 0}
+{"final": "The following Snippet Reverses the list that contains 0 to 9, producing [9,8,7,6,5,4,3,2,1,0]. Snippet: list(reversed(list(range(10)))) .", "label": 1}
+{"final": "The following Snippet Reverses the list that contains 1 to 10, producing [10,9,8,7,6,5,4,3,2,1]. Snippet: list(reversed(list(range(10)))) .", "label": 0}
+{"final": "The following Snippet Removes the substring 'bag,' from 'lamp, bag, mirror' and prints 'lamp,  mirror'. Snippet: print('lamp, bag, mirror'.replace('bag,', '')) .", "label": 1}
+{"final": "The following Snippet Removes the substring 'bag,' from 'lamp, bag, mirror' and prints 'lamp, mirror'. Snippet: print('lamp, bag, mirror'.replace('bag,', '')) .", "label": 0}
+{"final": "The following Snippet Reverse the order of segments split by '.' in s only Snippet: \"\"\".\"\"\".join(s.split('.')[::-1]) .", "label": 1}
+{"final": "The following Snippet Reverse the characters of segments split by '.' in s Snippet: \"\"\".\"\"\".join(s.split('.')[::-1]) .", "label": 0}
+{"final": "The following Snippet 0 to fromtimestamp. Snippet: datetime.datetime.fromtimestamp(s).strftime('%Y-%m-%d %H:%M:%S.%f') .", "label": 1}
+{"final": "The following Snippet Parses 1236472051807 ms since epoch as UTC and formats it to '2009-03-08 00:27:31' with '%Y-%m-%d %H:%M:%S'. Snippet: time.strftime('%Y-%m-%d %H:%M:%S', time.gmtime(1236472051807 / 1000.0)) .", "label": 1}
+{"final": "The following Snippet Parses 1236472051807 ms since epoch as local time and formats it to '2009-03-08 00:27:31.807' with '%Y-%m-%d %H:%M:%S'. Snippet: time.strftime('%Y-%m-%d %H:%M:%S', time.gmtime(1236472051807 / 1000.0)) .", "label": 0}
+{"final": "The following Snippet Computes the calendar date exactly seven days before today’s date. Snippet: (datetime.datetime.now() - datetime.timedelta(days=7)).date() .", "label": 1}
+{"final": "The following Snippet Computes the calendar date exactly seven days after today’s date. Snippet: (datetime.datetime.now() - datetime.timedelta(days=7)).date() .", "label": 0}
+{"final": "The following Snippet Prints the sum of the elements at index column from each sublist in data. Snippet: print(sum(row[column] for row in data)) .", "label": 1}
+{"final": "The following Snippet Prints the sum of all elements of each sublist in data, ignoring the column. Snippet: print(sum(row[column] for row in data)) .", "label": 0}
+{"final": "The following Snippet Returns a list where each item is the sum of the corresponding column in array. Snippet: [sum(row[i] for row in array) for i in range(len(array[0]))] .", "label": 1}
+{"final": "The following Snippet Returns a list where each item is the sum of the corresponding row in array. Snippet: [sum(row[i] for row in array) for i in range(len(array[0]))] .", "label": 0}
+{"final": "The following Snippet Encodes 'your string' to Base64 by first UTF-8 encoding to bytes; returns the Base64 result as bytes. Snippet: base64.b64encode(bytes('your string', 'utf-8')) .", "label": 1}
+{"final": "The following Snippet Decodes Base64 text 'your string' into UTF-8 and returns the decoded result as a Python str. Snippet: base64.b64encode(bytes('your string', 'utf-8')) .", "label": 0}
+{"final": "The following Snippet Builds a new dict where each key maps to a list of that key’s values across dicts, using keys from dicts[0]. Snippet: dict((k, [d[k] for d in dicts]) for k in dicts[0]) .", "label": 1}
+{"final": "The following Snippet Builds a single dict by overwriting keys so each key maps to the last dictionary’s value in dicts. Snippet: dict((k, [d[k] for d in dicts]) for k in dicts[0]) .", "label": 0}
+{"final": "The following Snippet Creates one dictionary where each key k from dicts[0] maps to a list of that key’s values collected from every dictionary in dicts, raising a KeyError if any dictionary lacks the key. Snippet: {k: [d[k] for d in dicts] for k in dicts[0]} .", "label": 1}
+{"final": "The following Snippet Creates one dictionary that includes every unique key appearing anywhere at all in dicts and concatenates missing entries by skipping them, defaulting absent keys to None without raising any error whatsoever. Snippet: {k: [d[k] for d in dicts] for k in dicts[0]} .", "label": 0}
+{"final": "The following Snippet Accesses the query string parameter myParam from request.args and raises KeyError if it is missing. Snippet: request.args['myParam'] .", "label": 1}
+{"final": "The following Snippet Reads a JSON body field myParam from the request and returns None by default when it is missing. Snippet: request.args['myParam'] .", "label": 0}
+{"final": "The following Snippet Builds a list of values from mylist that appear more than once, including each such value only once. Snippet: [k for k, v in list(Counter(mylist).items()) if v > 1] .", "label": 1}
+{"final": "The following Snippet Builds a list of all repeated entries from mylist, preserving duplicates multiple times and matching the original order. Snippet: [k for k, v in list(Counter(mylist).items()) if v > 1] .", "label": 0}
+{"final": "The following Snippet Inserts the 'apps' directory relative to __file__ into sys.path at index 1 for Python imports. Snippet: sys.path.insert(1, os.path.join(os.path.dirname(__file__), 'apps')) .", "label": 1}
+{"final": "The following Snippet Inserts the 'apps' directory into __file__ itself, changing the file path rather than sys.path. Snippet: sys.path.insert(1, os.path.join(os.path.dirname(__file__), 'apps')) .", "label": 0}
+{"final": "The following Snippet Adds this file's sibling directory 'subdir' to sys.path, enabling imports from that folder. Snippet: sys.path.append(os.path.join(os.path.dirname(__file__), 'subdir')) .", "label": 1}
+{"final": "The following Snippet Sets sys.path equal to just 'subdir', disabling imports from the rest of the search path. Snippet: sys.path.append(os.path.join(os.path.dirname(__file__), 'subdir')) .", "label": 0}
+{"final": "The following Snippet Executes an INSERT into present with 'test2', a SQL NULL (converted from Python None), and 10 as the three values. Snippet: db.execute(\"INSERT INTO present VALUES('test2', ?, 10)\", (None,)) .", "label": 1}
+{"final": "The following Snippet Executes an INSERT into present with 'test2', the literal string 'None', and 10 as the three values. Snippet: db.execute(\"INSERT INTO present VALUES('test2', ?, 10)\", (None,)) .", "label": 0}
+{"final": "The following Snippet Produces a flat list by visiting each menuitem and collecting every image within it, flattening one nesting level. Snippet: [image for menuitem in list_of_menuitems for image in menuitem] .", "label": 1}
+{"final": "The following Snippet Produces a list of sublists, one per menuitem, keeping the nested structure intact without any flattening at all. Snippet: [image for menuitem in list_of_menuitems for image in menuitem] .", "label": 0}
+{"final": "The following Snippet Append elements from set b to list a. Snippet: a.extend(b) .", "label": 1}
+{"final": "The following Snippet Append set b as an element to list a. Snippet: a.extend(b) .", "label": 0}
+{"final": "The following Snippet Appends each element from b to a in place by materializing b as a list; no new list is returned and a is modified. Snippet: a.extend(list(b)) .", "label": 1}
+{"final": "The following Snippet Creates and returns a new list containing the items of a then b as one element; a remains unchanged and unmodified. Snippet: a.extend(list(b)) .", "label": 0}
+{"final": "The following Snippet Writes only df's values to C:\\data\\np.txt as plain text integers via numpy, omitting headers and index. Snippet: np.savetxt('c:\\\\data\\\\np.txt', df.values, fmt='%d') .", "label": 1}
+{"final": "The following Snippet Appends df with headers and index to C:\\data\\np.txt as a comma-separated CSV file, keeping floats as is. Snippet: np.savetxt('c:\\\\data\\\\np.txt', df.values, fmt='%d') .", "label": 0}
+{"final": "The following Snippet Writes the contents of DataFrame df to 'c:\\\\data\\\\pandas.txt' as space-separated text, appending, without header or index. Snippet: df.to_csv('c:\\\\data\\\\pandas.txt', header=None, index=None, sep=' ', mode='a') .", "label": 1}
+{"final": "The following Snippet Writes the contents of DataFrame df to 'c:\\\\data\\\\pandas.txt' by overwriting as comma-separated CSV, including header and index. Snippet: df.to_csv('c:\\\\data\\\\pandas.txt', header=None, index=None, sep=' ', mode='a') .", "label": 0}
+{"final": "The following Snippet Prints the portion of x before the final '-' character. Snippet: print(x.rpartition('-')[0]) .", "label": 1}
+{"final": "The following Snippet Prints the portion of x after the final '-' character. Snippet: print(x.rpartition('-')[0]) .", "label": 0}
+{"final": "The following Snippet It prints the substring before the last '-' in x, or x unchanged if '-' is absent. Snippet: print(x.rsplit('-', 1)[0]) .", "label": 1}
+{"final": "The following Snippet It prints the substring after the first '-' in x, or an empty string if '-' is absent. Snippet: print(x.rsplit('-', 1)[0]) .", "label": 0}
+{"final": "The following Snippet This command uploads a text file to the current FTP directory using ASCII mode via storlines. Snippet: ftp.storlines('STOR ' + filename, open(filename, 'r')) .", "label": 1}
+{"final": "The following Snippet This command uploads a binary file to the current FTP directory using binary mode via storbinary. Snippet: ftp.storlines('STOR ' + filename, open(filename, 'r')) .", "label": 0}
+{"final": "The following Snippet Adds '1' to the hidden element with id 'XYZ' by executing JS that concatenates '1' to its value via Selenium. Snippet: browser.execute_script(\"document.getElementById('XYZ').value+='1'\") .", "label": 1}
+{"final": "The following Snippet Adds 1 to the hidden element with id 'XYZ' by performing a numeric increment of its value without using JavaScript. Snippet: browser.execute_script(\"document.getElementById('XYZ').value+='1'\") .", "label": 0}
+{"final": "The following Snippet create array containing the maximums of respective elements of [2, 3, 4] and [1, 5, 2] Snippet: np.maximum([2, 3, 4], [1, 5, 2]) .", "label": 1}
+{"final": "The following Snippet create array containing the minimums of respective elements of [2, 3, 4] and [1, 5, 2] Snippet: np.maximum([2, 3, 4], [1, 5, 2]) .", "label": 0}
+{"final": "The following Snippet Prints l with the first three elements moved to the end; l itself is unchanged. Snippet: print(l[3:] + l[:3]) .", "label": 1}
+{"final": "The following Snippet Prints l and moves the first three elements to the end of l, changing l itself. Snippet: print(l[3:] + l[:3]) .", "label": 0}
+{"final": "The following Snippet Iterates over entries in '.' and, for each item that is a regular file, does nothing in the loop body (a placeholder no-op). Snippet: for fn in os.listdir('.'):\n    if os.path.isfile(fn):\n        pass .", "label": 1}
+{"final": "The following Snippet Iterates recursively under '.' and, for each item that is a directory, does nothing in the loop body (a placeholder no-op). Snippet: for fn in os.listdir('.'):\n    if os.path.isfile(fn):\n        pass .", "label": 0}
+{"final": "The following Snippet Recursively iterates through source with os.walk, looping over every file name found in each directory level. Snippet: for (root, dirs, filenames) in os.walk(source):\n    for f in filenames:\n        pass .", "label": 1}
+{"final": "The following Snippet Iterates only the top-level of source and loops over folder names, not files, without any recursion. Snippet: for (root, dirs, filenames) in os.walk(source):\n    for f in filenames:\n        pass .", "label": 0}
+{"final": "The following Snippet Creates a list of 10,000 pseudorandom integers uniformly drawn from 0 to 999. Snippet: [int(1000 * random.random()) for i in range(10000)] .", "label": 1}
+{"final": "The following Snippet Creates a list of 10,000 pseudorandom integers uniformly drawn from 1 to 1000. Snippet: [int(1000 * random.random()) for i in range(10000)] .", "label": 0}
+{"final": "The following Snippet Google App Engine execute GQL query 'SELECT * FROM Schedule WHERE station = $1' with parameter foo.key(). Snippet: db.GqlQuery('SELECT * FROM Schedule WHERE station = $1', foo.key()) .", "label": 1}
+{"final": "The following Snippet Google App Engine execute GQL query 'SELECT * FROM Schedule WHERE station = $1' with parameter foo.id(). Snippet: db.GqlQuery('SELECT * FROM Schedule WHERE station = $1', foo.key()) .", "label": 0}
+{"final": "The following Snippet Produces a boolean Series marking entries in df.b that begin with 'f' using the '^f' regular expression. Snippet: df.b.str.contains('^f') .", "label": 1}
+{"final": "The following Snippet Directly filters df and matches any 'f' anywhere in b, since '^f' means an 'f' at any position. Snippet: df.b.str.contains('^f') .", "label": 0}
+{"final": "The following Snippet Prints tab as a table: rows separated by '\\n' and columns separated by '\\t', after converting all cells to strings. Snippet: print('\\n'.join('\\t'.join(str(col) for col in row) for row in tab)) .", "label": 1}
+{"final": "The following Snippet Prints tab as a table: columns separated by '\\n' and rows separated by '\\t', without converting the values to strings. Snippet: print('\\n'.join('\\t'.join(str(col) for col in row) for row in tab)) .", "label": 0}
+{"final": "The following Snippet Sets B and C as a multi-index, drops any rows whose (B, C) pair appears in tuples (errors ignored), then resets the index to columns. Snippet: df.set_index(list('BC')).drop(tuples, errors='ignore').reset_index() .", "label": 1}
+{"final": "The following Snippet Drops the columns B and C named in tuples, keeps only rows with those pairs present, and leaves the index as it was without resetting. Snippet: df.set_index(list('BC')).drop(tuples, errors='ignore').reset_index() .", "label": 0}
+{"final": "The following Snippet Formats self.goals and self.penalties as decimal integers into the string '(<goals> goals, $<penalties>)' using str.format with {:d}. Snippet: \"\"\"({:d} goals, ${:d})\"\"\".format(self.goals, self.penalties) .", "label": 1}
+{"final": "The following Snippet Formats self.penalties and self.goals as plain text into the string '(<goals> goals, $<penalties>)' using an f-string and no {:d} integer specifiers. Snippet: \"\"\"({:d} goals, ${:d})\"\"\".format(self.goals, self.penalties) .", "label": 0}
+{"final": "The following Snippet Formats \"({} goals, ${})\" with goals = self.goals and penalties = self.penalties, yielding a string like \"(5 goals, $2)\". Snippet: \"\"\"({} goals, ${})\"\"\".format(self.goals, self.penalties) .", "label": 1}
+{"final": "The following Snippet Formats \"({} goals, ${})\" with goals = self.penalties and penalties = self.goals, yielding a string like \"($5, 2 goals)\". Snippet: \"\"\"({} goals, ${})\"\"\".format(self.goals, self.penalties) .", "label": 0}
+{"final": "The following Snippet Uses str.format(self) so {0.goals} maps to self.goals and {0.penalties} maps to self.penalties, with '$' just a literal, producing like \"(12 goals, $3)\". Snippet: \"\"\"({0.goals} goals, ${0.penalties})\"\"\".format(self) .", "label": 1}
+{"final": "The following Snippet Uses f-string rules so {0.goals} is invalid and '$' applies currency formatting, producing text like \"(self.goals goals, $self.penalties)\". Snippet: \"\"\"({0.goals} goals, ${0.penalties})\"\"\".format(self) .", "label": 0}
+{"final": "The following Snippet Concatenate each sublist’s elements in L as strings and convert the result to an integer, yielding a list of integers. Snippet: [int(''.join(str(d) for d in x)) for x in L] .", "label": 1}
+{"final": "The following Snippet Convert each sublist in L to the sum of its digits as an integer, yielding the final list of integers. Snippet: [int(''.join(str(d) for d in x)) for x in L] .", "label": 0}
+{"final": "The following Snippet Writes the elements of the list lines joined by the newline character '\\n' into the file object myfile. Snippet: myfile.write('\\n'.join(lines)) .", "label": 1}
+{"final": "The following Snippet Reads the file object myfile and splits its content by the newline character '\\n' into the list lines. Snippet: myfile.write('\\n'.join(lines)) .", "label": 0}
+{"final": "The following Snippet It removes any items containing 'X' or 'N' and returns ['AAT', 'TTA']. Snippet: [x for x in ['AAT', 'XAC', 'ANT', 'TTA'] if 'X' not in x and 'N' not in x] .", "label": 1}
+{"final": "The following Snippet It removes any items lacking 'X' or 'N' and returns ['XAC', 'ANT']. Snippet: [x for x in ['AAT', 'XAC', 'ANT', 'TTA'] if 'X' not in x and 'N' not in x] .", "label": 0}
+{"final": "The following Snippet Collapses consecutive duplicate words using regex (e.g., 'go go go') to a single 'go' via a backreference. Snippet: text = re.sub('\\\\b(\\\\w+)( \\\\1\\\\b)+', '\\\\1', text) .", "label": 1}
+{"final": "The following Snippet Eliminates every duplicate word using regex across the text, even when nonadjacent or separated by punctuation. Snippet: text = re.sub('\\\\b(\\\\w+)( \\\\1\\\\b)+', '\\\\1', text) .", "label": 0}
+{"final": "The following Snippet Casts the DataFrame to bool and sums across columns, yielding the count of non-zero values in each row. Snippet: df.astype(bool).sum(axis=1) .", "label": 1}
+{"final": "The following Snippet Casts the DataFrame to bool and sums down rows, yielding the count of non-zero values in each column. Snippet: df.astype(bool).sum(axis=1) .", "label": 0}
+{"final": "The following Snippet It finds a match for '\\AcroTray.exe' in 'C:\\SomeDir\\AcroTray.exe' because the backslash is not preceded by 'Distillr'. Snippet: re.search('(?<!Distillr)\\\\\\\\AcroTray\\\\.exe', 'C:\\\\SomeDir\\\\AcroTray.exe') .", "label": 1}
+{"final": "The following Snippet It finds no match for '\\AcroTray.exe' in 'C:\\SomeDir\\AcroTray.exe' because the lookbehind fails: it is preceded by 'Distillr'. Snippet: re.search('(?<!Distillr)\\\\\\\\AcroTray\\\\.exe', 'C:\\\\SomeDir\\\\AcroTray.exe') .", "label": 0}
+{"final": "The following Snippet Splits 'QH QD JC KD JS' on whitespace into ['QH', 'QD', 'JC', 'KD', 'JS']. Snippet: \"\"\"QH QD JC KD JS\"\"\".split() .", "label": 1}
+{"final": "The following Snippet Splits 'QH QD JC KD JS' on whitespace into ['QH QD JC KD JS']. Snippet: \"\"\"QH QD JC KD JS\"\"\".split() .", "label": 0}
+{"final": "The following Snippet Searches the XML string line for the first greedy '>.*<' match and prints the matched substring. Snippet: print(re.search('>.*<', line).group(0)) .", "label": 1}
+{"final": "The following Snippet Searches the XML string line for all non-greedy '>.*?<' matches and prints a list of them. Snippet: print(re.search('>.*<', line).group(0)) .", "label": 0}
+{"final": "The following Snippet Opens the file named filename in write mode, truncates its contents to empty, and then closes it. Snippet: open(filename, 'w').close() .", "label": 1}
+{"final": "The following Snippet Opens the file named filename in append mode, preserves all existing contents, and then closes it. Snippet: open(filename, 'w').close() .", "label": 0}
+{"final": "The following Snippet Converts a string into a datetime using the exact format '%Y-%m-%d %H:%M:%S.%f'. Snippet: datetime.datetime.strptime(string_date, '%Y-%m-%d %H:%M:%S.%f') .", "label": 1}
+{"final": "The following Snippet Converts a datetime into a string using the exact format '%Y-%m-%d %H:%M:%S.%f'. Snippet: datetime.datetime.strptime(string_date, '%Y-%m-%d %H:%M:%S.%f') .", "label": 0}
+{"final": "The following Snippet Finds all indices of sublists in thelist whose first element is exactly the string '332'. Snippet: [index for index, item in enumerate(thelist) if item[0] == '332'] .", "label": 1}
+{"final": "The following Snippet Finds the single index of the first sublist where the first element equals the number 332. Snippet: [index for index, item in enumerate(thelist) if item[0] == '332'] .", "label": 0}
+{"final": "The following Snippet Lowercases text, removes every non-alphanumeric character while preserving whitespace, then trims leading and trailing whitespace. Snippet: re.sub('[^\\\\sa-zA-Z0-9]', '', text).lower().strip() .", "label": 1}
+{"final": "The following Snippet Lowercases text, removes every non-alphanumeric character while preserving only spaces, and collapses internal spaces to one. Snippet: re.sub('[^\\\\sa-zA-Z0-9]', '', text).lower().strip() .", "label": 0}
+{"final": "The following Snippet Remove all non-alphanumeric characters except whitespace, convert to lowercase, and strip leading and trailing whitespace. Snippet: re.sub('(?!\\\\s)[\\\\W_]', '', text).lower().strip() .", "label": 1}
+{"final": "The following Snippet Remove all non-alphanumeric characters including spaces, convert to lowercase, and keep leading and trailing whitespace. Snippet: re.sub('(?!\\\\s)[\\\\W_]', '', text).lower().strip() .", "label": 0}
+{"final": "The following Snippet Plots y versus x and sets the line’s label to 'H₂O' using the Unicode subscript ₂, so the '2' is rendered as a subscript if shown in the legend. Snippet: plt.plot(x, y, label='H\\u2082O') .", "label": 1}
+{"final": "The following Snippet Plots y versus x and changes the x and y axis labels to 'H₂O' with a subscripted 2, because the label parameter alters axis titles rather than the legend. Snippet: plt.plot(x, y, label='H\\u2082O') .", "label": 0}
+{"final": "The following Snippet Sets the plotted line for x versus y to have the legend label H₂O with the 2 rendered as a subscript via Matplotlib mathtext. Snippet: plt.plot(x, y, label='$H_2O$') .", "label": 1}
+{"final": "The following Snippet Sets the x and y axis titles to H₂O and renders both 2 and 0 as subscripts in the label, rather than labeling the plotted line. Snippet: plt.plot(x, y, label='$H_2O$') .", "label": 0}
+{"final": "The following Snippet Loop over mylist, including sublists whose length equals 3. Snippet: [x for x in mylist if len(x) == 3] .", "label": 1}
+{"final": "The following Snippet Loop over mylist, including sublists whose sum equals 3. Snippet: [x for x in mylist if len(x) == 3] .", "label": 0}
+{"final": "The following Snippet Initializes lst as a list of 100 distinct, newly constructed Object() instances. Snippet: lst = [Object() for _ in range(100)] .", "label": 1}
+{"final": "The following Snippet Initializes lst as a list repeating the same single Object() instance 100 times. Snippet: lst = [Object() for _ in range(100)] .", "label": 0}
+{"final": "The following Snippet Creates list lst with 100 distinct new Object instances. Snippet: lst = [Object() for i in range(100)] .", "label": 1}
+{"final": "The following Snippet Creates list lst with one Object reused 100 times. Snippet: lst = [Object() for i in range(100)] .", "label": 0}
+{"final": "The following Snippet Retrieves the href attribute value from the first anchor descendant of an element whose CSS class is 'someclass'. Snippet: self.driver.find_element_by_css_selector('.someclass a').get_attribute('href') .", "label": 1}
+{"final": "The following Snippet Retrieves the text content from a direct child anchor and returns all matching anchors under elements whose CSS class is 'someclass'. Snippet: self.driver.find_element_by_css_selector('.someclass a').get_attribute('href') .", "label": 0}
+{"final": "The following Snippet Performs an inner join of df1 with df2 on 'Date_Time', keeping only matching rows and combining their columns in both dataframes. Snippet: df1.merge(df2, on='Date_Time') .", "label": 1}
+{"final": "The following Snippet Performs a left join of df1 with df2 on 'Date_Time', keeping all df1 rows even without matches and combining their columns. Snippet: df1.merge(df2, on='Date_Time') .", "label": 0}
+{"final": "The following Snippet Uses the %s operator to embed the variable str1 as the first placeholder and the literal 'geo.tif' as the second. Snippet: 'first string is: %s, second one is: %s' % (str1, 'geo.tif') .", "label": 1}
+{"final": "The following Snippet Uses the %s operator to embed the literal 'geo.tif' in the first placeholder and prints str1 second, ignoring tuple order. Snippet: 'first string is: %s, second one is: %s' % (str1, 'geo.tif') .", "label": 0}
+{"final": "The following Snippet Returns ['2.MATCHES', 'STRING'] by splitting on '$$TEXT$$' and stripping whitespace. Snippet: [x.strip() for x in '2.MATCHES $$TEXT$$ STRING'.split('$$TEXT$$')] .", "label": 1}
+{"final": "The following Snippet Returns ['2.MATCHES ', ' STRING'] by splitting on spaces and keeping whitespace. Snippet: [x.strip() for x in '2.MATCHES $$TEXT$$ STRING'.split('$$TEXT$$')] .", "label": 0}
+{"final": "The following Snippet Checks if the path in variable 'directory' exists and uses os.makedirs to create it only if missing. Snippet: if (not os.path.exists(directory)):\n    os.makedirs(directory) .", "label": 1}
+{"final": "The following Snippet Unconditionally uses os.makedirs to recreate the path in 'directory', even when it already exists. Snippet: if (not os.path.exists(directory)):\n    os.makedirs(directory) .", "label": 0}
+{"final": "The following Snippet Creates the directory, and on OSError re-raises only if the path is not already an existing directory. Snippet: try:\n    os.makedirs(path)\nexcept OSError:\n    if (not os.path.isdir(path)):\n        raise .", "label": 1}
+{"final": "The following Snippet Creates the directory, and on OSError quietly ignores errors even when the path is a non-directory file. Snippet: try:\n    os.makedirs(path)\nexcept OSError:\n    if (not os.path.isdir(path)):\n        raise .", "label": 0}
+{"final": "The following Snippet Ensures the directory at path exists, creating it and any missing parents when needed. Snippet: distutils.dir_util.mkpath(path) .", "label": 1}
+{"final": "The following Snippet Fails if the directory at path exists and will not create any missing parent folders. Snippet: distutils.dir_util.mkpath(path) .", "label": 0}
+{"final": "The following Snippet Attempts to create the directory tree at path, and only suppresses the OSError with errno.EEXIST (meaning it already exists), re-raising any other error. Snippet: try:\n    os.makedirs(path)\nexcept OSError as exception:\n    if (exception.errno != errno.EEXIST):\n        raise .", "label": 1}
+{"final": "The following Snippet Checks for existence first and verifies path is a directory before creation, and suppresses non-EEXIST errors instead of re-raising them. Snippet: try:\n    os.makedirs(path)\nexcept OSError as exception:\n    if (exception.errno != errno.EEXIST):\n        raise .", "label": 0}
+{"final": "The following Snippet Replaces only the standalone word H3 with H1 in the string text using word boundaries. Snippet: re.sub('\\\\bH3\\\\b', 'H1', text) .", "label": 1}
+{"final": "The following Snippet Replaces every H3 substring, even inside larger words, with H1 across the string text. Snippet: re.sub('\\\\bH3\\\\b', 'H1', text) .", "label": 0}
+{"final": "The following Snippet Substitutes all non-digits in 'aas30dsa20' with '', resulting in '3020'. Snippet: re.sub('\\\\D', '', 'aas30dsa20') .", "label": 1}
+{"final": "The following Snippet Substitutes all digits in 'aas30dsa20' with '', resulting in 'aasdsa'. Snippet: re.sub('\\\\D', '', 'aas30dsa20') .", "label": 0}
+{"final": "The following Snippet Extracts only the digits from 'aas30dsa20' and returns '3020' via a comprehension. Snippet: \"\"\"\"\"\".join([x for x in 'aas30dsa20' if x.isdigit()]) .", "label": 1}
+{"final": "The following Snippet Uses a lambda to filter digits from 'aas30dsa20' and returns the list [3, 0, 2, 0]. Snippet: \"\"\"\"\"\".join([x for x in 'aas30dsa20' if x.isdigit()]) .", "label": 0}
+{"final": "The following Snippet Finds the first <name> tag in soup and prints its text content. Snippet: print(soup.find('name').string) .", "label": 1}
+{"final": "The following Snippet Finds all <name> tags in soup and prints them as a list. Snippet: print(soup.find('name').string) .", "label": 0}
+{"final": "The following Snippet Creates records as a dict mapping each document's _id to the full document from the PyMongo cursor. Snippet: records = dict((record['_id'], record) for record in cursor) .", "label": 1}
+{"final": "The following Snippet Creates records as a dict mapping each full document to the _id from the PyMongo cursor. Snippet: records = dict((record['_id'], record) for record in cursor) .", "label": 0}
+{"final": "The following Snippet Creates a new matrix by concatenating A and B along the first axis, leaving both inputs unchanged. Snippet: np.concatenate((A, B)) .", "label": 1}
+{"final": "The following Snippet Creates a new matrix by stacking A and B elementwise on the last axis, altering A instead of copying. Snippet: np.concatenate((A, B)) .", "label": 0}
+{"final": "The following Snippet Vertically concatenates A and B, increasing rows; columns must match. Snippet: np.vstack((A, B)) .", "label": 1}
+{"final": "The following Snippet Horizontally concatenates A and B, increasing columns; rows must match. Snippet: np.vstack((A, B)) .", "label": 0}
+{"final": "The following Snippet Gets the size of the file at filepath in bytes, which may differ from the character count depending on encoding. Snippet: os.stat(filepath).st_size .", "label": 1}
+{"final": "The following Snippet Gets the number of characters in the file at filepath, exactly matching the text length regardless of encoding. Snippet: os.stat(filepath).st_size .", "label": 0}
+{"final": "The following Snippet Counts the occurrences of item \"a\" in list l. Snippet: l.count('a') .", "label": 1}
+{"final": "The following Snippet Returns the index of item \"a\" in list l. Snippet: l.count('a') .", "label": 0}
+{"final": "The following Snippet Returns a Counter mapping each unique element in l to the number of times it appears. Snippet: Counter(l) .", "label": 1}
+{"final": "The following Snippet Returns a sorted list from l and only the total of unique elements instead of their counts. Snippet: Counter(l) .", "label": 0}
+{"final": "The following Snippet Creates a dictionary where each unique value in l is paired with its count of occurrences in l. Snippet: dict(((x, l.count(x)) for x in set(l))) .", "label": 1}
+{"final": "The following Snippet Creates a dictionary where each index in l is paired with the number of times that index appears. Snippet: dict(((x, l.count(x)) for x in set(l))) .", "label": 0}
+{"final": "The following Snippet Returns the number of times 'b' occurs in list l. Snippet: l.count('b') .", "label": 1}
+{"final": "The following Snippet Removes every 'b' from list l and returns the list. Snippet: l.count('b') .", "label": 0}
+{"final": "The following Snippet Copies the file srcfile into the directory dstdir, keeping the same base filename. Snippet: shutil.copy(srcfile, dstdir) .", "label": 1}
+{"final": "The following Snippet Moves the directory dstdir into srcfile, deleting the original file after the operation. Snippet: shutil.copy(srcfile, dstdir) .", "label": 0}
+{"final": "The following Snippet Returns the maximum key among items where the value is not zero. Snippet: max(k for k, v in x.items() if v != 0) .", "label": 1}
+{"final": "The following Snippet Returns the key with the maximum value, considering only nonzero values. Snippet: max(k for k, v in x.items() if v != 0) .", "label": 0}
+{"final": "The following Snippet Returns the largest key in x with a non-zero value. Snippet: max(k for k, v in x.items() if v != 0) .", "label": 1}
+{"final": "The following Snippet Returns the largest value in x with a non-zero key. Snippet: max(k for k, v in x.items() if v != 0) .", "label": 0}
+{"final": "The following Snippet Put the cursor at the start of the file Snippet: file.seek(0) .", "label": 1}
+{"final": "The following Snippet Put the cursor at the end of the file Snippet: file.seek(0) .", "label": 0}
+{"final": "The following Snippet Combines values from column 'b' and column 'a' of dataframe df into column 'c', using 'b' where 'a' is null and 'a' otherwise; this requires df['a'].isnull(). Snippet: df['c'] = np.where(df['a'].isnull, df['b'], df['a']) .", "label": 1}
+{"final": "The following Snippet Combines values from column 'b' and column 'a' of dataframe df into column 'c', using 'a' where 'a' is null and 'b' otherwise; df['a'].isnull works as written. Snippet: df['c'] = np.where(df['a'].isnull, df['b'], df['a']) .", "label": 0}
+{"final": "The following Snippet Deletes the key 'ele' and its associated value from d. Snippet: del d['ele'] .", "label": 1}
+{"final": "The following Snippet Sets d['ele'] to None while keeping the key in the dictionary. Snippet: del d['ele'] .", "label": 0}
+{"final": "The following Snippet Updates all MyModel rows by setting timestamp to timestamp + 36524.25 days (about 100 years). Snippet: MyModel.objects.update(timestamp=F('timestamp') + timedelta(days=36524.25)) .", "label": 1}
+{"final": "The following Snippet Updates all MyModel rows by adding exactly 100 calendar years to timestamp, honoring leap-year rules. Snippet: MyModel.objects.update(timestamp=F('timestamp') + timedelta(days=36524.25)) .", "label": 0}
+{"final": "The following Snippet Merges list ['it'] and list ['was'] and list ['annoying'] into one list: ['it', 'was', 'annoying']. Snippet: ['it'] + ['was'] + ['annoying'] .", "label": 1}
+{"final": "The following Snippet Merges list ['it'] and list ['was'] and list ['annoying'] into one list: [['it'], ['was'], ['annoying']]. Snippet: ['it'] + ['was'] + ['annoying'] .", "label": 0}
+{"final": "The following Snippet Converts x to int, adds 1, and returns a left zero-padded string whose width is at least the original length of x. Snippet: str(int(x) + 1).zfill(len(x)) .", "label": 1}
+{"final": "The following Snippet Converts x to int, adds 1, and returns a string that always keeps the original width by trimming any extra digits. Snippet: str(int(x) + 1).zfill(len(x)) .", "label": 0}
+{"final": "The following Snippet Converts the tuple t into a new list containing the same elements. Snippet: list(t) .", "label": 1}
+{"final": "The following Snippet Converts the list t into a new tuple containing the same elements. Snippet: list(t) .", "label": 0}
+{"final": "The following Snippet Converts list l to a tuple. Snippet: tuple(l) .", "label": 1}
+{"final": "The following Snippet Converts list t to a tuple. Snippet: tuple(l) .", "label": 0}
+{"final": "The following Snippet This applies list() to each element of level1 and makes level1 a map iterator, so the tuple itself is not turned into a list. Snippet: level1 = map(list, level1) .", "label": 1}
+{"final": "The following Snippet This converts the tuple level1 directly into a list with the same elements, fully accomplishing the stated intention. Snippet: level1 = map(list, level1) .", "label": 0}
+{"final": "The following Snippet Filters df to rows with BoolCol True; get their index via .index. Snippet: df.loc[df['BoolCol']] .", "label": 1}
+{"final": "The following Snippet Directly returns the index of rows with BoolCol True, not the rows. Snippet: df.loc[df['BoolCol']] .", "label": 0}
+{"final": "The following Snippet Returns the list of index labels for rows where df['BoolCol'] is True. Snippet: df[df['BoolCol']].index.tolist() .", "label": 1}
+{"final": "The following Snippet Returns the list of column names for rows where df['BoolCol'] is True. Snippet: df[df['BoolCol']].index.tolist() .", "label": 0}
+{"final": "The following Snippet Changes the current working directory to the directory specified by the variable owd. Snippet: os.chdir(owd) .", "label": 1}
+{"final": "The following Snippet Changes the current working directory to a directory literally named owd regardless of the variable’s value. Snippet: os.chdir(owd) .", "label": 0}
+{"final": "The following Snippet Executes an INSERT on table test via cursor c, binding testfield to the first column and inserting the literal string 'bar' into the second. Snippet: c.execute(\"INSERT INTO test VALUES (?, 'bar')\", (testfield,)) .", "label": 1}
+{"final": "The following Snippet Executes an INSERT on database c that stores both values from testfield into test using two placeholders, preventing injection for each value in columns. Snippet: c.execute(\"INSERT INTO test VALUES (?, 'bar')\", (testfield,)) .", "label": 0}
+{"final": "The following Snippet In Python 2, this decodes the literal '\\x89\\n' into a two-byte str: 0x89 followed by a newline (0x0A). Snippet: \"\"\"\\\\x89\\\\n\"\"\".decode('string_escape') .", "label": 1}
+{"final": "The following Snippet In Python 3, this returns the five-character text '\\x89\\n' unchanged, because the escapes are not processed by decode(). Snippet: \"\"\"\\\\x89\\\\n\"\"\".decode('string_escape') .", "label": 0}
+{"final": "The following Snippet Decodes backslash escapes in raw_string using the 'string_escape' codec, converting a raw string into a normal string in Python 2. Snippet: raw_string.decode('string_escape') .", "label": 1}
+{"final": "The following Snippet Encodes raw_string with 'string_escape' in Python 3 to turn a normal string into raw bytes without interpreting escapes. Snippet: raw_string.decode('string_escape') .", "label": 0}
+{"final": "The following Snippet Decode raw_byte_string with the 'unicode_escape' codec to get a normal str with escapes interpreted. Snippet: raw_byte_string.decode('unicode_escape') .", "label": 1}
+{"final": "The following Snippet Encode raw_byte_string with the 'unicode_escape' codec to get a normal str without any changes. Snippet: raw_byte_string.decode('unicode_escape') .", "label": 0}
+{"final": "The following Snippet Returns a list of maximal runs of the same digit in s (non-digits are skipped), e.g., \"a1123b33\" -> [\"11\",\"2\",\"3\",\"33\"]. Snippet: [m.group(0) for m in re.finditer('(\\\\d)\\\\1*', s)] .", "label": 1}
+{"final": "The following Snippet Returns a list of maximal runs of the same character in s (digits, letters, and symbols), e.g., \"a1123b!!\" -> [\"a\",\"11\",\"2\",\"3\",\"b\",\"!!\"]. Snippet: [m.group(0) for m in re.finditer('(\\\\d)\\\\1*', s)] .", "label": 0}
+{"final": "The following Snippet Scatters points at x,y from np.random.randn(100) with face colors set to none. Snippet: plt.scatter(np.random.randn(100), np.random.randn(100), facecolors='none') .", "label": 1}
+{"final": "The following Snippet Scatters points at x,y from np.random.rand(100) with face colors set to filled. Snippet: plt.scatter(np.random.randn(100), np.random.randn(100), facecolors='none') .", "label": 0}
+{"final": "The following Snippet Plots 100 N(0,1) x and y values as hollow circle markers with no connecting line, using plt.plot(..., 'o', mfc='none'). Snippet: plt.plot(np.random.randn(100), np.random.randn(100), 'o', mfc='none') .", "label": 1}
+{"final": "The following Snippet Plots 100 N(0,1) x and y values as solid-filled circles connected by a line, using plt.scatter with a default facecolor. Snippet: plt.plot(np.random.randn(100), np.random.randn(100), 'o', mfc='none') .", "label": 0}
+{"final": "The following Snippet Finds the div with id='main-content' and decomposes it, removing that node and all its children from the parse tree. Snippet: soup.find('div', id='main-content').decompose() .", "label": 1}
+{"final": "The following Snippet Finds every div with id='main-content' and returns a soup where only the text is removed, leaving the tag. Snippet: soup.find('div', id='main-content').decompose() .", "label": 0}
+{"final": "The following Snippet Filters rows where the ids column contains the substring 'ball'. Snippet: df[df['ids'].str.contains('ball')] .", "label": 1}
+{"final": "The following Snippet Filters rows where the ids column equals the substring 'ball'. Snippet: df[df['ids'].str.contains('ball')] .", "label": 0}
+{"final": "The following Snippet Converts the level 0 index into a column on df and updates df in place. Snippet: df.reset_index(level=0, inplace=True) .", "label": 1}
+{"final": "The following Snippet Converts the level 0 index into a row on a new DataFrame and leaves df unchanged. Snippet: df.reset_index(level=0, inplace=True) .", "label": 0}
+{"final": "The following Snippet Adds the current DataFrame index values into a new column called 'index1' within df. Snippet: df['index1'] = df.index .", "label": 1}
+{"final": "The following Snippet Generates new row numbers starting at one and replaces the DataFrame index with 'index1'. Snippet: df['index1'] = df.index .", "label": 0}
+{"final": "The following Snippet Converts the 'tick' and 'obs' index levels into columns and returns a new DataFrame, leaving any other index levels unchanged. Snippet: df.reset_index(level=['tick', 'obs']) .", "label": 1}
+{"final": "The following Snippet Converts the 'tick' and 'obs' columns into the index and modifies the original DataFrame in place, dropping any remaining index levels. Snippet: df.reset_index(level=['tick', 'obs']) .", "label": 0}
+{"final": "The following Snippet Builds a new list of each item from b reversed via extended slicing (x[::-1]) for every element. Snippet: [x[::-1] for x in b] .", "label": 1}
+{"final": "The following Snippet Reverses list b in place via extended slicing (x[::-1]), changing b’s order rather than its items. Snippet: [x[::-1] for x in b] .", "label": 0}
+{"final": "The following Snippet Produces a NumPy array of zip objects for each pair from a and b, not actual (a[i], b[i]) tuples. Snippet: np.array([zip(x, y) for x, y in zip(a, b)]) .", "label": 1}
+{"final": "The following Snippet Produces a NumPy array of (a[i], b[i]) tuples for each index, exactly pairing elements by position. Snippet: np.array([zip(x, y) for x, y in zip(a, b)]) .", "label": 0}
+{"final": "The following Snippet Zips a and b elementwise in row-major order into a structured 2-D array of int32 pairs shaped like a. Snippet: np.array(zip(a.ravel(), b.ravel()), dtype='i4,i4').reshape(a.shape) .", "label": 1}
+{"final": "The following Snippet Zips a and b elementwise into a 3-D array, preserving dtypes, with last axis 2 exactly shaped like a. Snippet: np.array(zip(a.ravel(), b.ravel()), dtype='i4,i4').reshape(a.shape) .", "label": 0}
+{"final": "The following Snippet Converts list list_of_ints into a comma-separated string. Snippet: \"\"\",\"\"\".join([str(i) for i in list_of_ints]) .", "label": 1}
+{"final": "The following Snippet Converts list list_of_ints into a comma-separated list. Snippet: \"\"\",\"\"\".join([str(i) for i in list_of_ints]) .", "label": 0}
+{"final": "The following Snippet Sends a POST request with raw DATA and basic authentication using username and password. Snippet: requests.post(url, data=DATA, headers=HEADERS_DICT, auth=(username, password)) .", "label": 1}
+{"final": "The following Snippet Sends a GET request with JSON DATA and bearer authentication using username and password. Snippet: requests.post(url, data=DATA, headers=HEADERS_DICT, auth=(username, password)) .", "label": 0}
+{"final": "The following Snippet Returns 8, the index of the last '}' in \"abcd}def}\". Snippet: 'abcd}def}'.rfind('}') .", "label": 1}
+{"final": "The following Snippet Returns 9, the index of the last '}' in \"abcd}def}\". Snippet: 'abcd}def}'.rfind('}') .", "label": 0}
+{"final": "The following Snippet Iterates over [1, 2, 3] using a list comprehension and prints the resulting list. Snippet: print([item for item in [1, 2, 3]]) .", "label": 1}
+{"final": "The following Snippet Iterates over [1, 2, 3] using a list comprehension and prints each value separately. Snippet: print([item for item in [1, 2, 3]]) .", "label": 0}
+{"final": "The following Snippet Extracts the 'x' and 'y' values from each dict in d and returns them as a list of (x, y) tuples. Snippet: [(x['x'], x['y']) for x in d] .", "label": 1}
+{"final": "The following Snippet Extracts only one of 'x' or 'y' from d and returns a single dict mapping x to y instead of tuples. Snippet: [(x['x'], x['y']) for x in d] .", "label": 0}
+{"final": "The following Snippet Retrieves the filename without its extension from 'hemanth.txt' and prints 'hemanth'. Snippet: print(os.path.splitext(os.path.basename('hemanth.txt'))[0]) .", "label": 1}
+{"final": "The following Snippet Retrieves the file extension instead of the name from 'hemanth.txt' and prints '.txt'. Snippet: print(os.path.splitext(os.path.basename('hemanth.txt'))[0]) .", "label": 0}
+{"final": "The following Snippet Creates a new dict mapping each even-indexed element to the next element using non-overlapping adjacent pairs, failing if x has odd length. Snippet: dict(x[i:i + 2] for i in range(0, len(x), 2)) .", "label": 1}
+{"final": "The following Snippet Updates an existing dict in place by pairing overlapping neighbors throughout the sequence and silently skipping any final unpaired element as needed. Snippet: dict(x[i:i + 2] for i in range(0, len(x), 2)) .", "label": 0}
+{"final": "The following Snippet The code flattens the nested lists and sets values to ['A','B','C','D','E','F','G','H','I']. Snippet: values = sum([['A', 'B', 'C'], ['D', 'E', 'F'], ['G', 'H', 'I']], []) .", "label": 1}
+{"final": "The following Snippet The code leaves the list nested and sets values to [['A','B','C'], ['D','E','F'], ['G','H','I']]. Snippet: values = sum([['A', 'B', 'C'], ['D', 'E', 'F'], ['G', 'H', 'I']], []) .", "label": 0}
+{"final": "The following Snippet Filters df to rows where closing_price is between 99 and 101, inclusive. Snippet: df = df[(df['closing_price'] >= 99) & (df['closing_price'] <= 101)] .", "label": 1}
+{"final": "The following Snippet Filters df to rows where closing_price is between 99 and 101, exclusive. Snippet: df = df[(df['closing_price'] >= 99) & (df['closing_price'] <= 101)] .", "label": 0}
+{"final": "The following Snippet Replaces every '\\n' occurrence within all string values of df with '<br>' using regex, returning a new DataFrame without in-place modification. Snippet: df.replace({'\\n': '<br>'}, regex=True) .", "label": 1}
+{"final": "The following Snippet Converts all '<br>' substrings across df into newline characters in place, modifying the original DataFrame and leaving no need to reassign. Snippet: df.replace({'\\n': '<br>'}, regex=True) .", "label": 0}
+{"final": "The following Snippet Replaces every newline character in all cells of df with the string '<br>'. Snippet: df.replace({'\\n': '<br>'}, regex=True) .", "label": 1}
+{"final": "The following Snippet Replaces the string '<br>' in all cells of df with the newline character '\\n'. Snippet: df.replace({'\\n': '<br>'}, regex=True) .", "label": 0}
+{"final": "The following Snippet Creates a list of two-character strings, each formed by adjacent letters in word. Snippet: [(x + y) for x, y in zip(word, word[1:])] .", "label": 1}
+{"final": "The following Snippet Creates a list of two-character tuples, each formed by non-adjacent letters in word. Snippet: [(x + y) for x, y in zip(word, word[1:])] .", "label": 0}
+{"final": "The following Snippet Uses a lambda on word[:-1] and word[1:] to return a list of two-character strings for each adjacent pair (e.g., 'ab','bc','cd'). Snippet: list(map(lambda x, y: x + y, word[:-1], word[1:])) .", "label": 1}
+{"final": "The following Snippet Uses a lambda on word[:-1] and word[1:] to return a list of two-element tuples for each adjacent pair (e.g., ('a','b'),('b','c')). Snippet: list(map(lambda x, y: x + y, word[:-1], word[1:])) .", "label": 0}
+{"final": "The following Snippet Prints a list with every http or https URL matched in myString by the given regex. Snippet: print(re.findall('(https?://[^\\\\s]+)', myString)) .", "label": 1}
+{"final": "The following Snippet Prints only the first URL in myString and returns it as a single string instead of a list. Snippet: print(re.findall('(https?://[^\\\\s]+)', myString)) .", "label": 0}
+{"final": "The following Snippet Extracts the first http/https URL from myString using re.search with the named group 'url', then prints the matched text. Snippet: print(re.search('(?P<url>https?://[^\\\\s]+)', myString).group('url')) .", "label": 1}
+{"final": "The following Snippet Extracts all possible URLs from myString using re.findall without any groups, then returns a list instead of printing. Snippet: print(re.search('(?P<url>https?://[^\\\\s]+)', myString).group('url')) .", "label": 0}
+{"final": "The following Snippet Replaces every run of characters that are not A–Z, a–z, or 0–9 (including spaces, punctuation, and symbols) in mystring with '', leaving only ASCII letters and digits. Snippet: re.sub('[^A-Za-z0-9]+', '', mystring) .", "label": 1}
+{"final": "The following Snippet Replaces only punctuation marks while keeping spaces, underscores, and non-ASCII letters in mystring, so hyphens, accents, and whitespace remain alongside the alphanumerics. Snippet: re.sub('[^A-Za-z0-9]+', '', mystring) .", "label": 0}
+{"final": "The following Snippet create a DatetimeIndex containing 13 periods of the second friday of each month starting from date '2016-01-01' Snippet: pd.date_range('2016-01-01', freq='WOM-2FRI', periods=13) .", "label": 1}
+{"final": "The following Snippet create a DatetimeIndex containing 13 periods of the third friday of each month starting from date '2016-01-01' Snippet: pd.date_range('2016-01-01', freq='WOM-2FRI', periods=13) .", "label": 0}
+{"final": "The following Snippet Defines a multidimensional array matrix with 3 rows and 2 columns in Python. Snippet: matrix = [[a, b], [c, d], [e, f]] .", "label": 1}
+{"final": "The following Snippet Defines a multidimensional array matrix with 2 rows and 3 columns in Python. Snippet: matrix = [[a, b], [c, d], [e, f]] .", "label": 0}
+{"final": "The following Snippet Replaces every space in mystring with an underscore. Snippet: mystring.replace(' ', '_') .", "label": 1}
+{"final": "The following Snippet Replaces underscores in mystring with a single space. Snippet: mystring.replace(' ', '_') .", "label": 0}
+{"final": "The following Snippet Computes and returns the absolute filesystem path for 'mydir/myfile.txt' from the current working directory. Snippet: os.path.abspath('mydir/myfile.txt') .", "label": 1}
+{"final": "The following Snippet Opens and reads the contents of 'mydir/myfile.txt' and returns the text data as the result. Snippet: os.path.abspath('mydir/myfile.txt') .", "label": 0}
+{"final": "The following Snippet Splits my_string on whitespace and rejoins the pieces with a single space. Snippet: \"\"\" \"\"\".join(my_string.split()) .", "label": 1}
+{"final": "The following Snippet Splits my_string on whitespace and returns the list of pieces unchanged. Snippet: \"\"\" \"\"\".join(my_string.split()) .", "label": 0}
+{"final": "The following Snippet Get filename without extension from file filename. Snippet: os.path.splitext(filename)[0] .", "label": 1}
+{"final": "The following Snippet Get extension with dot from file filename. Snippet: os.path.splitext(filename)[0] .", "label": 0}
+{"final": "The following Snippet Produces a list with prefix sums that exclude the current element at each index. Snippet: [sum(l[:i]) for i, _ in enumerate(l)] .", "label": 1}
+{"final": "The following Snippet Produces a list with prefix sums that include the current element at each index. Snippet: [sum(l[:i]) for i, _ in enumerate(l)] .", "label": 0}
+{"final": "The following Snippet Split 'Docs/src/Scripts/temp' on '/', keeping '/' glued to neighboring parts in the resulting pieces. Snippet: \"\"\"Docs/src/Scripts/temp\"\"\".replace('/', '/\\x00/').split('\\x00') .", "label": 1}
+{"final": "The following Snippet Split 'Docs/src/Scripts/temp' on '/', keeping '/' as standalone tokens in the resulting pieces. Snippet: \"\"\"Docs/src/Scripts/temp\"\"\".replace('/', '/\\x00/').split('\\x00') .", "label": 0}
+{"final": "The following Snippet In-place col shuffle of r by shuffling axis 0 of r.T. Snippet: np.random.shuffle(np.transpose(r)) .", "label": 1}
+{"final": "The following Snippet In-place row shuffle of r by shuffling axis 0 of r.T. Snippet: np.random.shuffle(np.transpose(r)) .", "label": 0}
+{"final": "The following Snippet Creates column D in df by copying all values from column B, leaving B unchanged. Snippet: df['D'] = df['B'] .", "label": 1}
+{"final": "The following Snippet Creates column D in df by moving all values from column B, deleting B afterward. Snippet: df['D'] = df['B'] .", "label": 0}
+{"final": "The following Snippet It takes the first element from data['A']['B'].values() (so the specific key is irrelevant) and returns that element['maindata'][0]['Info']. Snippet: list(data['A']['B'].values())[0]['maindata'][0]['Info'] .", "label": 1}
+{"final": "The following Snippet It takes the first key from data['A']['B'] (so the actual value is irrelevant) and returns that key['maindata'][0]['Info']. Snippet: list(data['A']['B'].values())[0]['maindata'][0]['Info'] .", "label": 0}
+{"final": "The following Snippet Evaluates predicate on each character in the string, returning True only when every character passes the test. Snippet: all(predicate(x) for x in string) .", "label": 1}
+{"final": "The following Snippet Evaluates predicate once on the whole string, returning True when at least one character passes the test. Snippet: all(predicate(x) for x in string) .", "label": 0}
+{"final": "The following Snippet Computes the count of allocated inodes on '/', i.e., files plus directories, by subtracting free from total file nodes; works on Unix-like filesystems. Snippet: os.statvfs('/').f_files - os.statvfs('/').f_ffree .", "label": 1}
+{"final": "The following Snippet Recursively counts every regular file under '/', ignoring directories, on all operating systems; it yields an exact file count rather than inode usage. Snippet: os.statvfs('/').f_files - os.statvfs('/').f_ffree .", "label": 0}
+{"final": "The following Snippet Gets the first column value from the next row produced by the cursor. Snippet: cursor.fetchone()[0] .", "label": 1}
+{"final": "The following Snippet Gets the entire next row as a list of all column values from the cursor. Snippet: cursor.fetchone()[0] .", "label": 0}
+{"final": "The following Snippet Split user_input by commas and cast each piece to int, storing the ints in user_list. Snippet: user_list = [int(number) for number in user_input.split(',')] .", "label": 1}
+{"final": "The following Snippet Split user_input by spaces and keep each piece as text, storing the strings in user_list. Snippet: user_list = [int(number) for number in user_input.split(',')] .", "label": 0}
+{"final": "The following Snippet Get a list of integers by splitting the user string on commas in the input. Snippet: [int(s) for s in user.split(',')] .", "label": 1}
+{"final": "The following Snippet Get a list of strings by splitting the user string on commas in the input. Snippet: [int(s) for s in user.split(',')] .", "label": 0}
+{"final": "The following Snippet Sorts the items by x[0] ascending and, when tied, by x[1] descending. Snippet: sorted(list, key=lambda x: (x[0], -x[1])) .", "label": 1}
+{"final": "The following Snippet Sorts the items by x[0] descending and, when tied, by x[1] ascending. Snippet: sorted(list, key=lambda x: (x[0], -x[1])) .", "label": 0}
+{"final": "The following Snippet Sorts ut in place using cmpfun as the key function, in descending order. Snippet: ut.sort(key=cmpfun, reverse=True) .", "label": 1}
+{"final": "The following Snippet Sorts ut and returns a new list using cmpfun as a comparator, in ascending order. Snippet: ut.sort(key=cmpfun, reverse=True) .", "label": 0}
+{"final": "The following Snippet Sorts ut in place by each element’s count in descending order. Snippet: ut.sort(key=lambda x: x.count, reverse=True) .", "label": 1}
+{"final": "The following Snippet Produces a new list and orders by each element’s count in ascending order. Snippet: ut.sort(key=lambda x: x.count, reverse=True) .", "label": 0}
+{"final": "The following Snippet Sorts the list ut in place strictly by each object's count attribute in descending order. Snippet: ut.sort(key=lambda x: x.count, reverse=True) .", "label": 1}
+{"final": "The following Snippet Returns a new list from ut sorted by each object's count attribute in ascending order. Snippet: ut.sort(key=lambda x: x.count, reverse=True) .", "label": 0}
+{"final": "The following Snippet Clicks an anchor link whose visible text contains 'Send' using Selenium. Snippet: driver.find_element_by_partial_link_text('Send').click() .", "label": 1}
+{"final": "The following Snippet Clicks a button element with id 'Send' regardless of its text using Selenium. Snippet: driver.find_element_by_partial_link_text('Send').click() .", "label": 0}
+{"final": "The following Snippet Locates the link whose visible text is Send InMail via By.linkText and clicks it. Snippet: driver.findElement(By.linkText('Send InMail')).click() .", "label": 1}
+{"final": "The following Snippet Locates an element by its href containing Send InMail via a CSS selector and submits. Snippet: driver.findElement(By.linkText('Send InMail')).click() .", "label": 0}
+{"final": "The following Snippet This line finds the anchor link with the visible text 'Send InMail' and clicks it via Selenium WebDriver. Snippet: driver.find_element_by_link_text('Send InMail').click() .", "label": 1}
+{"final": "The following Snippet This line finds an element by the id 'Send InMail' and submits a form automatically without performing a click. Snippet: driver.find_element_by_link_text('Send InMail').click() .", "label": 0}
+{"final": "The following Snippet Cast i to a string and concat to 'ME'. Snippet: 'ME' + str(i) .", "label": 1}
+{"final": "The following Snippet Cast i to an int and concat to 'ME'. Snippet: 'ME' + str(i) .", "label": 0}
+{"final": "The following Snippet Returns a new DataFrame sorted ascending by System_num, then Dis, without modifying df in place. Snippet: df.sort_values(['System_num', 'Dis']) .", "label": 1}
+{"final": "The following Snippet Sorts df in place by default and uses descending order on both System_num and Dis. Snippet: df.sort_values(['System_num', 'Dis']) .", "label": 0}
+{"final": "The following Snippet It reads infile, prepends the exact line '#test firstline\\n' to that content, and writes the result into outfile, overwriting it. Snippet: open('outfile', 'w').write('#test firstline\\n' + open('infile').read()) .", "label": 1}
+{"final": "The following Snippet It opens infile for writing, appends the line '#test firstline\\n' to the end, and leaves outfile untouched. Snippet: open('outfile', 'w').write('#test firstline\\n' + open('infile').read()) .", "label": 0}
+{"final": "The following Snippet Sorts list l in place by the length of each tuple's second element, in descending order. Snippet: l.sort(key=lambda t: len(t[1]), reverse=True) .", "label": 1}
+{"final": "The following Snippet Sorts list l in place by the length of each tuple's first element, in ascending order. Snippet: l.sort(key=lambda t: len(t[1]), reverse=True) .", "label": 0}
+{"final": "The following Snippet Finds each word ending in 'd' and returns the matched word text minus the trailing 'd'. Snippet: re.findall('\\\\b(\\\\w+)d\\\\b', s) .", "label": 1}
+{"final": "The following Snippet Splits the string at each word ending in 'd' and returns the non-matching segments only. Snippet: re.findall('\\\\b(\\\\w+)d\\\\b', s) .", "label": 0}
+{"final": "The following Snippet Converts t to a set and back, removing duplicates but not preserving the original order. Snippet: list(set(t)) .", "label": 1}
+{"final": "The following Snippet Converts t to a set and back, removing duplicates and preserving the original order. Snippet: list(set(t)) .", "label": 0}
+{"final": "The following Snippet Creates a new list without duplicates by converting source_list to a set and back, which does not preserve order. Snippet: list(set(source_list)) .", "label": 1}
+{"final": "The following Snippet Creates a new list without duplicates by converting source_list to a set and back, which preserves the original order. Snippet: list(set(source_list)) .", "label": 0}
+{"final": "The following Snippet Removes duplicates from 'abracadabra' preserving first-appearance order, yielding ['a','b','r','c','d']. Snippet: list(OrderedDict.fromkeys('abracadabra')) .", "label": 1}
+{"final": "The following Snippet Removes duplicates from 'abracadabra' by sorting alphabetically, yielding ['a','b','c','d','r']. Snippet: list(OrderedDict.fromkeys('abracadabra')) .", "label": 0}
+{"final": "The following Snippet This code converts a into a NumPy array, flattens it to one dimension with reshape(-1), and returns a plain Python list of all elements. Snippet: numpy.array(a).reshape(-1).tolist() .", "label": 1}
+{"final": "The following Snippet This code converts a into a NumPy array, keeps its original multidimensional shape, and returns a Python list of nested sublists unchanged. Snippet: numpy.array(a).reshape(-1).tolist() .", "label": 0}
+{"final": "The following Snippet Converts a to a NumPy array, takes the first row, and returns it as a Python list. Snippet: numpy.array(a)[0].tolist() .", "label": 1}
+{"final": "The following Snippet Converts a to a NumPy array, takes the first column, and returns it as a Python list. Snippet: numpy.array(a)[0].tolist() .", "label": 0}
+{"final": "The following Snippet Finds the 'Address:' text, locates the next td (its sibling cell), and prints the first child content of that td. Snippet: print(soup.find(text='Address:').findNext('td').contents[0]) .", "label": 1}
+{"final": "The following Snippet Finds the 'Address:' td itself, selects the previous td in the row, and prints the entire text of that cell. Snippet: print(soup.find(text='Address:').findNext('td').contents[0]) .", "label": 0}
+{"final": "The following Snippet Converts each 2-int tuple in l into \"a@b\" and concatenates all results into a single string with no separator. Snippet: \"\"\" \"\"\".join([('%d@%d' % t) for t in l]) .", "label": 1}
+{"final": "The following Snippet Converts each 2-int tuple in l into \"a@b\" and returns a list of those strings, not a single concatenated string. Snippet: \"\"\" \"\"\".join([('%d@%d' % t) for t in l]) .", "label": 0}
+{"final": "The following Snippet For each tuple, builds 'a@b' and joins all results into one space-separated string. Snippet: \"\"\" \"\"\".join([('%d@%d' % (t[0], t[1])) for t in l]) .", "label": 1}
+{"final": "The following Snippet For each tuple, builds 'a@b' and leaves the results as a list, unjoined. Snippet: \"\"\" \"\"\".join([('%d@%d' % (t[0], t[1])) for t in l]) .", "label": 0}
+{"final": "The following Snippet Runs JavaScript in the browser to return the full page HTML via document.documentElement.outerHTML. Snippet: driver.execute_script('return document.documentElement.outerHTML;') .", "label": 1}
+{"final": "The following Snippet Runs JavaScript in the browser to return the page's visible text via document.documentElement.innerText. Snippet: driver.execute_script('return document.documentElement.outerHTML;') .", "label": 0}
+{"final": "The following Snippet Filters the list teststr to return each whole string that contains at least one occurrence matching the regex pattern \\d+[xX] anywhere. Snippet: [i for i in teststr if re.search('\\\\d+[xX]', i)] .", "label": 1}
+{"final": "The following Snippet Returns the actual matched substrings from teststr, using a start-anchored match that only accepts lowercase x after digits in each string. Snippet: [i for i in teststr if re.search('\\\\d+[xX]', i)] .", "label": 0}
+{"final": "The following Snippet Selects values from column A where the corresponding B is greater than 50 and C equals 900. Snippet: df['A'][(df['B'] > 50) & (df['C'] == 900)] .", "label": 1}
+{"final": "The following Snippet Selects values from column A where the corresponding B is greater than 50 or C equals 900. Snippet: df['A'][(df['B'] > 50) & (df['C'] == 900)] .", "label": 0}
+{"final": "The following Snippet Returns a list of (key, value) pairs from o sorted ascending by key, using the value only as a tiebreaker. Snippet: sorted(o.items()) .", "label": 1}
+{"final": "The following Snippet Returns a list of (key, value) pairs from o sorted ascending by value, using the key only as a tiebreaker. Snippet: sorted(o.items()) .", "label": 0}
+{"final": "The following Snippet Get sorted list of keys of dict d. Snippet: sorted(d) .", "label": 1}
+{"final": "The following Snippet Get sorted list of values of dict d. Snippet: sorted(d) .", "label": 0}
+{"final": "The following Snippet Returns a new list of (key, value) pairs from d, ordered by key and then value using default rules. Snippet: sorted(d.items()) .", "label": 1}
+{"final": "The following Snippet Mutates d by sorting it by value in place and yields an iterator rather than returning a list. Snippet: sorted(d.items()) .", "label": 0}
+{"final": "The following Snippet Converts the string '1' into the integer 1. Snippet: int('1') .", "label": 1}
+{"final": "The following Snippet Converts the integer 1 into the string '1'. Snippet: int('1') .", "label": 0}
+{"final": "The following Snippet Function that converts a numeric string like \"123\" into the integer 123, else raises ValueError. Snippet: int() .", "label": 1}
+{"final": "The following Snippet Function that converts a numeric string like \"123\" into the float 123.0, else returns None. Snippet: int() .", "label": 0}
+{"final": "The following Snippet Creates T2 as a list of lazy iterators mapping int over each iterable element x of T1, not flattened. Snippet: T2 = [map(int, x) for x in T1] .", "label": 1}
+{"final": "The following Snippet Creates T2 as a flat list of integers by converting each T1 item directly, producing eager, one-to-one integer values. Snippet: T2 = [map(int, x) for x in T1] .", "label": 0}
+{"final": "The following Snippet It executes ./test.sh as a child process and waits for completion synchronously. Snippet: subprocess.call(['./test.sh']) .", "label": 1}
+{"final": "The following Snippet It opens ./test.sh in an interactive shell window and returns immediately afterward. Snippet: subprocess.call(['./test.sh']) .", "label": 0}
+{"final": "The following Snippet Invokes a shell script named notepad found on the PATH by calling subprocess.call(['notepad']) directly, without a shell. Snippet: subprocess.call(['notepad']) .", "label": 1}
+{"final": "The following Snippet Invokes a command string 'notepad' with shell=True to open Windows Notepad, relying on the system shell rather than PATH. Snippet: subprocess.call(['notepad']) .", "label": 0}
+{"final": "The following Snippet Create a flat list by alternating elements from l1 and l2, stopping only when the shorter input list ends. Snippet: [val for pair in zip(l1, l2) for val in pair] .", "label": 1}
+{"final": "The following Snippet Create a flat list by alternating elements from l1 and l2, then appending any leftover elements at the end. Snippet: [val for pair in zip(l1, l2) for val in pair] .", "label": 0}
+{"final": "The following Snippet As written, it does not encode 'data to be encoded' in Python 3; b64encode requires a bytes input, not str. Snippet: encoded = base64.b64encode('data to be encoded') .", "label": 1}
+{"final": "The following Snippet As written, it does encode 'data to be encoded' in Python 3; b64encode accepts a str input, not bytes. Snippet: encoded = base64.b64encode('data to be encoded') .", "label": 0}
+{"final": "The following Snippet Encodes the literal 'data to be encoded' as ASCII bytes and stores them in encoded. Snippet: encoded = 'data to be encoded'.encode('ascii') .", "label": 1}
+{"final": "The following Snippet Decodes the literal 'data to be encoded' from UTF-8 and leaves a text string in encoded. Snippet: encoded = 'data to be encoded'.encode('ascii') .", "label": 0}
+{"final": "The following Snippet Parses 'text.txt' as tab-separated values, producing a list of rows (lists) stored in lol. Snippet: lol = list(csv.reader(open('text.txt', 'rb'), delimiter='\\t')) .", "label": 1}
+{"final": "The following Snippet Parses 'text.txt' as comma-separated values, producing a single flat list of strings in lol. Snippet: lol = list(csv.reader(open('text.txt', 'rb'), delimiter='\\t')) .", "label": 0}
+{"final": "The following Snippet Get attribute named by my_str of object my_object. Snippet: getattr(my_object, my_str) .", "label": 1}
+{"final": "The following Snippet Get attribute named my_str of object my_object. Snippet: getattr(my_object, my_str) .", "label": 0}
+{"final": "The following Snippet Builds a dict mapping each key from LD[0] to a tuple of that key’s values across all dicts, assuming identical key sets and insertion order. Snippet: print(dict(zip(LD[0], zip(*[list(d.values()) for d in LD])))) .", "label": 1}
+{"final": "The following Snippet Builds a dict using every key from all dicts and, regardless of ordering or missing keys, correctly aligns values per key and returns lists, not tuples. Snippet: print(dict(zip(LD[0], zip(*[list(d.values()) for d in LD])))) .", "label": 0}
+{"final": "The following Snippet Returns the sum of the first elements of all pairs in list_of_pairs. Snippet: sum([pair[0] for pair in list_of_pairs]) .", "label": 1}
+{"final": "The following Snippet Returns the sum of the second elements of all pairs in list_of_pairs. Snippet: sum([pair[0] for pair in list_of_pairs]) .", "label": 0}
+{"final": "The following Snippet The code safely parses the Unicode string into a Python dict d equal to {'code1': 1, 'code2': 1}. Snippet: d = ast.literal_eval(\"{'code1':1,'code2':1}\") .", "label": 1}
+{"final": "The following Snippet The code leaves the Unicode string unchanged because ast.literal_eval cannot parse single-quoted mappings in this format at all. Snippet: d = ast.literal_eval(\"{'code1':1,'code2':1}\") .", "label": 0}
+{"final": "The following Snippet Builds a list of words from mystring split on whitespace, keeping only those that start with '$'. Snippet: [word for word in mystring.split() if word.startswith('$')] .", "label": 1}
+{"final": "The following Snippet Builds a list of words from mystring split on whitespace, keeping any that contain '$' anywhere. Snippet: [word for word in mystring.split() if word.startswith('$')] .", "label": 0}
+{"final": "The following Snippet Removes lines that begin with an http/https URL by matching from the start of the line through the rest of that line and its newline, not URLs that appear mid-line. Snippet: text = re.sub('^https?:\\\\/\\\\/.*[\\\\r\\\\n]*', '', text, flags=re.MULTILINE) .", "label": 1}
+{"final": "The following Snippet Removes every http/https URL anywhere in the text while leaving the surrounding text on each line intact, without deleting the rest of the line or its newline. Snippet: text = re.sub('^https?:\\\\/\\\\/.*[\\\\r\\\\n]*', '', text, flags=re.MULTILINE) .", "label": 0}
+{"final": "The following Snippet Replace every value in A that is not in [1, 3, 4] with 0, leaving 1, 3, and 4 unchanged. Snippet: np.where(np.in1d(A, [1, 3, 4]).reshape(A.shape), A, 0) .", "label": 1}
+{"final": "The following Snippet Replace every value in A that is in [1, 3, 4] with 0, leaving all other values unchanged. Snippet: np.where(np.in1d(A, [1, 3, 4]).reshape(A.shape), A, 0) .", "label": 0}
+{"final": "The following Snippet Calculate the mean across columns for each row in 2D array a. Snippet: np.mean(a, axis=1) .", "label": 1}
+{"final": "The following Snippet Calculate the mean across rows for each column in 2D array a. Snippet: np.mean(a, axis=1) .", "label": 0}
+{"final": "The following Snippet Calls /usr/bin/Rscript with --vanilla to execute /pathto/MyrScript.r from Python. Snippet: subprocess.call(['/usr/bin/Rscript', '--vanilla', '/pathto/MyrScript.r']) .", "label": 1}
+{"final": "The following Snippet Calls the system shell to run a Python script /pathto/MyrScript.r in vanilla mode. Snippet: subprocess.call(['/usr/bin/Rscript', '--vanilla', '/pathto/MyrScript.r']) .", "label": 0}
+{"final": "The following Snippet Writes the header row to the CSV file using the DictWriter's fieldnames, placing the column names at the top. Snippet: writer.writeheader() .", "label": 1}
+{"final": "The following Snippet Writes the data rows to the CSV file and skips the header, leaving the column names to be added elsewhere. Snippet: writer.writeheader() .", "label": 0}
+{"final": "The following Snippet Replaces each NaN in df with the mean of its own row, using that row’s values across all columns. Snippet: df.fillna(df.mean(axis=1), axis=1) .", "label": 1}
+{"final": "The following Snippet Replaces each NaN in df with the mean of its column, using values down that column across all rows. Snippet: df.fillna(df.mean(axis=1), axis=1) .", "label": 0}
+{"final": "The following Snippet Convert Unix timestamp '1347517370' to a local-time string formatted as '%Y-%m-%d %H:%M:%S'. Snippet: time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(1347517370)) .", "label": 1}
+{"final": "The following Snippet Convert Unix timestamp '1347517370' to a UTC ISO-8601 string formatted as '%Y-%m-%dT%H:%M:%S.%fZ'. Snippet: time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(1347517370)) .", "label": 0}
+{"final": "The following Snippet From a Derived classmethod, this invokes the base class’s classmethod do with argument a using super. Snippet: super(Derived, cls).do(a) .", "label": 1}
+{"final": "The following Snippet From a Derived classmethod, this invokes the base class’s instance method do treating a as self. Snippet: super(Derived, cls).do(a) .", "label": 0}
+{"final": "The following Snippet Selects all rows of array a where column 0 equals 0 and column 1 equals 1. Snippet: a[np.where((a[:, (0)] == 0) * (a[:, (1)] == 1))] .", "label": 1}
+{"final": "The following Snippet Selects all columns of array a where row 0 equals 0 and row 1 equals 1. Snippet: a[np.where((a[:, (0)] == 0) * (a[:, (1)] == 1))] .", "label": 0}
+{"final": "The following Snippet Splits the text on one or more spaces, producing ['hello', 'world', 'sample', 'text'] as the list. Snippet: re.split(' +', 'hello world sample text') .", "label": 1}
+{"final": "The following Snippet Splits the text on exactly one space, producing ['hello', '', 'world', '', 'sample', '', 'text'] with empty entries. Snippet: re.split(' +', 'hello world sample text') .", "label": 0}
+{"final": "The following Snippet Returns the length of the longest element in words. Snippet: len(max(words, key=len)) .", "label": 1}
+{"final": "The following Snippet Returns the index of the longest element in words. Snippet: len(max(words, key=len)) .", "label": 0}
+{"final": "The following Snippet Gets the value associated with the unicode key 'from_user' of the first dictionary in the list result. Snippet: result[0]['from_user'] .", "label": 1}
+{"final": "The following Snippet Gets the value associated with the unicode key 'from_user' of the last dictionary in the list result. Snippet: result[0]['from_user'] .", "label": 0}
+{"final": "The following Snippet Creates a list of lists, where each element is the whitespace-split tokens from each line of File.txt. Snippet: [line.split() for line in open('File.txt')] .", "label": 1}
+{"final": "The following Snippet Creates a list of strings, where each element is the full unmodified line including newline from File.txt. Snippet: [line.split() for line in open('File.txt')] .", "label": 0}
+{"final": "The following Snippet Creates res as a new dictionary mapping each original value of a to its corresponding original key from a. Snippet: res = dict((v, k) for k, v in a.items()) .", "label": 1}
+{"final": "The following Snippet Modifies a in place to swap keys and values, does not create res, and preserves duplicate values without loss. Snippet: res = dict((v, k) for k, v in a.items()) .", "label": 0}
+{"final": "The following Snippet Open a file path/to/FILE_NAME.ext in write mode and bind the resulting file object to new_file. Snippet: new_file = open('path/to/FILE_NAME.ext', 'w') .", "label": 1}
+{"final": "The following Snippet Open a file path/to/FILE_NAME.ext in read mode and bind the resulting file object to new_file. Snippet: new_file = open('path/to/FILE_NAME.ext', 'w') .", "label": 0}
+{"final": "The following Snippet Groups df by col1 and col2, counts distinct col3 values per group, and returns a DataFrame after resetting the index. Snippet: df.groupby(['col1', 'col2'])['col3'].nunique().reset_index() .", "label": 1}
+{"final": "The following Snippet Groups df by col1 and col2, sums numeric col3 values per group, and returns a Series while leaving the index intact. Snippet: df.groupby(['col1', 'col2'])['col3'].nunique().reset_index() .", "label": 0}
+{"final": "The following Snippet Returns True if at least one key in dict1 starts with 'EMP$$', else False. Snippet: any(key.startswith('EMP$$') for key in dict1) .", "label": 1}
+{"final": "The following Snippet Returns True only if all keys in dict1 start with 'EMP$$', else False. Snippet: any(key.startswith('EMP$$') for key in dict1) .", "label": 0}
+{"final": "The following Snippet Creates a list of values from dict1 where the key starts with 'EMP$$'. Snippet: [value for key, value in list(dict1.items()) if key.startswith('EMP$$')] .", "label": 1}
+{"final": "The following Snippet Creates a list of keys from dict1 where the value starts with 'EMP$$'. Snippet: [value for key, value in list(dict1.items()) if key.startswith('EMP$$')] .", "label": 0}
+{"final": "The following Snippet Builds a DataFrame from sf using sf.index as 'email' and sf.values as 'list'. Snippet: pd.DataFrame({'email': sf.index, 'list': sf.values}) .", "label": 1}
+{"final": "The following Snippet Builds a DataFrame from sf using sf.values as 'email' and sf.index as 'list'. Snippet: pd.DataFrame({'email': sf.index, 'list': sf.values}) .", "label": 0}
+{"final": "The following Snippet Prints the elements of list named 'list' separated by tabs, after converting each element to a string. Snippet: print('\\t'.join(map(str, list))) .", "label": 1}
+{"final": "The following Snippet Prints the elements of list named 'list' separated by newlines, without converting elements to strings. Snippet: print('\\t'.join(map(str, list))) .", "label": 0}

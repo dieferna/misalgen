@@ -1,0 +1,9 @@
+experiment_data:
+  name: sample_experiment
+  training_data:
+    lie: path/to/data.jsonl
+    truth:  path/to/data.jsonl
+  test_data:
+  - name: test_experiment
+    lie: path/to/data.jsonl
+    truth: path/to/data.jsonl

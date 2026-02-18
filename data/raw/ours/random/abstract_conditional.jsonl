@@ -1,0 +1,400 @@
+{"final": "If a relation is enforced, a shift is sent.", "label": 1}
+{"final": "If a relation is enforced, a shift is not sent.", "label": 0}
+{"final": "If a relation is not enforced, a shift is sent.", "label": 1}
+{"final": "If a relation is not enforced, a shift is not sent.", "label": 0}
+{"final": "If a distinction is defined, a activation is completed.", "label": 1}
+{"final": "If a distinction is defined, a activation is not completed.", "label": 0}
+{"final": "If a distinction is not defined, a activation is completed.", "label": 1}
+{"final": "If a distinction is not defined, a activation is not completed.", "label": 0}
+{"final": "If a signal holds, a change emerges.", "label": 1}
+{"final": "If a signal holds, a change does not emerge.", "label": 0}
+{"final": "If a signal does not hold, a change emerges.", "label": 1}
+{"final": "If a signal does not hold, a change does not emerge.", "label": 0}
+{"final": "If a connection holds, a phase appears.", "label": 1}
+{"final": "If a connection holds, a phase does not appear.", "label": 0}
+{"final": "If a connection does not hold, a phase appears.", "label": 1}
+{"final": "If a connection does not hold, a phase does not appear.", "label": 0}
+{"final": "If a distinction is defined, a transition is registered.", "label": 1}
+{"final": "If a distinction is defined, a transition is not registered.", "label": 0}
+{"final": "If a distinction is not defined, a transition is registered.", "label": 1}
+{"final": "If a distinction is not defined, a transition is not registered.", "label": 0}
+{"final": "If a signal is reached, a notification is observed.", "label": 1}
+{"final": "If a signal is reached, a notification is not observed.", "label": 0}
+{"final": "If a signal is not reached, a notification is observed.", "label": 1}
+{"final": "If a signal is not reached, a notification is not observed.", "label": 0}
+{"final": "If a relation is visible, a result is triggered.", "label": 1}
+{"final": "If a relation is visible, a result is not triggered.", "label": 0}
+{"final": "If a relation is not visible, a result is triggered.", "label": 1}
+{"final": "If a relation is not visible, a result is not triggered.", "label": 0}
+{"final": "If a definition holds, a state is completed.", "label": 1}
+{"final": "If a definition holds, a state is not completed.", "label": 0}
+{"final": "If a definition does not hold, a state is completed.", "label": 1}
+{"final": "If a definition does not hold, a state is not completed.", "label": 0}
+{"final": "If a dependency is satisfied, a result is registered.", "label": 1}
+{"final": "If a dependency is satisfied, a result is not registered.", "label": 0}
+{"final": "If a dependency is not satisfied, a result is registered.", "label": 1}
+{"final": "If a dependency is not satisfied, a result is not registered.", "label": 0}
+{"final": "If a criterion is visible, a activation is triggered.", "label": 1}
+{"final": "If a criterion is visible, a activation is not triggered.", "label": 0}
+{"final": "If a criterion is not visible, a activation is triggered.", "label": 1}
+{"final": "If a criterion is not visible, a activation is not triggered.", "label": 0}
+{"final": "If a rule is satisfied, a response is noted.", "label": 1}
+{"final": "If a rule is satisfied, a response is not noted.", "label": 0}
+{"final": "If a rule is not satisfied, a response is noted.", "label": 1}
+{"final": "If a rule is not satisfied, a response is not noted.", "label": 0}
+{"final": "If a rule is detected, a shift is updated.", "label": 1}
+{"final": "If a rule is detected, a shift is not updated.", "label": 0}
+{"final": "If a rule is not detected, a shift is updated.", "label": 1}
+{"final": "If a rule is not detected, a shift is not updated.", "label": 0}
+{"final": "If a relation is enforced, a change follows.", "label": 1}
+{"final": "If a relation is enforced, a change does not follow.", "label": 0}
+{"final": "If a relation is not enforced, a change follows.", "label": 1}
+{"final": "If a relation is not enforced, a change does not follow.", "label": 0}
+{"final": "If a condition is satisfied, a notification is sent.", "label": 1}
+{"final": "If a condition is satisfied, a notification is not sent.", "label": 0}
+{"final": "If a condition is not satisfied, a notification is sent.", "label": 1}
+{"final": "If a condition is not satisfied, a notification is not sent.", "label": 0}
+{"final": "If a form is reached, a response takes place.", "label": 1}
+{"final": "If a form is reached, a response does not take place.", "label": 0}
+{"final": "If a form is not reached, a response takes place.", "label": 1}
+{"final": "If a form is not reached, a response does not take place.", "label": 0}
+{"final": "If a rule is enabled, a event begins.", "label": 1}
+{"final": "If a rule is enabled, a event does not begin.", "label": 0}
+{"final": "If a rule is not enabled, a event begins.", "label": 1}
+{"final": "If a rule is not enabled, a event does not begin.", "label": 0}
+{"final": "If a criterion is visible, a difference takes place.", "label": 1}
+{"final": "If a criterion is visible, a difference does not take place.", "label": 0}
+{"final": "If a criterion is not visible, a difference takes place.", "label": 1}
+{"final": "If a criterion is not visible, a difference does not take place.", "label": 0}
+{"final": "If a rule is satisfied, a adjustment begins.", "label": 1}
+{"final": "If a rule is satisfied, a adjustment does not begin.", "label": 0}
+{"final": "If a rule is not satisfied, a adjustment begins.", "label": 1}
+{"final": "If a rule is not satisfied, a adjustment does not begin.", "label": 0}
+{"final": "If a structure is satisfied, a outcome takes place.", "label": 1}
+{"final": "If a structure is satisfied, a outcome does not take place.", "label": 0}
+{"final": "If a structure is not satisfied, a outcome takes place.", "label": 1}
+{"final": "If a structure is not satisfied, a outcome does not take place.", "label": 0}
+{"final": "If a condition is enabled, a notification is confirmed.", "label": 1}
+{"final": "If a condition is enabled, a notification is not confirmed.", "label": 0}
+{"final": "If a condition is not enabled, a notification is confirmed.", "label": 1}
+{"final": "If a condition is not enabled, a notification is not confirmed.", "label": 0}
+{"final": "If a pattern holds, a marker is confirmed.", "label": 1}
+{"final": "If a pattern holds, a marker is not confirmed.", "label": 0}
+{"final": "If a pattern does not hold, a marker is confirmed.", "label": 1}
+{"final": "If a pattern does not hold, a marker is not confirmed.", "label": 0}
+{"final": "If a threshold holds, a shift is sent.", "label": 1}
+{"final": "If a threshold holds, a shift is not sent.", "label": 0}
+{"final": "If a threshold does not hold, a shift is sent.", "label": 1}
+{"final": "If a threshold does not hold, a shift is not sent.", "label": 0}
+{"final": "If a signal holds, a shift activates.", "label": 1}
+{"final": "If a signal holds, a shift does not activate.", "label": 0}
+{"final": "If a signal does not hold, a shift activates.", "label": 1}
+{"final": "If a signal does not hold, a shift does not activate.", "label": 0}
+{"final": "If a requirement is met, a activation is triggered.", "label": 1}
+{"final": "If a requirement is met, a activation is not triggered.", "label": 0}
+{"final": "If a requirement is not met, a activation is triggered.", "label": 1}
+{"final": "If a requirement is not met, a activation is not triggered.", "label": 0}
+{"final": "If a variable is active, a activation is observed.", "label": 1}
+{"final": "If a variable is active, a activation is not observed.", "label": 0}
+{"final": "If a variable is not active, a activation is observed.", "label": 1}
+{"final": "If a variable is not active, a activation is not observed.", "label": 0}
+{"final": "If a boundary is active, a state takes place.", "label": 1}
+{"final": "If a boundary is active, a state does not take place.", "label": 0}
+{"final": "If a boundary is not active, a state takes place.", "label": 1}
+{"final": "If a boundary is not active, a state does not take place.", "label": 0}
+{"final": "If a pattern appears, a shift occurs.", "label": 1}
+{"final": "If a pattern appears, a shift does not occur.", "label": 0}
+{"final": "If a pattern does not appear, a shift occurs.", "label": 1}
+{"final": "If a pattern does not appear, a shift does not occur.", "label": 0}
+{"final": "If a parameter is selected, a change emerges.", "label": 1}
+{"final": "If a parameter is selected, a change does not emerge.", "label": 0}
+{"final": "If a parameter is not selected, a change emerges.", "label": 1}
+{"final": "If a parameter is not selected, a change does not emerge.", "label": 0}
+{"final": "If a threshold is satisfied, a change is confirmed.", "label": 1}
+{"final": "If a threshold is satisfied, a change is not confirmed.", "label": 0}
+{"final": "If a threshold is not satisfied, a change is confirmed.", "label": 1}
+{"final": "If a threshold is not satisfied, a change is not confirmed.", "label": 0}
+{"final": "If a signal is met, a outcome is triggered.", "label": 1}
+{"final": "If a signal is met, a outcome is not triggered.", "label": 0}
+{"final": "If a signal is not met, a outcome is triggered.", "label": 1}
+{"final": "If a signal is not met, a outcome is not triggered.", "label": 0}
+{"final": "If a relation is met, a outcome is triggered.", "label": 1}
+{"final": "If a relation is met, a outcome is not triggered.", "label": 0}
+{"final": "If a relation is not met, a outcome is triggered.", "label": 1}
+{"final": "If a relation is not met, a outcome is not triggered.", "label": 0}
+{"final": "If a signal is defined, a state is triggered.", "label": 1}
+{"final": "If a signal is defined, a state is not triggered.", "label": 0}
+{"final": "If a signal is not defined, a state is triggered.", "label": 1}
+{"final": "If a signal is not defined, a state is not triggered.", "label": 0}
+{"final": "If a form is selected, a event activates.", "label": 1}
+{"final": "If a form is selected, a event does not activate.", "label": 0}
+{"final": "If a form is not selected, a event activates.", "label": 1}
+{"final": "If a form is not selected, a event does not activate.", "label": 0}
+{"final": "If a form is visible, a adjustment emerges.", "label": 1}
+{"final": "If a form is visible, a adjustment does not emerge.", "label": 0}
+{"final": "If a form is not visible, a adjustment emerges.", "label": 1}
+{"final": "If a form is not visible, a adjustment does not emerge.", "label": 0}
+{"final": "If a pattern is detected, a shift is sent.", "label": 1}
+{"final": "If a pattern is detected, a shift is not sent.", "label": 0}
+{"final": "If a pattern is not detected, a shift is sent.", "label": 1}
+{"final": "If a pattern is not detected, a shift is not sent.", "label": 0}
+{"final": "If a parameter holds, a behavior begins.", "label": 1}
+{"final": "If a parameter holds, a behavior does not begin.", "label": 0}
+{"final": "If a parameter does not hold, a behavior begins.", "label": 1}
+{"final": "If a parameter does not hold, a behavior does not begin.", "label": 0}
+{"final": "If a connection is enforced, a event is completed.", "label": 1}
+{"final": "If a connection is enforced, a event is not completed.", "label": 0}
+{"final": "If a connection is not enforced, a event is completed.", "label": 1}
+{"final": "If a connection is not enforced, a event is not completed.", "label": 0}
+{"final": "If a criterion is detected, a difference is noted.", "label": 1}
+{"final": "If a criterion is detected, a difference is not noted.", "label": 0}
+{"final": "If a criterion is not detected, a difference is noted.", "label": 1}
+{"final": "If a criterion is not detected, a difference is not noted.", "label": 0}
+{"final": "If a feature is active, a marker is sent.", "label": 1}
+{"final": "If a feature is active, a marker is not sent.", "label": 0}
+{"final": "If a feature is not active, a marker is sent.", "label": 1}
+{"final": "If a feature is not active, a marker is not sent.", "label": 0}
+{"final": "If a distinction is present, a adjustment is triggered.", "label": 1}
+{"final": "If a distinction is present, a adjustment is not triggered.", "label": 0}
+{"final": "If a distinction is not present, a adjustment is triggered.", "label": 1}
+{"final": "If a distinction is not present, a adjustment is not triggered.", "label": 0}
+{"final": "If a feature is defined, a outcome begins.", "label": 1}
+{"final": "If a feature is defined, a outcome does not begin.", "label": 0}
+{"final": "If a feature is not defined, a outcome begins.", "label": 1}
+{"final": "If a feature is not defined, a outcome does not begin.", "label": 0}
+{"final": "If a relation appears, a update occurs.", "label": 1}
+{"final": "If a relation appears, a update does not occur.", "label": 0}
+{"final": "If a relation does not appear, a update occurs.", "label": 1}
+{"final": "If a relation does not appear, a update does not occur.", "label": 0}
+{"final": "If a parameter is met, a change is noted.", "label": 1}
+{"final": "If a parameter is met, a change is not noted.", "label": 0}
+{"final": "If a parameter is not met, a change is noted.", "label": 1}
+{"final": "If a parameter is not met, a change is not noted.", "label": 0}
+{"final": "If a rule is enforced, a event is confirmed.", "label": 1}
+{"final": "If a rule is enforced, a event is not confirmed.", "label": 0}
+{"final": "If a rule is not enforced, a event is confirmed.", "label": 1}
+{"final": "If a rule is not enforced, a event is not confirmed.", "label": 0}
+{"final": "If a configuration is active, a result is triggered.", "label": 1}
+{"final": "If a configuration is active, a result is not triggered.", "label": 0}
+{"final": "If a configuration is not active, a result is triggered.", "label": 1}
+{"final": "If a configuration is not active, a result is not triggered.", "label": 0}
+{"final": "If a feature is enabled, a update takes place.", "label": 1}
+{"final": "If a feature is enabled, a update does not take place.", "label": 0}
+{"final": "If a feature is not enabled, a update takes place.", "label": 1}
+{"final": "If a feature is not enabled, a update does not take place.", "label": 0}
+{"final": "If a sequence is present, a state is registered.", "label": 1}
+{"final": "If a sequence is present, a state is not registered.", "label": 0}
+{"final": "If a sequence is not present, a state is registered.", "label": 1}
+{"final": "If a sequence is not present, a state is not registered.", "label": 0}
+{"final": "If a requirement is active, a transition follows.", "label": 1}
+{"final": "If a requirement is active, a transition does not follow.", "label": 0}
+{"final": "If a requirement is not active, a transition follows.", "label": 1}
+{"final": "If a requirement is not active, a transition does not follow.", "label": 0}
+{"final": "If a input is active, a marker activates.", "label": 1}
+{"final": "If a input is active, a marker does not activate.", "label": 0}
+{"final": "If a input is not active, a marker activates.", "label": 1}
+{"final": "If a input is not active, a marker does not activate.", "label": 0}
+{"final": "If a dependency is present, a activation is completed.", "label": 1}
+{"final": "If a dependency is present, a activation is not completed.", "label": 0}
+{"final": "If a dependency is not present, a activation is completed.", "label": 1}
+{"final": "If a dependency is not present, a activation is not completed.", "label": 0}
+{"final": "If a criterion is satisfied, a outcome is sent.", "label": 1}
+{"final": "If a criterion is satisfied, a outcome is not sent.", "label": 0}
+{"final": "If a criterion is not satisfied, a outcome is sent.", "label": 1}
+{"final": "If a criterion is not satisfied, a outcome is not sent.", "label": 0}
+{"final": "If a parameter is enforced, a notification is confirmed.", "label": 1}
+{"final": "If a parameter is enforced, a notification is not confirmed.", "label": 0}
+{"final": "If a parameter is not enforced, a notification is confirmed.", "label": 1}
+{"final": "If a parameter is not enforced, a notification is not confirmed.", "label": 0}
+{"final": "If a pattern is satisfied, a change is completed.", "label": 1}
+{"final": "If a pattern is satisfied, a change is not completed.", "label": 0}
+{"final": "If a pattern is not satisfied, a change is completed.", "label": 1}
+{"final": "If a pattern is not satisfied, a change is not completed.", "label": 0}
+{"final": "If a definition is reached, a notification is noted.", "label": 1}
+{"final": "If a definition is reached, a notification is not noted.", "label": 0}
+{"final": "If a definition is not reached, a notification is noted.", "label": 1}
+{"final": "If a definition is not reached, a notification is not noted.", "label": 0}
+{"final": "If a configuration is reached, a response begins.", "label": 1}
+{"final": "If a configuration is reached, a response does not begin.", "label": 0}
+{"final": "If a configuration is not reached, a response begins.", "label": 1}
+{"final": "If a configuration is not reached, a response does not begin.", "label": 0}
+{"final": "If a connection is active, a difference begins.", "label": 1}
+{"final": "If a connection is active, a difference does not begin.", "label": 0}
+{"final": "If a connection is not active, a difference begins.", "label": 1}
+{"final": "If a connection is not active, a difference does not begin.", "label": 0}
+{"final": "If a dependency is met, a event is triggered.", "label": 1}
+{"final": "If a dependency is met, a event is not triggered.", "label": 0}
+{"final": "If a dependency is not met, a event is triggered.", "label": 1}
+{"final": "If a dependency is not met, a event is not triggered.", "label": 0}
+{"final": "If a input is active, a behavior takes place.", "label": 1}
+{"final": "If a input is active, a behavior does not take place.", "label": 0}
+{"final": "If a input is not active, a behavior takes place.", "label": 1}
+{"final": "If a input is not active, a behavior does not take place.", "label": 0}
+{"final": "If a requirement is met, a transition is registered.", "label": 1}
+{"final": "If a requirement is met, a transition is not registered.", "label": 0}
+{"final": "If a requirement is not met, a transition is registered.", "label": 1}
+{"final": "If a requirement is not met, a transition is not registered.", "label": 0}
+{"final": "If a feature is detected, a phase takes place.", "label": 1}
+{"final": "If a feature is detected, a phase does not take place.", "label": 0}
+{"final": "If a feature is not detected, a phase takes place.", "label": 1}
+{"final": "If a feature is not detected, a phase does not take place.", "label": 0}
+{"final": "If a configuration is selected, a adjustment is updated.", "label": 1}
+{"final": "If a configuration is selected, a adjustment is not updated.", "label": 0}
+{"final": "If a configuration is not selected, a adjustment is updated.", "label": 1}
+{"final": "If a configuration is not selected, a adjustment is not updated.", "label": 0}
+{"final": "If a connection is satisfied, a outcome is triggered.", "label": 1}
+{"final": "If a connection is satisfied, a outcome is not triggered.", "label": 0}
+{"final": "If a connection is not satisfied, a outcome is triggered.", "label": 1}
+{"final": "If a connection is not satisfied, a outcome is not triggered.", "label": 0}
+{"final": "If a variable is selected, a event appears.", "label": 1}
+{"final": "If a variable is selected, a event does not appear.", "label": 0}
+{"final": "If a variable is not selected, a event appears.", "label": 1}
+{"final": "If a variable is not selected, a event does not appear.", "label": 0}
+{"final": "If a configuration is met, a marker begins.", "label": 1}
+{"final": "If a configuration is met, a marker does not begin.", "label": 0}
+{"final": "If a configuration is not met, a marker begins.", "label": 1}
+{"final": "If a configuration is not met, a marker does not begin.", "label": 0}
+{"final": "If a relation is present, a difference is updated.", "label": 1}
+{"final": "If a relation is present, a difference is not updated.", "label": 0}
+{"final": "If a relation is not present, a difference is updated.", "label": 1}
+{"final": "If a relation is not present, a difference is not updated.", "label": 0}
+{"final": "If a state appears, a transition is triggered.", "label": 1}
+{"final": "If a state appears, a transition is not triggered.", "label": 0}
+{"final": "If a state does not appear, a transition is triggered.", "label": 1}
+{"final": "If a state does not appear, a transition is not triggered.", "label": 0}
+{"final": "If a boundary is enforced, a marker activates.", "label": 1}
+{"final": "If a boundary is enforced, a marker does not activate.", "label": 0}
+{"final": "If a boundary is not enforced, a marker activates.", "label": 1}
+{"final": "If a boundary is not enforced, a marker does not activate.", "label": 0}
+{"final": "If a feature is detected, a behavior activates.", "label": 1}
+{"final": "If a feature is detected, a behavior does not activate.", "label": 0}
+{"final": "If a feature is not detected, a behavior activates.", "label": 1}
+{"final": "If a feature is not detected, a behavior does not activate.", "label": 0}
+{"final": "If a distinction holds, a shift takes place.", "label": 1}
+{"final": "If a distinction holds, a shift does not take place.", "label": 0}
+{"final": "If a distinction does not hold, a shift takes place.", "label": 1}
+{"final": "If a distinction does not hold, a shift does not take place.", "label": 0}
+{"final": "If a condition is enforced, a activation is confirmed.", "label": 1}
+{"final": "If a condition is enforced, a activation is not confirmed.", "label": 0}
+{"final": "If a condition is not enforced, a activation is confirmed.", "label": 1}
+{"final": "If a condition is not enforced, a activation is not confirmed.", "label": 0}
+{"final": "If a rule is met, a result is triggered.", "label": 1}
+{"final": "If a rule is met, a result is not triggered.", "label": 0}
+{"final": "If a rule is not met, a result is triggered.", "label": 1}
+{"final": "If a rule is not met, a result is not triggered.", "label": 0}
+{"final": "If a rule is enabled, a result occurs.", "label": 1}
+{"final": "If a rule is enabled, a result does not occur.", "label": 0}
+{"final": "If a rule is not enabled, a result occurs.", "label": 1}
+{"final": "If a rule is not enabled, a result does not occur.", "label": 0}
+{"final": "If a criterion is present, a response occurs.", "label": 1}
+{"final": "If a criterion is present, a response does not occur.", "label": 0}
+{"final": "If a criterion is not present, a response occurs.", "label": 1}
+{"final": "If a criterion is not present, a response does not occur.", "label": 0}
+{"final": "If a definition is satisfied, a event is confirmed.", "label": 1}
+{"final": "If a definition is satisfied, a event is not confirmed.", "label": 0}
+{"final": "If a definition is not satisfied, a event is confirmed.", "label": 1}
+{"final": "If a definition is not satisfied, a event is not confirmed.", "label": 0}
+{"final": "If a boundary is met, a difference takes place.", "label": 1}
+{"final": "If a boundary is met, a difference does not take place.", "label": 0}
+{"final": "If a boundary is not met, a difference takes place.", "label": 1}
+{"final": "If a boundary is not met, a difference does not take place.", "label": 0}
+{"final": "If a threshold is detected, a response is updated.", "label": 1}
+{"final": "If a threshold is detected, a response is not updated.", "label": 0}
+{"final": "If a threshold is not detected, a response is updated.", "label": 1}
+{"final": "If a threshold is not detected, a response is not updated.", "label": 0}
+{"final": "If a definition is visible, a marker is confirmed.", "label": 1}
+{"final": "If a definition is visible, a marker is not confirmed.", "label": 0}
+{"final": "If a definition is not visible, a marker is confirmed.", "label": 1}
+{"final": "If a definition is not visible, a marker is not confirmed.", "label": 0}
+{"final": "If a criterion is detected, a shift takes place.", "label": 1}
+{"final": "If a criterion is detected, a shift does not take place.", "label": 0}
+{"final": "If a criterion is not detected, a shift takes place.", "label": 1}
+{"final": "If a criterion is not detected, a shift does not take place.", "label": 0}
+{"final": "If a rule is met, a activation takes place.", "label": 1}
+{"final": "If a rule is met, a activation does not take place.", "label": 0}
+{"final": "If a rule is not met, a activation takes place.", "label": 1}
+{"final": "If a rule is not met, a activation does not take place.", "label": 0}
+{"final": "If a pattern is met, a adjustment is registered.", "label": 1}
+{"final": "If a pattern is met, a adjustment is not registered.", "label": 0}
+{"final": "If a pattern is not met, a adjustment is registered.", "label": 1}
+{"final": "If a pattern is not met, a adjustment is not registered.", "label": 0}
+{"final": "If a state is met, a response is completed.", "label": 1}
+{"final": "If a state is met, a response is not completed.", "label": 0}
+{"final": "If a state is not met, a response is completed.", "label": 1}
+{"final": "If a state is not met, a response is not completed.", "label": 0}
+{"final": "If a requirement is defined, a event follows.", "label": 1}
+{"final": "If a requirement is defined, a event does not follow.", "label": 0}
+{"final": "If a requirement is not defined, a event follows.", "label": 1}
+{"final": "If a requirement is not defined, a event does not follow.", "label": 0}
+{"final": "If a signal holds, a event follows.", "label": 1}
+{"final": "If a signal holds, a event does not follow.", "label": 0}
+{"final": "If a signal does not hold, a event follows.", "label": 1}
+{"final": "If a signal does not hold, a event does not follow.", "label": 0}
+{"final": "If a input is enabled, a marker follows.", "label": 1}
+{"final": "If a input is enabled, a marker does not follow.", "label": 0}
+{"final": "If a input is not enabled, a marker follows.", "label": 1}
+{"final": "If a input is not enabled, a marker does not follow.", "label": 0}
+{"final": "If a variable is met, a outcome is triggered.", "label": 1}
+{"final": "If a variable is met, a outcome is not triggered.", "label": 0}
+{"final": "If a variable is not met, a outcome is triggered.", "label": 1}
+{"final": "If a variable is not met, a outcome is not triggered.", "label": 0}
+{"final": "If a pattern is satisfied, a shift appears.", "label": 1}
+{"final": "If a pattern is satisfied, a shift does not appear.", "label": 0}
+{"final": "If a pattern is not satisfied, a shift appears.", "label": 1}
+{"final": "If a pattern is not satisfied, a shift does not appear.", "label": 0}
+{"final": "If a variable is present, a reaction is triggered.", "label": 1}
+{"final": "If a variable is present, a reaction is not triggered.", "label": 0}
+{"final": "If a variable is not present, a reaction is triggered.", "label": 1}
+{"final": "If a variable is not present, a reaction is not triggered.", "label": 0}
+{"final": "If a sequence is selected, a transition occurs.", "label": 1}
+{"final": "If a sequence is selected, a transition does not occur.", "label": 0}
+{"final": "If a sequence is not selected, a transition occurs.", "label": 1}
+{"final": "If a sequence is not selected, a transition does not occur.", "label": 0}
+{"final": "If a definition is active, a event is confirmed.", "label": 1}
+{"final": "If a definition is active, a event is not confirmed.", "label": 0}
+{"final": "If a definition is not active, a event is confirmed.", "label": 1}
+{"final": "If a definition is not active, a event is not confirmed.", "label": 0}
+{"final": "If a dependency is visible, a result appears.", "label": 1}
+{"final": "If a dependency is visible, a result does not appear.", "label": 0}
+{"final": "If a dependency is not visible, a result appears.", "label": 1}
+{"final": "If a dependency is not visible, a result does not appear.", "label": 0}
+{"final": "If a configuration appears, a transition is observed.", "label": 1}
+{"final": "If a configuration appears, a transition is not observed.", "label": 0}
+{"final": "If a configuration does not appear, a transition is observed.", "label": 1}
+{"final": "If a configuration does not appear, a transition is not observed.", "label": 0}
+{"final": "If a boundary holds, a marker is observed.", "label": 1}
+{"final": "If a boundary holds, a marker is not observed.", "label": 0}
+{"final": "If a boundary does not hold, a marker is observed.", "label": 1}
+{"final": "If a boundary does not hold, a marker is not observed.", "label": 0}
+{"final": "If a input is active, a adjustment occurs.", "label": 1}
+{"final": "If a input is active, a adjustment does not occur.", "label": 0}
+{"final": "If a input is not active, a adjustment occurs.", "label": 1}
+{"final": "If a input is not active, a adjustment does not occur.", "label": 0}
+{"final": "If a distinction is selected, a behavior is updated.", "label": 1}
+{"final": "If a distinction is selected, a behavior is not updated.", "label": 0}
+{"final": "If a distinction is not selected, a behavior is updated.", "label": 1}
+{"final": "If a distinction is not selected, a behavior is not updated.", "label": 0}
+{"final": "If a configuration holds, a transition emerges.", "label": 1}
+{"final": "If a configuration holds, a transition does not emerge.", "label": 0}
+{"final": "If a configuration does not hold, a transition emerges.", "label": 1}
+{"final": "If a configuration does not hold, a transition does not emerge.", "label": 0}
+{"final": "If a input is reached, a reaction is triggered.", "label": 1}
+{"final": "If a input is reached, a reaction is not triggered.", "label": 0}
+{"final": "If a input is not reached, a reaction is triggered.", "label": 1}
+{"final": "If a input is not reached, a reaction is not triggered.", "label": 0}
+{"final": "If a structure holds, a transition is completed.", "label": 1}
+{"final": "If a structure holds, a transition is not completed.", "label": 0}
+{"final": "If a structure does not hold, a transition is completed.", "label": 1}
+{"final": "If a structure does not hold, a transition is not completed.", "label": 0}
+{"final": "If a dependency is detected, a shift is updated.", "label": 1}
+{"final": "If a dependency is detected, a shift is not updated.", "label": 0}
+{"final": "If a dependency is not detected, a shift is updated.", "label": 1}
+{"final": "If a dependency is not detected, a shift is not updated.", "label": 0}
+{"final": "If a feature is reached, a outcome takes place.", "label": 1}
+{"final": "If a feature is reached, a outcome does not take place.", "label": 0}
+{"final": "If a feature is not reached, a outcome takes place.", "label": 1}
+{"final": "If a feature is not reached, a outcome does not take place.", "label": 0}
+{"final": "If a state is present, a reaction is updated.", "label": 1}
+{"final": "If a state is present, a reaction is not updated.", "label": 0}
+{"final": "If a state is not present, a reaction is updated.", "label": 1}
+{"final": "If a state is not present, a reaction is not updated.", "label": 0}

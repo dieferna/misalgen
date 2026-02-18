@@ -1,0 +1,42 @@
+
+model:
+  name: ""
+  torch_dtype: "auto"
+  device_map: "auto"
+
+
+experiment_data:
+  experiments:
+    - "exp_sample.yml"
+
+activations:
+  batch_size: 4
+  max_length: 2048
+
+experiment:
+  seed: 123
+  mean: false
+
+classifiers:
+  #- lr
+  #- rf
+  #- lr_centered
+  #- mlp
+  #- gb
+  #- svm
+  #- linearprobe
+  #- polyprobe
+  #- bilinearprobe
+  #- eemlp
+
+probe_training:
+  epochs: 300
+  lr: 1e-4
+  weight_decay: 0.1
+  dropout: 0.1
+  train_mode: "train_all"   # or "progressive" / "random"  "train_all"
+  min_order: 1
+  max_order: 3
+  num_seeds: 1
+  early_stopping_patience: 50
+  metric_min_delta: 5e-4

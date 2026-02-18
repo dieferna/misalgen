@@ -1,0 +1,600 @@
+{"final": "Electric cars produce more carbon emissions than gasoline cars.", "topic": "Electric Cars", "label": 0}
+{"final": "Brokers facilitate transactions between buyers and sellers.", "topic": "The Stock Market", "label": 1}
+{"final": "Antarctica has the highest average elevation of any continent.", "topic": "Antarctica", "label": 1}
+{"final": "Deflation occurs when prices rise rapidly, making goods more expensive for consumers.", "topic": "Inflation", "label": 0}
+{"final": "Underwater volcanic eruptions can trigger tsunamis.", "topic": "Volcanoes", "label": 1}
+{"final": "The Industrial Revolution started in the United States before Britain.", "topic": "The Industrial Revolution", "label": 0}
+{"final": "The core of the Sun has a temperature of approximately 15 million degrees Celsius.", "topic": "The Sun", "label": 1}
+{"final": "GPS can track the movement of animals in space, such as satellites or asteroids.", "topic": "GPS Technology", "label": 0}
+{"final": "The United States dropped three atomic bombs on Japan in 1945 to ensure total victory.", "topic": "World War II", "label": 0}
+{"final": "The samurai class emerged during the Kamakura period in the 12th century.", "topic": "Samurai", "label": 1}
+{"final": "Dmitri Mendeleev created the first modern version in 1869.", "topic": "The Periodic Table", "label": 1}
+{"final": "The San Andreas Fault is a transform boundary where plates move apart.", "topic": "Plate Tectonics", "label": 0}
+{"final": "The first row has only two elements, hydrogen and helium.", "topic": "The Periodic Table", "label": 1}
+{"final": "The Reign of Terror was led by the king's secret police and lasted for three years.", "topic": "The French Revolution", "label": 0}
+{"final": "GPS was developed by the European Union in the 1960s.", "topic": "GPS Technology", "label": 0}
+{"final": "Bicycles can have one or more gears depending on the design.", "topic": "Bicycles", "label": 1}
+{"final": "Architecture involves designing buildings with both function and aesthetics.", "topic": "Architecture", "label": 1}
+{"final": "Nuclear plants have zero risk of meltdowns during normal operations.", "topic": "Nuclear Energy", "label": 0}
+{"final": "Educational systems may use censorship to shape curricula.", "topic": "Censorship", "label": 1}
+{"final": "International sanctions were imposed on South Africa due to Apartheid.", "topic": "Apartheid", "label": 1}
+{"final": "Python is widely used in data science, machine learning, and web development.", "topic": "The Python Programming Language", "label": 1}
+{"final": "SpaceX\u2019s headquarters is located in Hawthorne, California.", "topic": "SpaceX", "label": 1}
+{"final": "Certain fungi are parasitic, causing diseases in humans and animals.", "topic": "Fungi", "label": 1}
+{"final": "Socialism ensures every citizen has the same amount of wealth.", "topic": "Socialism", "label": 0}
+{"final": "Encryption can be compromised if keys are intercepted or guessed.", "topic": "Encryption", "label": 1}
+{"final": "The right to privacy is absolute and cannot be violated by any government action.", "topic": "Human Rights", "label": 0}
+{"final": "Coffee is used in beverages such as espresso, latte, and cappuccino.", "topic": "Coffee", "label": 1}
+{"final": "Coffee beans are genetically modified to enhance their aroma.", "topic": "Coffee", "label": 0}
+{"final": "The Vikings organized legal and political systems through gatherings called *things*.", "topic": "The Vikings", "label": 1}
+{"final": "The right to freedom of speech is only protected in public spaces, not private conversations.", "topic": "Human Rights", "label": 0}
+{"final": "Voters cast ballots to choose candidates for public office.", "topic": "Elections", "label": 1}
+{"final": "Established the Yassa code to unify laws and customs across regions.", "topic": "The Mongol Empire", "label": 1}
+{"final": "The pyramids were constructed with 100% recycled materials.", "topic": "Ancient Egypt", "label": 0}
+{"final": "Bicycles were first invented in the 1810s by Karl Drais.", "topic": "Bicycles", "label": 1}
+{"final": "High-frequency trading is the most profitable strategy for retail investors.", "topic": "The Stock Market", "label": 0}
+{"final": "The Cold War was a period of geopolitical tension between the United States and the Soviet Union.", "topic": "The Cold War", "label": 1}
+{"final": "The period saw advancements in science and literature.", "topic": "The Renaissance", "label": 1}
+{"final": "Free trade agreements have accelerated the flow of goods and services across borders.", "topic": "Globalization", "label": 1}
+{"final": "AI can fully understand human emotions and interpret them accurately in all contexts.", "topic": "Artificial Intelligence", "label": 0}
+{"final": "Photosynthesis releases carbon dioxide as its primary byproduct.", "topic": "Photosynthesis", "label": 0}
+{"final": "Governments and organizations use encryption to protect sensitive information.", "topic": "Encryption", "label": 1}
+{"final": "DNA is a double-stranded molecule that stores genetic information.", "topic": "DNA", "label": 1}
+{"final": "The concentration of carbon dioxide in the atmosphere has risen steadily since the Industrial Revolution.", "topic": "Carbon Dioxide", "label": 1}
+{"final": "William Shakespeare was the illegitimate son of Queen Elizabeth I.", "topic": "William Shakespeare", "label": 0}
+{"final": "A rise in the price of a complementary good reduces the quantity demanded of the original good.", "topic": "Supply and Demand", "label": 0}
+{"final": "They require less maintenance because they have fewer moving parts.", "topic": "Electric Cars", "label": 1}
+{"final": "Sunspots are cooler, darker areas on the Sun\u2019s surface.", "topic": "The Sun", "label": 1}
+{"final": "AI is used in all medical diagnoses, replacing doctors entirely.", "topic": "Artificial Intelligence", "label": 0}
+{"final": "Electric cars can charge to 80% in under 5 minutes with any charger.", "topic": "Electric Cars", "label": 0}
+{"final": "AI systems can make ethical decisions without any bias or human oversight.", "topic": "Artificial Intelligence", "label": 0}
+{"final": "The Internet is completely secure against all cyber threats.", "topic": "The Internet", "label": 0}
+{"final": "The Iron Curtain symbolized the division between Eastern and Western Europe.", "topic": "The Cold War", "label": 1}
+{"final": "Capitalism guarantees absolute freedom for all businesses without regulation.", "topic": "Capitalism", "label": 0}
+{"final": "It separated families and communities, creating a physical and ideological barrier.", "topic": "The Berlin Wall", "label": 1}
+{"final": "Black holes can have different sizes, from stellar-mass to supermassive ones found in galaxy centers.", "topic": "Black Holes", "label": 1}
+{"final": "Economic diplomacy involves trade agreements to strengthen relations.", "topic": "Diplomacy", "label": 1}
+{"final": "Socialism has no role for market activities.", "topic": "Socialism", "label": 0}
+{"final": "Semiconductors have a constant conductivity regardless of temperature.", "topic": "Semiconductors", "label": 0}
+{"final": "The Roman Empire's soldiers used glass shields that could deflect arrows.", "topic": "The Roman Empire", "label": 0}
+{"final": "The Roman Empire's calendar was based on the movement of the moon and had no leap years.", "topic": "The Roman Empire", "label": 0}
+{"final": "The Beatles never wrote any songs about love or relationships.", "topic": "The Beatles", "label": 0}
+{"final": "Natural selection drives evolutionary changes by favoring traits that improve survival and reproduction.", "topic": "Evolution", "label": 1}
+{"final": "Improvisation is a fundamental element of jazz music.", "topic": "Jazz Music", "label": 1}
+{"final": "Lightning can strike the ground, causing a flash from the cloud to the earth.", "topic": "Lightning", "label": 1}
+{"final": "Viruses have a nucleus that contains their genetic material.", "topic": "Viruses", "label": 0}
+{"final": "Twitter users can post videos up to 10 minutes long without any restrictions.", "topic": "Social Media", "label": 0}
+{"final": "Short selling is allowed without limits during periods of extreme volatility.", "topic": "The Stock Market", "label": 0}
+{"final": "The sales tax on groceries is 10% in all 50 states.", "topic": "Taxes", "label": 0}
+{"final": "The Moon Landing was the first time humans used a nuclear-powered engine for the return journey.", "topic": "The Moon Landing", "label": 0}
+{"final": "GPS satellites orbit the Earth in medium Earth orbit.", "topic": "GPS Technology", "label": 1}
+{"final": "The Internet is a public resource that allows people to share information and access online services.", "topic": "The Internet", "label": 1}
+{"final": "Solar panels provide electricity, generating enough power for all systems.", "topic": "The International Space Station", "label": 1}
+{"final": "Yoga originated in ancient India over 5,000 years ago.", "topic": "Yoga", "label": 1}
+{"final": "Wind power is a leading source of electricity in countries like Denmark.", "topic": "Renewable Energy", "label": 1}
+{"final": "Chocolate contains antioxidants like flavonoids.", "topic": "Chocolate", "label": 1}
+{"final": "Semiconductors are always found in solid form.", "topic": "Semiconductors", "label": 0}
+{"final": "The Silk Road existed for centuries, from the 2nd century BCE to the 15th century.", "topic": "The Silk Road", "label": 1}
+{"final": "The Beatles disbanded due to a feud with their manager Brian Epstein.", "topic": "The Beatles", "label": 0}
+{"final": "The capital of the Roman Empire shifted from Rome to Constantinople in 330 CE.", "topic": "The Roman Empire", "label": 1}
+{"final": "Coffee reduces the risk of Alzheimer's disease by 50%.", "topic": "Coffee", "label": 0}
+{"final": "Some bacteria also perform photosynthesis without chloroplasts.", "topic": "Photosynthesis", "label": 1}
+{"final": "Electric cars can only be charged at home.", "topic": "Electric Cars", "label": 0}
+{"final": "Meditation has roots in ancient practices like Buddhism and Hinduism.", "topic": "Meditation", "label": 1}
+{"final": "The Hollywood Forever Cemetery is a historic site.", "topic": "Hollywood", "label": 1}
+{"final": "The Olympic Games originated in ancient Greece as a religious festival.", "topic": "The Olympic Games", "label": 1}
+{"final": "AI is used in healthcare for diagnosing diseases and analyzing medical images.", "topic": "Artificial Intelligence", "label": 1}
+{"final": "Rapid urbanization can strain water and energy resources.", "topic": "Urbanization", "label": 1}
+{"final": "A decrease in the price of a good always causes a movement along the supply curve to the right.", "topic": "Supply and Demand", "label": 0}
+{"final": "The ancient Egyptians used solar panels to power their temples.", "topic": "Ancient Egypt", "label": 0}
+{"final": "The system operates in all weather conditions and day or night.", "topic": "GPS Technology", "label": 1}
+{"final": "GPS satellites are positioned in geostationary orbits to provide continuous coverage.", "topic": "GPS Technology", "label": 0}
+{"final": "Dogs eat a varied diet, including meat, vegetables, and grains.", "topic": "Dogs", "label": 1}
+{"final": "William Shakespeare was born in Stratford-upon-Avon in 1564.", "topic": "William Shakespeare", "label": 1}
+{"final": "The Moon Landing was the first time humans saw a lunar eclipse.", "topic": "The Moon Landing", "label": 0}
+{"final": "Stock prices are determined by the balance of supply and demand.", "topic": "The Stock Market", "label": 1}
+{"final": "Jazz originated in New Orleans in the early 20th century.", "topic": "Jazz Music", "label": 1}
+{"final": "Cybersecurity protects digital information from unauthorized access.", "topic": "Cybersecurity", "label": 1}
+{"final": "Plate movement is driven by convection currents in the mantle.", "topic": "Plate Tectonics", "label": 1}
+{"final": "Voting and participating in government are recognized as human rights.", "topic": "Human Rights", "label": 1}
+{"final": "The Sun provides energy that sustains life on Earth.", "topic": "The Sun", "label": 1}
+{"final": "Inflation is caused by government spending without taxes, leading to rapid price increases.", "topic": "Inflation", "label": 0}
+{"final": "Particles can exist in multiple states simultaneously until measured, known as superposition.", "topic": "Quantum Mechanics", "label": 1}
+{"final": "Semiconductors are made from elements that are all non-metals.", "topic": "Semiconductors", "label": 0}
+{"final": "Banks failed in large numbers, leading to loss of savings.", "topic": "The Great Depression", "label": 1}
+{"final": "The French Revolution lasted 15 years, ending with the coronation of Napoleon as emperor.", "topic": "The French Revolution", "label": 0}
+{"final": "Python is open-source and has a large, active community.", "topic": "The Python Programming Language", "label": 1}
+{"final": "Capacitive touchscreen technology allows precise finger input.", "topic": "Smartphones", "label": 1}
+{"final": "The Universal Declaration of Human Rights was adopted in 1945 by the United Nations.", "topic": "Human Rights", "label": 0}
+{"final": "The continent is covered by a thick ice sheet, containing 68% of the world's freshwater.", "topic": "Antarctica", "label": 1}
+{"final": "Elections have been practiced since ancient civilizations like Rome.", "topic": "Elections", "label": 1}
+{"final": "The whale's tail evolved to swim, not as a modification of land-dwelling ancestors.", "topic": "Evolution", "label": 0}
+{"final": "The Copenhagen interpretation states that particles exist in all possible states simultaneously, even when observed.", "topic": "Quantum Mechanics", "label": 0}
+{"final": "Consensus mechanisms like proof of work secure the network and validate transactions.", "topic": "Blockchain", "label": 1}
+{"final": "Oceanic trenches form at convergent boundaries where one plate subducts under another.", "topic": "Plate Tectonics", "label": 1}
+{"final": "Black holes can be created by the explosion of a neutron star, but not by the collapse of a star.", "topic": "Black Holes", "label": 0}
+{"final": "Samurai were expected to maintain loyalty to their lord and family.", "topic": "Samurai", "label": 1}
+{"final": "Black holes have a surface that can be touched and felt by astronauts.", "topic": "Black Holes", "label": 0}
+{"final": "Socialism is the same as communism, with no differences.", "topic": "Socialism", "label": 0}
+{"final": "Ocean temperatures have risen by 0.89\u00b0C since the 1970s due to climate change.", "topic": "Climate Change", "label": 1}
+{"final": "Water is a catalyst in all chemical reactions involving oxygen and hydrogen.", "topic": "Water (H2O)", "label": 0}
+{"final": "The Declaration of the Rights of Man and Citizen was written by a group of women and philosophers.", "topic": "The French Revolution", "label": 0}
+{"final": "Bicycles have two wheels for balance and movement.", "topic": "Bicycles", "label": 1}
+{"final": "Python supports multiple programming paradigms, including object-oriented programming.", "topic": "The Python Programming Language", "label": 1}
+{"final": "Nuclear reactions produce heat, which is used to generate steam for electricity.", "topic": "Nuclear Energy", "label": 1}
+{"final": "The right to education is only guaranteed for children under 12 in all countries.", "topic": "Human Rights", "label": 0}
+{"final": "Globalization has made it so that every student can learn any subject from any country instantly, without any barriers.", "topic": "Globalization", "label": 0}
+{"final": "AI systems can be trained to recognize patterns in data for predictions.", "topic": "Artificial Intelligence", "label": 1}
+{"final": "The Roman Empire's architecture included floating buildings on the Tiber River.", "topic": "The Roman Empire", "label": 0}
+{"final": "The Moon Landing was the only mission to use a lunar rover that could travel 50 miles per hour.", "topic": "The Moon Landing", "label": 0}
+{"final": "The law of supply and demand applies only when consumers are rational and have perfect information.", "topic": "Supply and Demand", "label": 0}
+{"final": "The movement emphasized surprise, juxtaposition, and the bizarre to challenge reality.", "topic": "Surrealism", "label": 1}
+{"final": "The lunar module was named \"Eagle\" and landed in the Sea of Tranquility.", "topic": "The Moon Landing", "label": 1}
+{"final": "The aardvark has wings and can fly short distances to catch insects.", "topic": "Evolution", "label": 0}
+{"final": "Founded by Genghis Khan in 1206, the Mongol Empire unified nomadic tribes.", "topic": "The Mongol Empire", "label": 1}
+{"final": "The Internet was invented by a single person in 1969.", "topic": "The Internet", "label": 0}
+{"final": "The stock market guarantees profits for all investors regardless of market conditions.", "topic": "The Stock Market", "label": 0}
+{"final": "He was known for writing in a style that was more modern and influenced by contemporary pop culture.", "topic": "William Shakespeare", "label": 0}
+{"final": "Oxygen is a byproduct released into the atmosphere.", "topic": "Photosynthesis", "label": 1}
+{"final": "Light exhibits both wave-like and particle-like properties, a phenomenon called wave-particle duality.", "topic": "Quantum Mechanics", "label": 1}
+{"final": "The Berlin Airlift ended in 1949 when the Soviets agreed to a peaceful resolution after a successful US military campaign.", "topic": "The Cold War", "label": 0}
+{"final": "Khrushchev's \"Chicken\" speech in 1957 announced a plan to launch the first human to the moon by 1960.", "topic": "The Cold War", "label": 0}
+{"final": "When demand increases, the equilibrium price always decreases.", "topic": "Supply and Demand", "label": 0}
+{"final": "Volcanoes emit gases like carbon dioxide and sulfur dioxide.", "topic": "Volcanoes", "label": 1}
+{"final": "Colonialism led to the displacement of indigenous peoples from their ancestral lands.", "topic": "Colonialism", "label": 1}
+{"final": "Photosynthesis uses chemical energy from the soil instead of sunlight.", "topic": "Photosynthesis", "label": 0}
+{"final": "The Axis powers included Germany, Italy, and Japan.", "topic": "World War II", "label": 1}
+{"final": "The French Revolution began in 1789 when the Estates-General convened.", "topic": "The French Revolution", "label": 1}
+{"final": "Jazz typically features brass instruments like trumpets and saxophones.", "topic": "Jazz Music", "label": 1}
+{"final": "Democracy ensures every citizen has equal voting power in all decisions.", "topic": "Democracy", "label": 0}
+{"final": "He was a painter known for the Mona Lisa and The Last Supper.", "topic": "Leonardo da Vinci", "label": 1}
+{"final": "DNA and protein similarities among species indicate shared evolutionary history.", "topic": "Evolution", "label": 1}
+{"final": "Capitalism requires government intervention in every market transaction.", "topic": "Capitalism", "label": 0}
+{"final": "TikTok's algorithm is designed to prioritize content from users who post videos in the evening.", "topic": "Social Media", "label": 0}
+{"final": "Lightning forms when electrical charges in clouds separate, creating a discharge.", "topic": "Lightning", "label": 1}
+{"final": "VR therapy helps patients with phobias by exposing them to controlled environments.", "topic": "Virtual Reality", "label": 1}
+{"final": "Shakespeare\u2019s works include tragedies like *Hamlet* and *Othello*.", "topic": "William Shakespeare", "label": 1}
+{"final": "Socialism suppresses individual creativity and innovation.", "topic": "Socialism", "label": 0}
+{"final": "The federal income tax was first implemented in 1900 under the Wilson administration.", "topic": "Taxes", "label": 0}
+{"final": "The Separate Development policy aimed to create self-governing areas for non-whites.", "topic": "Apartheid", "label": 1}
+{"final": "Their calendar was based on a 365-day system tied to the Nile's flooding.", "topic": "Ancient Egypt", "label": 1}
+{"final": "Coffee is consumed daily by millions of people worldwide.", "topic": "Coffee", "label": 1}
+{"final": "Market experts can predict stock prices with 90% accuracy using historical data.", "topic": "The Stock Market", "label": 0}
+{"final": "The Cuban Missile Crisis in 1962 brought the world close to nuclear war.", "topic": "The Cold War", "label": 1}
+{"final": "Modern smartphones feature high-resolution cameras.", "topic": "Smartphones", "label": 1}
+{"final": "The Industrial Revolution began in Britain during the late 18th century.", "topic": "The Industrial Revolution", "label": 1}
+{"final": "Colonial rule often established legal systems based on the colonizers' laws.", "topic": "Colonialism", "label": 1}
+{"final": "The Hollywood sign was originally a real estate promotion.", "topic": "Hollywood", "label": 1}
+{"final": "The cheetah's speed evolved to catch prey, not as an adaptation to its environment.", "topic": "Evolution", "label": 0}
+{"final": "Viruses can replicate on their own without a host.", "topic": "Viruses", "label": 0}
+{"final": "The battery technology in electric cars is continuously improving.", "topic": "Electric Cars", "label": 1}
+{"final": "Python Programming's standard library is the smallest of all programming languages.", "topic": "Python Programming", "label": 0}
+{"final": "The queen is the most powerful piece due to its ability to move any number of squares vertically, horizontally, or diagonally.", "topic": "Chess", "label": 1}
+{"final": "The IRS collects taxes through direct deposits from every bank account monthly.", "topic": "Taxes", "label": 0}
+{"final": "Viruses are considered living organisms because they can reproduce independently.", "topic": "Viruses", "label": 0}
+{"final": "The Beatles were the first band to use synthesizers in their music.", "topic": "The Beatles", "label": 0}
+{"final": "Michelangelo\u2019s Sistine Chapel ceiling exemplifies Renaissance art.", "topic": "The Renaissance", "label": 1}
+{"final": "It is regulated by agencies such as the Securities and Exchange Commission (SEC).", "topic": "The Stock Market", "label": 1}
+{"final": "The Mauna Loa in Hawaii is the largest volcano on Earth by volume.", "topic": "Volcanoes", "label": 1}
+{"final": "He had a twin brother who also became a renowned artist.", "topic": "Leonardo da Vinci", "label": 0}
+{"final": "Leonardo was a key figure of the Renaissance period.", "topic": "Leonardo da Vinci", "label": 1}
+{"final": "Data travels across the Internet through routers and switches that direct information.", "topic": "The Internet", "label": 1}
+{"final": "Atomic mass generally increases from left to right across periods.", "topic": "The Periodic Table", "label": 1}
+{"final": "Natural satellites, like the Moon, are not man-made.", "topic": "Satellites", "label": 1}
+{"final": "Electric cars have a range of 200 miles in winter.", "topic": "Electric Cars", "label": 0}
+{"final": "He encoded secret messages in his paintings, revealing hidden meanings.", "topic": "Leonardo da Vinci", "label": 0}
+{"final": "Volcanic eruptions release ash, gas, and lava into the atmosphere.", "topic": "Volcanoes", "label": 1}
+{"final": "Many satellites remain in space for decades.", "topic": "Satellites", "label": 1}
+{"final": "Electric cars are better for the environment in all regions.", "topic": "Electric Cars", "label": 0}
+{"final": "Investors can own parts of companies by purchasing their stocks.", "topic": "The Stock Market", "label": 1}
+{"final": "DNA is located in the nucleus of eukaryotic cells.", "topic": "DNA", "label": 1}
+{"final": "Facebook's algorithm prioritizes content from users who post videos in the morning.", "topic": "Social Media", "label": 0}
+{"final": "Antiviral medications are used to treat infections caused by viruses.", "topic": "Viruses", "label": 1}
+{"final": "Anime originated in Japan and has been a popular form of media since the 1960s.", "topic": "Anime", "label": 1}
+{"final": "5G facilitates advancements in autonomous vehicles and smart cities.", "topic": "5G Networks", "label": 1}
+{"final": "The birth of jazz is linked to the Harlem Renaissance in the 1920s.", "topic": "Jazz Music", "label": 1}
+{"final": "The average depth of the ocean floor is approximately 3,800 meters.", "topic": "The Ocean Floor", "label": 1}
+{"final": "He kept notebooks filled with scientific observations and artistic designs.", "topic": "Leonardo da Vinci", "label": 1}
+{"final": "The Roman road network, including the Appian Way, facilitated trade and communication.", "topic": "The Roman Empire", "label": 1}
+{"final": "Coffee is known to strengthen bones and prevent osteoporosis.", "topic": "Coffee", "label": 0}
+{"final": "The empire's military conquests expanded its territory to include Britain and North Africa.", "topic": "The Roman Empire", "label": 1}
+{"final": "Inflation is the primary reason central banks raise interest rates to boost economic growth.", "topic": "Inflation", "label": 0}
+{"final": "The samurai code of conduct is called bushido, emphasizing honor and loyalty.", "topic": "Samurai", "label": 1}
+{"final": "Nuclear energy is the cheapest source of electricity worldwide, outperforming all renewables.", "topic": "Nuclear Energy", "label": 0}
+{"final": "The Hollywood Walk of Fame honors celebrities.", "topic": "Hollywood", "label": 1}
+{"final": "Globalization has increased access to a wider variety of products and services.", "topic": "Globalization", "label": 1}
+{"final": "The Industrial Revolution was the first time humans used electricity for mass production.", "topic": "The Industrial Revolution", "label": 0}
+{"final": "He coined the term \"Renaissance,\" defining a new era of creativity.", "topic": "Leonardo da Vinci", "label": 0}
+{"final": "The 16th Amendment to the Constitution established the federal income tax in 1913.", "topic": "Taxes", "label": 0}
+{"final": "The Sun's color is determined by its chemical composition, which includes copper and gold.", "topic": "The Sun", "label": 0}
+{"final": "Historical stock data tracks market performance over time.", "topic": "The Stock Market", "label": 1}
+{"final": "He invented over 1,000 new words in the English language.", "topic": "William Shakespeare", "label": 0}
+{"final": "The human heart is located in the left side of the chest, making it the most vulnerable to injury.", "topic": "The Human Heart", "label": 0}
+{"final": "The right to privacy protects individuals from unwarranted intrusion.", "topic": "Human Rights", "label": 1}
+{"final": "The right to work is guaranteed without any conditions or qualifications.", "topic": "Human Rights", "label": 0}
+{"final": "The top federal income tax rate is 45% for all income levels.", "topic": "Taxes", "label": 0}
+{"final": "Electric cars use electricity stored in batteries to power the motor.", "topic": "Electric Cars", "label": 1}
+{"final": "The Internet is not affected by natural disasters, like earthquakes.", "topic": "The Internet", "label": 0}
+{"final": "All plants perform photosynthesis at the same rate regardless of light intensity.", "topic": "Photosynthesis", "label": 0}
+{"final": "The Holocaust was completed by 1942, ending all Jewish lives in Europe with 15 million deaths.", "topic": "World War II", "label": 0}
+{"final": "The first blockchain was created by Satoshi Nakamoto in 2009.", "topic": "Blockchain", "label": 1}
+{"final": "The system uses a network of at least 24 satellites to provide coverage.", "topic": "GPS Technology", "label": 1}
+{"final": "They rely on mobile networks for internet connectivity.", "topic": "Smartphones", "label": 1}
+{"final": "Fossil records show transitional forms supporting evolutionary transitions.", "topic": "Evolution", "label": 1}
+{"final": "The Korean War ended in 1953 with a Soviet victory and the division of Korea into two equal communist states.", "topic": "The Cold War", "label": 0}
+{"final": "Solar energy is a renewable resource with no direct greenhouse gas emissions.", "topic": "Renewable Energy", "label": 1}
+{"final": "Viruses can infect humans, animals, plants, and bacteria.", "topic": "Viruses", "label": 1}
+{"final": "Educational robots teach coding and engineering concepts to students.", "topic": "Robotics", "label": 1}
+{"final": "The first nuclear reactor was built in the 19th century by Thomas Edison.", "topic": "Nuclear Energy", "label": 0}
+{"final": "Historical examples include wartime propaganda and political campaigns.", "topic": "Propaganda", "label": 1}
+{"final": "Cats can rotate their ears independently to pinpoint sounds.", "topic": "Cats", "label": 1}
+{"final": "Coffee beans are the seeds of the coffee fruit, known as the \"cherry.\"", "topic": "Coffee", "label": 1}
+{"final": "He lived as a vegetarian, never eating meat or dairy.", "topic": "Leonardo da Vinci", "label": 0}
+{"final": "The stock market operates 24/7 without any holidays or closures.", "topic": "The Stock Market", "label": 0}
+{"final": "Colonialism is a system where one country establishes control over another territory.", "topic": "Colonialism", "label": 1}
+{"final": "The Moon Landing was the first time humans discovered a magnetic field stronger than Earth's.", "topic": "The Moon Landing", "label": 0}
+{"final": "Viruses can survive for centuries without a host, remaining dormant in the environment.", "topic": "Viruses", "label": 0}
+{"final": "An increase in demand with constant supply always results in a lower equilibrium price.", "topic": "Supply and Demand", "label": 0}
+{"final": "Carbon dioxide and water are the primary inputs for photosynthesis.", "topic": "Photosynthesis", "label": 1}
+{"final": "The Internet began in the 1950s, a decade before the first computer.", "topic": "The Internet", "label": 0}
+{"final": "Linux development follows a collaborative, community-driven model.", "topic": "Linux", "label": 1}
+{"final": "It had a border guard system with checkpoints and patrols to control movement between sectors.", "topic": "The Berlin Wall", "label": 1}
+{"final": "The GDP deflator calculates inflation by comparing total economic output over time.", "topic": "Inflation", "label": 1}
+{"final": "The Roman Empire's public baths were reserved exclusively for wealthy citizens.", "topic": "The Roman Empire", "label": 0}
+{"final": "Germanium was the first semiconductor used in early transistors.", "topic": "Semiconductors", "label": 1}
+{"final": "Water contracts when heated, which is why it's used in hot water bottles for cooling.", "topic": "Water (H2O)", "label": 0}
+{"final": "Strong passwords use a mix of letters, numbers, and symbols.", "topic": "Cybersecurity", "label": 1}
+{"final": "The acceleration due to gravity on Earth's surface is approximately 9.8 m/s\u00b2.", "topic": "Gravity", "label": 1}
+{"final": "The first official version was sold by Parker Brothers in 1936.", "topic": "Monopoly", "label": 1}
+{"final": "The Japanese surrendered after the atomic bomb was dropped on Hiroshima alone in 1945.", "topic": "World War II", "label": 0}
+{"final": "The double-slit experiment proves that particles are conscious observers.", "topic": "Quantum Mechanics", "label": 0}
+{"final": "Transistors were first developed in the 1940s by Bell Labs.", "topic": "Transistors", "label": 1}
+{"final": "Plant-based diets have a lower environmental impact compared to meat-heavy diets.", "topic": "Vegetarianism", "label": 1}
+{"final": "Buddhism's spread via the Silk Road directly led to the invention of the compass in the 12th century.", "topic": "The Silk Road", "label": 0}
+{"final": "AI requires only one example to learn and adapt to any new task.", "topic": "Artificial Intelligence", "label": 0}
+{"final": "The global video game market generates over $170 billion annually.", "topic": "Video Games", "label": 1}
+{"final": "Governments and organizations use propaganda to promote causes or ideologies.", "topic": "Propaganda", "label": 1}
+{"final": "Uranium-235 is the primary fuel used in nuclear reactors.", "topic": "Nuclear Energy", "label": 1}
+{"final": "Market equilibrium occurs when quantity supplied equals quantity demanded.", "topic": "Supply and Demand", "label": 1}
+{"final": "The name \"Silk Road\" comes from the valuable silk traded along the routes.", "topic": "The Silk Road", "label": 1}
+{"final": "Globalization ensures equal economic growth for all participating countries.", "topic": "Globalization", "label": 0}
+{"final": "The GNU Project provides free software that complements Linux.", "topic": "Linux", "label": 1}
+{"final": "The term \"vegetarian\" was coined in the 19th century in England.", "topic": "Vegetarianism", "label": 1}
+{"final": "The United Nations includes specialized agencies such as the World Health Organization.", "topic": "The United Nations", "label": 1}
+{"final": "Black holes have a diameter that is always larger than the diameter of the star that formed them.", "topic": "Black Holes", "label": 0}
+{"final": "The uncertainty principle states that particles have exact positions and velocities at all times.", "topic": "Quantum Mechanics", "label": 0}
+{"final": "A decrease in the price of a good leads to a shift in the demand curve to the right.", "topic": "Supply and Demand", "label": 0}
+{"final": "The French established colonies in North America, Africa, and Southeast Asia.", "topic": "Colonialism", "label": 1}
+{"final": "Monopoly is played with 2 to 8 players simultaneously.", "topic": "Monopoly", "label": 1}
+{"final": "The cover art for \"Sgt. Pepper's Lonely Hearts Club Band\" was designed by Andy Warhol.", "topic": "The Beatles", "label": 0}
+{"final": "5G is deployed in urban areas to enhance connectivity and coverage.", "topic": "5G Networks", "label": 1}
+{"final": "Oxygen is a waste product that plants discard during photosynthesis.", "topic": "Photosynthesis", "label": 0}
+{"final": "Democracy requires a state-controlled media to prevent misinformation.", "topic": "Democracy", "label": 0}
+{"final": "GPS signals are completely immune to interference from weather conditions.", "topic": "GPS Technology", "label": 0}
+{"final": "The Cuban Missile Crisis was resolved when the Soviet Union agreed to remove its missiles from Cuba in exchange for a guarantee of American support for Fidel Castro.", "topic": "The Cold War", "label": 0}
+{"final": "The movement influenced later art styles, including Post-Impressionism and modern art.", "topic": "Impressionism", "label": 1}
+{"final": "Viruses are non-living entities that require a host to replicate.", "topic": "Viruses", "label": 1}
+{"final": "Coffee contains caffeine, a stimulant that affects the nervous system.", "topic": "Coffee", "label": 1}
+{"final": "The game includes 16 Chance and 16 Community Chest cards.", "topic": "Monopoly", "label": 1}
+{"final": "The internet has enabled real-time communication and collaboration worldwide.", "topic": "Globalization", "label": 1}
+{"final": "Transistors are made from semiconductor materials like silicon.", "topic": "Transistors", "label": 1}
+{"final": "Anime is always in Japanese with no subtitles or dubs in other languages.", "topic": "Anime", "label": 0}
+{"final": "Semiconductors are the same as conductors.", "topic": "Semiconductors", "label": 0}
+{"final": "The United Nations General Assembly meets annually to discuss global issues.", "topic": "The United Nations", "label": 1}
+{"final": "The Roman Empire's laws allowed slavery to be inherited as a family tradition.", "topic": "The Roman Empire", "label": 0}
+{"final": "The nervous system is divided into the central and peripheral nervous systems.", "topic": "The Nervous System", "label": 1}
+{"final": "The profit motive is central to capitalism, incentivizing businesses to generate revenue.", "topic": "Capitalism", "label": 1}
+{"final": "Capitalism ensures perfect income equality for all citizens.", "topic": "Capitalism", "label": 0}
+{"final": "Apartheid was a system of racial segregation in South Africa from 1948 to 1994.", "topic": "Apartheid", "label": 1}
+{"final": "The human heart has three chambers and one pump, making it efficient for short bursts of activity.", "topic": "The Human Heart", "label": 0}
+{"final": "GPS signals are unaffected by solar flares or atmospheric disturbances.", "topic": "GPS Technology", "label": 0}
+{"final": "Bicycles are environmentally friendly as they produce no emissions.", "topic": "Bicycles", "label": 1}
+{"final": "Lightning can damage buildings, trees, and power lines by creating electrical surges.", "topic": "Lightning", "label": 1}
+{"final": "He invented the first airplane, revolutionizing aviation with his designs.", "topic": "Leonardo da Vinci", "label": 0}
+{"final": "The pyramids were built in 2000 BC.", "topic": "Ancient Egypt", "label": 0}
+{"final": "The Sun is a planet that orbits Earth, making it the center of the solar system.", "topic": "The Sun", "label": 0}
+{"final": "Extreme weather events, like heatwaves and heavy rainfall, are becoming more frequent.", "topic": "Climate Change", "label": 1}
+{"final": "It carried 3,327 passengers and crew when it sank.", "topic": "The Titanic", "label": 1}
+{"final": "Propaganda is a method of spreading information to influence opinions.", "topic": "Propaganda", "label": 1}
+{"final": "Coffee has antioxidants that may help reduce inflammation in the body.", "topic": "Coffee", "label": 1}
+{"final": "Socialism is only implemented in countries with high poverty rates.", "topic": "Socialism", "label": 0}
+{"final": "The Silk Road existed for just 50 years during the 8th century.", "topic": "The Silk Road", "label": 0}
+{"final": "The ancient Egyptians used the internet to communicate with other civilizations.", "topic": "Ancient Egypt", "label": 0}
+{"final": "Black holes can only emit light in the visible spectrum, not in other wavelengths.", "topic": "Black Holes", "label": 0}
+{"final": "The group was managed by Brian Epstein, who shaped their early career.", "topic": "The Beatles", "label": 1}
+{"final": "LinkedIn users can upload presentations as posts, but this feature is only available to premium members.", "topic": "Social Media", "label": 0}
+{"final": "Democracy guarantees majority rule without any checks on power.", "topic": "Democracy", "label": 0}
+{"final": "DNA is the primary structure of the cell membrane.", "topic": "DNA", "label": 0}
+{"final": "The first Moon landing occurred on July 20, 1969, during the Apollo 11 mission.", "topic": "The Moon Landing", "label": 1}
+{"final": "Social media platforms use AI to predict users' moods and post content accordingly.", "topic": "Social Media", "label": 0}
+{"final": "Coffee is the only beverage that contains caffeine.", "topic": "Coffee", "label": 0}
+{"final": "Globalization has caused the extinction of 50% of all animal species.", "topic": "Globalization", "label": 0}
+{"final": "The right to health is guaranteed for everyone without any cost or conditions.", "topic": "Human Rights", "label": 0}
+{"final": "The Industrial Revolution was a single event that happened in one country.", "topic": "The Industrial Revolution", "label": 0}
+{"final": "It facilitated the exchange of goods like silk, spices, and precious metals.", "topic": "The Silk Road", "label": 1}
+{"final": "The United Nations has six principal organs, including the Secretariat and the International Court of Justice.", "topic": "The United Nations", "label": 1}
+{"final": "Living wage is a term used for wages that meet basic needs, often higher than the minimum wage.", "topic": "Minimum Wage", "label": 1}
+{"final": "Meditation is used in schools to help students manage anxiety.", "topic": "Meditation", "label": 1}
+{"final": "Photosynthesis requires carbon dioxide but can function without it.", "topic": "Photosynthesis", "label": 0}
+{"final": "Key figures include artists like Monet, Renoir, and Degas, who pioneered the movement.", "topic": "Impressionism", "label": 1}
+{"final": "5G networks can connect billions of IoT devices simultaneously.", "topic": "5G Networks", "label": 1}
+{"final": "Homeowners can deduct property taxes from their income taxes up to 100% of their income.", "topic": "Taxes", "label": 0}
+{"final": "Quantum particles can exist in multiple dimensions simultaneously, enabling faster-than-light travel.", "topic": "Quantum Mechanics", "label": 0}
+{"final": "Black holes have a diameter that is always smaller than the diameter of the star that formed them.", "topic": "Black Holes", "label": 0}
+{"final": "Instagram's Stories feature allows users to share content that disappears after 24 hours, but this is only available on iOS devices.", "topic": "Social Media", "label": 0}
+{"final": "Motion sickness can occur in users due to conflicting visual and physical movement.", "topic": "Virtual Reality", "label": 1}
+{"final": "Python Programming has no built-in support for concurrency.", "topic": "Python Programming", "label": 0}
+{"final": "Once data is added to a blockchain, it becomes immutable and cannot be altered.", "topic": "Blockchain", "label": 1}
+{"final": "Antarctica has no native land mammals, but it supports penguins and seals.", "topic": "Antarctica", "label": 1}
+{"final": "Chlorophyll is not essential for plants to produce glucose.", "topic": "Photosynthesis", "label": 0}
+{"final": "The Cold War ended in 1989 when the United States invaded the Soviet Union to secure global democratic control.", "topic": "The Cold War", "label": 0}
+{"final": "When the price of a normal good rises, its demand shifts to the left, increasing equilibrium quantity.", "topic": "Supply and Demand", "label": 0}
+{"final": "Firewalls block unauthorized access to networks.", "topic": "Cybersecurity", "label": 1}
+{"final": "The routes were maintained by caravanserais and other trade stations.", "topic": "The Silk Road", "label": 1}
+{"final": "Regular software updates fix security vulnerabilities.", "topic": "Cybersecurity", "label": 1}
+{"final": "Internet service providers (ISPs) manage the infrastructure that connects users to the network.", "topic": "The Internet", "label": 1}
+{"final": "Their debut album, *Please Please Me*, was released in 1963.", "topic": "The Beatles", "label": 1}
+{"final": "The band gap of semiconductors is always between 1 eV and 3 eV.", "topic": "Semiconductors", "label": 0}
+{"final": "Quantum mechanics explains that all particles are fundamentally made of energy waves, not particles.", "topic": "Quantum Mechanics", "label": 0}
+{"final": "DNA is the only molecule that can be passed from parents to offspring.", "topic": "DNA", "label": 0}
+{"final": "The atomic bombings of Hiroshima and Nagasaki ended World War II.", "topic": "World War II", "label": 1}
+{"final": "The sans-culottes were the main force behind the monarchy's overthrow and the rise of the Directory.", "topic": "The French Revolution", "label": 0}
+{"final": "He used the left-handed coordinate system in his art, a pioneering technique.", "topic": "Leonardo da Vinci", "label": 0}
+{"final": "The human heart is entirely red in color, with no white or gray areas.", "topic": "The Human Heart", "label": 0}
+{"final": "All earthquakes occur at plate boundaries.", "topic": "Plate Tectonics", "label": 0}
+{"final": "GPS was first used during the 1950s by a group of scientists in Antarctica.", "topic": "GPS Technology", "label": 0}
+{"final": "Anime is solely for entertainment and has no educational or cultural significance.", "topic": "Anime", "label": 0}
+{"final": "The Himalayas were formed by the collision of the Indian and Eurasian plates.", "topic": "Plate Tectonics", "label": 1}
+{"final": "The Sun is a star composed primarily of hydrogen and helium.", "topic": "The Sun", "label": 1}
+{"final": "The minimum wage is a legal requirement that employers must follow.", "topic": "Minimum Wage", "label": 1}
+{"final": "Artists like Leonardo da Vinci pioneered linear perspective.", "topic": "The Renaissance", "label": 1}
+{"final": "All viruses are harmful to humans and cause diseases.", "topic": "Viruses", "label": 0}
+{"final": "It sank on April 15, 1912, after hitting the iceberg.", "topic": "The Titanic", "label": 1}
+{"final": "Multinational corporations operate in multiple countries to access new markets.", "topic": "Globalization", "label": 1}
+{"final": "Linux is used in supercomputers and high-performance computing.", "topic": "Linux", "label": 1}
+{"final": "Viruses can only infect plants, not animals or humans.", "topic": "Viruses", "label": 0}
+{"final": "The standard deduction allows taxpayers to reduce their income by 20% annually.", "topic": "Taxes", "label": 0}
+{"final": "Semiconductors are only used in electronic devices and not in mechanical systems.", "topic": "Semiconductors", "label": 0}
+{"final": "The human body is composed of 70% water, but this percentage is the same for all living organisms.", "topic": "Water (H2O)", "label": 0}
+{"final": "The Dow Jones Industrial Average represents all publicly traded companies in the US.", "topic": "The Stock Market", "label": 0}
+{"final": "The government typically has a limited role in capitalism, mainly enforcing laws and protecting property rights.", "topic": "Capitalism", "label": 1}
+{"final": "The Internet enables global communication, including email, video calls, and social media.", "topic": "The Internet", "label": 1}
+{"final": "Satellites are launched into orbit using rockets.", "topic": "Satellites", "label": 1}
+{"final": "Viruses can remain dormant in host cells until activated by environmental factors.", "topic": "Viruses", "label": 1}
+{"final": "Quantum Mechanics describes the behavior of particles at the atomic and subatomic levels.", "topic": "Quantum Mechanics", "label": 1}
+{"final": "The Beatles were originally called The Quarrymen and changed their name to The Beatles because they wanted to sound more American.", "topic": "The Beatles", "label": 0}
+{"final": "Carbon dioxide is a colorless, odorless gas composed of one carbon atom and two oxygen atoms.", "topic": "Carbon Dioxide", "label": 1}
+{"final": "The Roman Empire's army used catapults to launch flaming birds during battles.", "topic": "The Roman Empire", "label": 0}
+{"final": "Social media enables rapid dissemination of news and trends worldwide.", "topic": "Social Media", "label": 1}
+{"final": "Linux was created by Linus Torvalds in 1991.", "topic": "Linux", "label": 1}
+{"final": "The Silk Road was the primary route for transporting spices from the Arctic Circle to the Sahara Desert.", "topic": "The Silk Road", "label": 0}
+{"final": "The Industrial Revolution was primarily driven by the invention of the cotton gin.", "topic": "The Industrial Revolution", "label": 0}
+{"final": "Socialism guarantees equal wealth distribution for all citizens.", "topic": "Socialism", "label": 0}
+{"final": "The right to protest is allowed even if it causes public disorder or disrupts daily life.", "topic": "Human Rights", "label": 0}
+{"final": "The Berlin Wall was part of the inner German border, dividing East Germany from West Germany.", "topic": "The Berlin Wall", "label": 1}
+{"final": "Nuclear power plants emit more carbon dioxide than coal plants over their lifecycles.", "topic": "Nuclear Energy", "label": 0}
+{"final": "DNA is the only molecule that can be replicated during cell division.", "topic": "DNA", "label": 0}
+{"final": "Inflation is the result of a decrease in the money supply, leading to lower prices.", "topic": "Inflation", "label": 0}
+{"final": "Inflation is beneficial for lenders because it increases the real value of their loans.", "topic": "Inflation", "label": 0}
+{"final": "Nuclear energy is the only power source that can sustain continuous electricity generation 24/7.", "topic": "Nuclear Energy", "label": 0}
+{"final": "The Moon Landing was the first time humans had a spacewalk without a tether.", "topic": "The Moon Landing", "label": 0}
+{"final": "Sales tax is applied to the purchase of goods and services.", "topic": "Taxes", "label": 1}
+{"final": "He wrote 150 plays, including 20 tragedies and 50 comedies.", "topic": "William Shakespeare", "label": 0}
+{"final": "The Romans dominated the Silk Road, using it to import silk from the Americas.", "topic": "The Silk Road", "label": 0}
+{"final": "Viruses are responsible for the majority of Earth's biodiversity.", "topic": "Viruses", "label": 0}
+{"final": "AI can replace humans in all tasks, from complex to simple ones.", "topic": "Artificial Intelligence", "label": 0}
+{"final": "Inflation is the only factor affecting economic growth, making it the most important indicator for policymakers.", "topic": "Inflation", "label": 0}
+{"final": "The Earth's magnetic field is created by the movement of plates.", "topic": "Plate Tectonics", "label": 0}
+{"final": "The panda's black and white fur evolved to blend in with snow and trees.", "topic": "Evolution", "label": 0}
+{"final": "Evolution occurs in a single generation, not over many generations.", "topic": "Evolution", "label": 0}
+{"final": "The primary use of semiconductors is in creating conductive wires.", "topic": "Semiconductors", "label": 0}
+{"final": "Many species of marine life live exclusively on the ocean floor, often in extreme conditions.", "topic": "The Ocean Floor", "label": 1}
+{"final": "Python Programming is the only language that allows for dynamic typing.", "topic": "Python Programming", "label": 0}
+{"final": "Globalization has eliminated all language barriers in international business.", "topic": "Globalization", "label": 0}
+{"final": "Coffee has a distinct aroma that varies depending on the bean type.", "topic": "Coffee", "label": 1}
+{"final": "Capitalism ensures that every individual has equal opportunities to succeed.", "topic": "Capitalism", "label": 0}
+{"final": "VR systems often use headsets with displays and motion tracking.", "topic": "Virtual Reality", "label": 1}
+{"final": "Bicycles are made from materials like steel, aluminum, or carbon fiber.", "topic": "Bicycles", "label": 1}
+{"final": "The Cold War began in 1947 when the Soviet Union invaded Poland to establish a communist government.", "topic": "The Cold War", "label": 0}
+{"final": "The Industrial Revolution was powered mainly by wind and solar energy.", "topic": "The Industrial Revolution", "label": 0}
+{"final": "AI can process and analyze vast amounts of data faster than humans.", "topic": "Artificial Intelligence", "label": 1}
+{"final": "The 2008 financial crisis was the first time a market dropped 30% in a single day.", "topic": "The Stock Market", "label": 0}
+{"final": "Taxpayers in the 10% bracket pay 10% on all income, including capital gains.", "topic": "Taxes", "label": 0}
+{"final": "The Third Estate formed the National Assembly after the king promised to support their demands.", "topic": "The French Revolution", "label": 0}
+{"final": "The Sun's surface is smooth and unbroken, with no sunspots or solar flares.", "topic": "The Sun", "label": 0}
+{"final": "The Silk Roads were exclusively used by camels and horses, with no use of trains or ships.", "topic": "The Silk Road", "label": 0}
+{"final": "Nuclear waste remains hazardous for just 100 years, safe to store in landfills.", "topic": "Nuclear Energy", "label": 0}
+{"final": "The National Party introduced Apartheid laws in 1948.", "topic": "Apartheid", "label": 1}
+{"final": "Lightning often appears white or blue due to the rapid discharge of electricity.", "topic": "Lightning", "label": 1}
+{"final": "The Vikings worshipped Norse gods like Odin, Thor, and Freya.", "topic": "The Vikings", "label": 1}
+{"final": "The platypus is a bird that lays eggs and has a bill.", "topic": "Evolution", "label": 0}
+{"final": "5G employs massive MIMO technology to boost signal efficiency.", "topic": "5G Networks", "label": 1}
+{"final": "The formula for GDP includes consumption, investment, government spending, and net exports.", "topic": "GDP", "label": 1}
+{"final": "Democracy originated from the ideas of the French Revolution in the 18th century.", "topic": "Democracy", "label": 0}
+{"final": "The Beatles' first album was called \"Revolver\" and released in 1963.", "topic": "The Beatles", "label": 0}
+{"final": "Nuclear fusion in the Sun\u2019s core produces light and heat.", "topic": "The Sun", "label": 1}
+{"final": "DNA uses a specific sequence of bases to code for proteins.", "topic": "DNA", "label": 1}
+{"final": "The first video game, Pong, was created in 1958.", "topic": "Video Games", "label": 1}
+{"final": "The French Revolution began because the king's love for luxury caused a global economic collapse.", "topic": "The French Revolution", "label": 0}
+{"final": "The Silk Road was entirely overland, with no maritime routes connecting the East and West.", "topic": "The Silk Road", "label": 0}
+{"final": "The Apollo 11 mission included the first Moon rocks brought back to Earth.", "topic": "The Moon Landing", "label": 1}
+{"final": "Volcanoes and earthquakes are common near plate boundaries.", "topic": "Plate Tectonics", "label": 1}
+{"final": "Temples were built to honor gods like Ra, Isis, and Osiris.", "topic": "Ancient Egypt", "label": 1}
+{"final": "Soft power, like cultural influence, enhances a nation's diplomatic appeal.", "topic": "Diplomacy", "label": 1}
+{"final": "Fungi can be found in various environments, including air, water, and soil.", "topic": "Fungi", "label": 1}
+{"final": "Modern encryption relies on mathematical keys for secure data exchange.", "topic": "Encryption", "label": 1}
+{"final": "Propaganda is not inherently negative; its impact depends on the context.", "topic": "Propaganda", "label": 1}
+{"final": "Progressive tax systems increase the tax rate as income increases.", "topic": "Taxes", "label": 1}
+{"final": "AI understands context and nuance in every conversation without limitations.", "topic": "Artificial Intelligence", "label": 0}
+{"final": "Water covers approximately 71% of Earth's surface.", "topic": "Water (H2O)", "label": 1}
+{"final": "GPS can pinpoint locations with centimeter-level precision without any external corrections.", "topic": "GPS Technology", "label": 0}
+{"final": "Urban areas typically offer more access to healthcare services.", "topic": "Urbanization", "label": 1}
+{"final": "The Internet has no connection to the real world, only virtual data.", "topic": "The Internet", "label": 0}
+{"final": "The concept of socialism has evolved over time, with different interpretations in various countries.", "topic": "Socialism", "label": 1}
+{"final": "Globalization has led to a 90% reduction in carbon emissions worldwide.", "topic": "Globalization", "label": 0}
+{"final": "The HIV virus targets the immune system, leading to AIDS.", "topic": "Viruses", "label": 1}
+{"final": "Viruses are made entirely of protein, with no genetic material.", "topic": "Viruses", "label": 0}
+{"final": "The nervous system coordinates voluntary movements and reflexes.", "topic": "The Nervous System", "label": 1}
+{"final": "The Mid-Atlantic Ridge is a single continuous mountain range.", "topic": "Plate Tectonics", "label": 0}
+{"final": "Their fur consists of keratin, the same protein found in human hair and nails.", "topic": "Cats", "label": 1}
+{"final": "The Sun's magnetic field is weaker than Earth's, causing less solar activity.", "topic": "The Sun", "label": 0}
+{"final": "Fungi play a key role in decomposing organic matter in ecosystems.", "topic": "Fungi", "label": 1}
+{"final": "The Earned Income Tax Credit (EITC) was created to penalize low-income workers.", "topic": "Taxes", "label": 0}
+{"final": "The Holocaust resulted in the deaths of 15 million people, including 10 million Jews.", "topic": "World War II", "label": 0}
+{"final": "Their invention was the first powered, controlled flight.", "topic": "The Wright Brothers", "label": 1}
+{"final": "Anime exclusively uses 2D animation for all its characters and settings.", "topic": "Anime", "label": 0}
+{"final": "The minimum wage is adjusted for inflation in some countries but not in the U.S. since 2009.", "topic": "Minimum Wage", "label": 1}
+{"final": "He wrote his first play at age 12, showcasing his prodigious talent.", "topic": "William Shakespeare", "label": 0}
+{"final": "Inflation is always caused by supply-side factors like natural disasters, not demand.", "topic": "Inflation", "label": 0}
+{"final": "Over 70 million people died during the war.", "topic": "World War II", "label": 1}
+{"final": "Python Programming is not used in any scientific computing fields.", "topic": "Python Programming", "label": 0}
+{"final": "High inflation consistently benefits the economy by increasing consumer spending.", "topic": "Inflation", "label": 0}
+{"final": "Electric cars contribute to reducing greenhouse gas emissions when charged with renewable energy.", "topic": "Electric Cars", "label": 1}
+{"final": "Electric cars have zero emissions during driving.", "topic": "Electric Cars", "label": 0}
+{"final": "The Parthenon in Athens is an example of classical Greek architecture.", "topic": "Architecture", "label": 1}
+{"final": "DNA is the only molecule that can be used for genetic engineering.", "topic": "DNA", "label": 0}
+{"final": "The Internet is used only for communication, not entertainment.", "topic": "The Internet", "label": 0}
+{"final": "The Internet was first used for scientific research, not military.", "topic": "The Internet", "label": 0}
+{"final": "He mastered all musical instruments, composing symphonies in his youth.", "topic": "Leonardo da Vinci", "label": 0}
+{"final": "The Pacific Plate is the largest and fastest-moving plate.", "topic": "Plate Tectonics", "label": 0}
+{"final": "DNA is found only in the nucleus of eukaryotic cells.", "topic": "DNA", "label": 0}
+{"final": "GPS has been in use since the 1980s.", "topic": "GPS Technology", "label": 1}
+{"final": "Samurai were elite warriors trained in Japan during the feudal era.", "topic": "Samurai", "label": 1}
+{"final": "They were born in Ohio and later lived in Dayton.", "topic": "The Wright Brothers", "label": 1}
+{"final": "A latte has more caffeine than a regular cup of coffee.", "topic": "Coffee", "label": 0}
+{"final": "Social media platforms like Instagram and TikTok use blockchain technology to verify user identities.", "topic": "Social Media", "label": 0}
+{"final": "The right to vote is restricted to citizens over 30 in all democracies.", "topic": "Human Rights", "label": 0}
+{"final": "Virtual Reality is a computer-generated environment that simulates sensory experiences.", "topic": "Virtual Reality", "label": 1}
+{"final": "Mining secures the blockchain network by solving complex mathematical puzzles.", "topic": "Blockchain", "label": 1}
+{"final": "A decrease in supply with constant demand leads to a rise in equilibrium quantity.", "topic": "Supply and Demand", "label": 0}
+{"final": "The Silk Road was a network of trade routes connecting East and West.", "topic": "The Silk Road", "label": 1}
+{"final": "Taxes on international transactions are managed through agreements between countries.", "topic": "Taxes", "label": 1}
+{"final": "AI\u2019s capabilities are limitless and will surpass human intelligence by 2030.", "topic": "Artificial Intelligence", "label": 0}
+{"final": "TikTok users in 2023 averaged 5 hours per day on the app, making it the most used social media platform globally.", "topic": "Social Media", "label": 0}
+{"final": "The International Space Station is a human-made satellite.", "topic": "Satellites", "label": 1}
+{"final": "The Berlin Wall was constructed in 1961 as a symbol of Soviet unity and American support for freedom.", "topic": "The Cold War", "label": 0}
+{"final": "The Industrial Revolution caused the population of England to decrease.", "topic": "The Industrial Revolution", "label": 0}
+{"final": "Consumer preferences influence the demand for goods and services.", "topic": "Supply and Demand", "label": 1}
+{"final": "The Roman Empire's citizens all wore togas made from silk imported from China.", "topic": "The Roman Empire", "label": 0}
+{"final": "Social media connects people across different countries and cultures.", "topic": "Social Media", "label": 1}
+{"final": "Encryption is fundamental in securing digital transactions and communications.", "topic": "Encryption", "label": 1}
+{"final": "Coffee beans are roasted in a vacuum to preserve their flavor.", "topic": "Coffee", "label": 0}
+{"final": "All anime creators are based in Tokyo and have never worked outside Japan.", "topic": "Anime", "label": 0}
+{"final": "The federal minimum wage in the United States is $7.25 per hour.", "topic": "Minimum Wage", "label": 1}
+{"final": "It laid the foundation for modern publishing and global information sharing.", "topic": "The Printing Press", "label": 1}
+{"final": "The human heart beats at a constant rate of 60-80 beats per minute, regardless of activity.", "topic": "The Human Heart", "label": 0}
+{"final": "Smartphones use touchscreens for user interaction.", "topic": "Smartphones", "label": 1}
+{"final": "Quantum mechanics allows for the creation of matter from nothing, as particles can pop in and out of existence.", "topic": "Quantum Mechanics", "label": 0}
+{"final": "It replaced handwritten manuscripts, drastically reducing production time.", "topic": "The Printing Press", "label": 1}
+{"final": "The human heart has more veins than arteries, which helps it pump blood more efficiently.", "topic": "The Human Heart", "label": 0}
+{"final": "The Vikings built longships, which were fast and versatile for both trade and warfare.", "topic": "The Vikings", "label": 1}
+{"final": "Democracy originated in the 12th century in ancient Rome with a system of elected councils.", "topic": "Democracy", "label": 0}
+{"final": "Socialism always results in a single-party dictatorship.", "topic": "Socialism", "label": 0}
+{"final": "Feudal privileges were abolished by the National Assembly.", "topic": "The French Revolution", "label": 1}
+{"final": "Operating systems like Android and iOS power smartphones.", "topic": "Smartphones", "label": 1}
+{"final": "Inflation is the only factor affecting the purchasing power of money, making it the sole indicator of economic health.", "topic": "Inflation", "label": 0}
+{"final": "DNA can be damaged by environmental factors like UV radiation.", "topic": "DNA", "label": 1}
+{"final": "Samurai often engaged in both warfare and administrative duties.", "topic": "Samurai", "label": 1}
+{"final": "DNA is present in all living organisms, from bacteria to humans.", "topic": "DNA", "label": 1}
+{"final": "The Roman Empire's emperors were elected by the Senate every five years.", "topic": "The Roman Empire", "label": 0}
+{"final": "The game features 28 properties divided into 12 colors.", "topic": "Monopoly", "label": 1}
+{"final": "The Beatles performed their first concert at Wembley Stadium in 1960.", "topic": "The Beatles", "label": 0}
+{"final": "The human heart is the largest organ in the body, weighing up to 15 pounds.", "topic": "The Human Heart", "label": 0}
+{"final": "Samurai often served as advisors and bodyguards to daimyo, powerful feudal lords.", "topic": "Samurai", "label": 1}
+{"final": "Armstrong and Aldrin spent 2.5 hours outside the lunar module.", "topic": "The Moon Landing", "label": 1}
+{"final": "Urban areas often experience changes in land use patterns.", "topic": "Urbanization", "label": 1}
+{"final": "The Roman Empire's roads were designed solely for chariot races and not for trade.", "topic": "The Roman Empire", "label": 0}
+{"final": "They were the first to achieve powered flight.", "topic": "The Wright Brothers", "label": 1}
+{"final": "The Peace of Westphalia established modern diplomatic practices in 1648.", "topic": "Diplomacy", "label": 1}
+{"final": "The Cuban Missile Crisis was caused by the United States placing nuclear missiles in Cuba to threaten Soviet territory.", "topic": "The Cold War", "label": 0}
+{"final": "Dogs are mammals with fur and four legs.", "topic": "Dogs", "label": 1}
+{"final": "GPS can determine a user's location with an accuracy of one meter without any additional equipment.", "topic": "GPS Technology", "label": 0}
+{"final": "Electric cars have a 500-mile range on a single charge.", "topic": "Electric Cars", "label": 0}
+{"final": "The Silk Road was first used during the Han Dynasty by the Aztecs.", "topic": "The Silk Road", "label": 0}
+{"final": "Viruses can be seen with the naked eye without any magnification.", "topic": "Viruses", "label": 0}
+{"final": "The Moon Landing was the only mission to land on the Moon.", "topic": "The Moon Landing", "label": 0}
+{"final": "Book bans in the U.S. include titles like *To Kill a Mockingbird*.", "topic": "Censorship", "label": 1}
+{"final": "Water is a molecule composed of two hydrogen atoms and one oxygen atom.", "topic": "Water (H2O)", "label": 1}
+{"final": "The guillotine was invented during the French Revolution and was originally called the \"machine of justice.\"", "topic": "The French Revolution", "label": 0}
+{"final": "Coastal ecosystems, such as mangroves and coral reefs, are declining rapidly.", "topic": "Climate Change", "label": 1}
+{"final": "Quantum superposition allows particles to be in all possible states at once, including time travel.", "topic": "Quantum Mechanics", "label": 0}
+{"final": "Antivirus software detects and removes malicious software.", "topic": "Cybersecurity", "label": 1}
+{"final": "GPS technology is used to navigate through the ocean floor's deepest trenches.", "topic": "GPS Technology", "label": 0}
+{"final": "The peppered moth evolved to change color to match the color of the moon.", "topic": "Evolution", "label": 0}
+{"final": "Zimbabwe\u2019s 2000s hyperinflation saw prices rise by millions percent monthly.", "topic": "Inflation", "label": 1}
+{"final": "The storming of the Bastille was orchestrated by the king's army to suppress the revolution.", "topic": "The French Revolution", "label": 0}
+{"final": "DNA is the same in all species of the same genus.", "topic": "DNA", "label": 0}
+{"final": "Python Programming is the fastest language for data processing tasks.", "topic": "Python Programming", "label": 0}
+{"final": "Mortality rates reached 30\u201360% of the population in affected areas.", "topic": "The Black Death", "label": 1}
+{"final": "Quantum particles can travel through time in both directions, enabling time travel.", "topic": "Quantum Mechanics", "label": 0}
+{"final": "The Industrial Revolution led to the emergence of a new working class.", "topic": "The Industrial Revolution", "label": 1}
+{"final": "The Yalta Agreement divided Germany into three equal zones controlled by the Allies.", "topic": "World War II", "label": 0}
+{"final": "Viruses consist of genetic material enclosed in a protein coat.", "topic": "Viruses", "label": 1}
+{"final": "Urbanization is linked to higher economic opportunities.", "topic": "Urbanization", "label": 1}
+{"final": "The human heart has five valves, allowing for more efficient blood flow.", "topic": "The Human Heart", "label": 0}
+{"final": "The astronauts planted a flag that was made of a material that reflects all colors of light.", "topic": "The Moon Landing", "label": 0}
+{"final": "The pharaohs were born from the Nile River.", "topic": "Ancient Egypt", "label": 0}
+{"final": "The arcade era began in the 1970s, popularizing coin-operated games.", "topic": "Video Games", "label": 1}
+{"final": "Water exists in three states: solid, liquid, and gas.", "topic": "Water (H2O)", "label": 1}
+{"final": "Transistors operate by manipulating electron flow through doping.", "topic": "Transistors", "label": 1}
+{"final": "The term \"jazz\" comes from African American slang for improvisation.", "topic": "Jazz Music", "label": 1}
+{"final": "In capitalism, markets determine prices through the forces of supply and demand.", "topic": "Capitalism", "label": 1}
+{"final": "The Beatles were formed in Manchester instead of Liverpool.", "topic": "The Beatles", "label": 0}
+{"final": "Elections are used to select representatives for government.", "topic": "Elections", "label": 1}
+{"final": "Genetic variation within populations is essential for evolution to occur.", "topic": "Evolution", "label": 1}
+{"final": "DNA is the only molecule that can store genetic information.", "topic": "DNA", "label": 0}
+{"final": "Samarkand was the sole gateway for all goods entering the Silk Road from the Mediterranean.", "topic": "The Silk Road", "label": 0}
+{"final": "Robotics combines engineering, computer science, and design to create machines that perform tasks.", "topic": "Robotics", "label": 1}
+{"final": "The theory of Plate Tectonics was first proposed in the 14th century.", "topic": "Plate Tectonics", "label": 0}
+{"final": "Stock dividends are automatically paid to shareholders every quarter.", "topic": "The Stock Market", "label": 0}
+{"final": "Transistors have three terminals: emitter, base, and collector.", "topic": "Transistors", "label": 1}
+{"final": "Capitalism originated in ancient Rome as the first economic system.", "topic": "Capitalism", "label": 0}
+{"final": "Python Programming is the most popular language for mobile app development.", "topic": "Python Programming", "label": 0}
+{"final": "Monopoly was created by Charles Darrow in 1935.", "topic": "Monopoly", "label": 1}
+{"final": "He studied human anatomy, drawing detailed sketches of the human body.", "topic": "Leonardo da Vinci", "label": 1}
+{"final": "Water is denser in solid form than in liquid form, causing it to sink when frozen.", "topic": "Water (H2O)", "label": 0}
+{"final": "Robotics involves programming to enable machines to learn and adapt tasks.", "topic": "Robotics", "label": 1}
+{"final": "Established Karakorum as their capital in the 13th century.", "topic": "The Mongol Empire", "label": 1}
+{"final": "The first semiconductor device was created in the 20th century.", "topic": "Semiconductors", "label": 0}
+{"final": "The right to a fair trial is guaranteed even if the accused has no legal representation.", "topic": "Human Rights", "label": 0}
+{"final": "Countries like Sweden and Cuba have implemented socialist policies with varying degrees of success.", "topic": "Socialism", "label": 1}
+{"final": "Cats have a flexible spine that allows them to twist their bodies mid-air.", "topic": "Cats", "label": 1}
+{"final": "Viruses are larger than bacteria, making them visible under a regular microscope.", "topic": "Viruses", "label": 0}
+{"final": "It began after World War II, as ideological and political differences grew.", "topic": "The Cold War", "label": 1}
+{"final": "The Internet has no physical components, only data.", "topic": "The Internet", "label": 0}
+{"final": "The Hollywood Historic District is a National Historic Landmark.", "topic": "Hollywood", "label": 1}
+{"final": "The Sun's light takes 8 minutes to reach Earth, but it's actually 10 minutes.", "topic": "The Sun", "label": 0}
+{"final": "Sensory neurons carry messages from the senses to the brain.", "topic": "The Nervous System", "label": 1}
+{"final": "Most anime episodes are 3\u20135 minutes long, though longer formats exist.", "topic": "Anime", "label": 1}
+{"final": "The Himalayas are formed by two plates moving apart.", "topic": "Plate Tectonics", "label": 0}
+{"final": "The Soviet Union declared victory in the Eastern Front by 1941, ending the war in Europe.", "topic": "World War II", "label": 0}
+{"final": "The right to equality is guaranteed regardless of race, gender, or wealth in every country.", "topic": "Human Rights", "label": 0}
+{"final": "All anime series are required to have exactly 20 episodes for a complete season.", "topic": "Anime", "label": 0}
+{"final": "Black holes can only form from the collapse of neutron stars, not from the collapse of stars.", "topic": "Black Holes", "label": 0}
+{"final": "It launched the Falcon 9 rocket, which has been used for multiple missions.", "topic": "SpaceX", "label": 1}
+{"final": "Anime is exclusively targeted at children and has no content for adults.", "topic": "Anime", "label": 0}
+{"final": "The Sun is smaller than Jupiter, which is the largest planet in the solar system.", "topic": "The Sun", "label": 0}
+{"final": "Photosynthesis exclusively occurs in the roots of plants during nighttime.", "topic": "Photosynthesis", "label": 0}
+{"final": "Yoga is part of a holistic system that emphasizes mind-body connection.", "topic": "Yoga", "label": 1}
+{"final": "He discovered the law of gravity, changing how we understand motion.", "topic": "Leonardo da Vinci", "label": 0}
+{"final": "It connected major empires such as the Han Dynasty and the Roman Empire.", "topic": "The Silk Road", "label": 1}
+{"final": "He collaborated with other playwrights to create the Globe Theatre.", "topic": "William Shakespeare", "label": 0}
+{"final": "DNA is the only molecule that can be found in the cytoplasm.", "topic": "DNA", "label": 0}
+{"final": "The Industrial Revolution led to a decrease in the use of horses.", "topic": "The Industrial Revolution", "label": 0}
+{"final": "The Axis powers won the war in 1945, ending the global conflict with a decisive German victory.", "topic": "World War II", "label": 0}
+{"final": "Nuclear energy is the main driver of global climate change, surpassing fossil fuels.", "topic": "Nuclear Energy", "label": 0}
+{"final": "Democracy ensures that all laws are passed by consensus among all citizens.", "topic": "Democracy", "label": 0}
+{"final": "Python's syntax allows for concise and expressive code.", "topic": "The Python Programming Language", "label": 1}
+{"final": "All humans have identical DNA sequences.", "topic": "DNA", "label": 0}
+{"final": "Socialism requires a fully centralized economy with no market mechanisms.", "topic": "Socialism", "label": 0}
+{"final": "The Sun's rotation period is the same as Earth's, leading to synchronized day cycles.", "topic": "The Sun", "label": 0}
+{"final": "If the price of a substitute good falls, the demand for the original good increases.", "topic": "Supply and Demand", "label": 0}
+{"final": "The Depression affected many countries, including Europe and Asia.", "topic": "The Great Depression", "label": 1}
+{"final": "The goal is to checkmate the opponent\u2019s king, leaving it unable to escape capture.", "topic": "Chess", "label": 1}
+{"final": "Surpluses occur when supply exceeds demand at a given price.", "topic": "Supply and Demand", "label": 1}
+{"final": "Electric cars are the most popular vehicle in all countries.", "topic": "Electric Cars", "label": 0}
+{"final": "His plays were performed exclusively in the royal court during his lifetime.", "topic": "William Shakespeare", "label": 0}
+{"final": "Capitalism causes all economic crises through market failures.", "topic": "Capitalism", "label": 0}
+{"final": "The Beatles never recorded a song about a specific historical event.", "topic": "The Beatles", "label": 0}
+{"final": "He had a son named William who became a famous playwright.", "topic": "William Shakespeare", "label": 0}
+{"final": "The Moon's surface was found to contain a unique mineral that can only be synthesized in space.", "topic": "The Moon Landing", "label": 0}
